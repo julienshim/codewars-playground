@@ -6,4 +6,4 @@ function findSum(n) {
       }
     }
     return sum;
-  }
+}

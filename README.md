@@ -1,6 +1,6 @@
 # Codewars Playground
 
-A repository of personal HackerRank solutions.
+A repository of personal Codewars solutions.
 
 ## Table of Contents
 

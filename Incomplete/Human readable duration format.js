@@ -50,10 +50,16 @@ function second(t) {
 
 // Test Cases Not Passing
 /*
+formatDuration(132113944);
 Expected: '4 years, 68 days, 3 hours and 4 minutes', instead got: '4 years, 67 days, 3 hours, 4 minutes'
+formatDuration(205977390);
 Expected: '6 years, 192 days, 13 hours, 3 minutes and 54 seconds', instead got: '6 years, 191 days, 1 hour, 3 minutes and 54 seconds'
+formatDuration(253541469);
 Expected: '8 years, 12 days, 13 hours, 41 minutes and 1 second', instead got: '8 years, 10 days, 13 hours, 41 minutes and 1 second'
+formatDuration(242208856);
 Expected: '7 years, 246 days, 15 hours, 32 minutes and 54 seconds', instead got: '7 years, 244 days, 21 hours, 32 minutes and 54 seconds'
+formatDuration(102018944);
 Expected: '3 years, 85 days, 1 hour, 9 minutes and 26 seconds', instead got: '3 years, 84 days, 7 hours, 9 minutes and 26 seconds'
+formatDuration(33264512);
 Expected: '1 year, 19 days, 18 hours, 19 minutes and 46 seconds', instead got: '1 year, 19 days, 12 hours, 19 minutes and 46 seconds'
 */

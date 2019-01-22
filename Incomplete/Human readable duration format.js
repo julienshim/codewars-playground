@@ -46,3 +46,14 @@ function second(t) {
     let plural = t === 1 ? "second" : "seconds";
     return `${t} ${plural}`;
 }
+
+
+// Test Cases Not Passing
+/*
+Expected: '4 years, 68 days, 3 hours and 4 minutes', instead got: '4 years, 67 days, 3 hours, 4 minutes'
+Expected: '6 years, 192 days, 13 hours, 3 minutes and 54 seconds', instead got: '6 years, 191 days, 1 hour, 3 minutes and 54 seconds'
+Expected: '8 years, 12 days, 13 hours, 41 minutes and 1 second', instead got: '8 years, 10 days, 13 hours, 41 minutes and 1 second'
+Expected: '7 years, 246 days, 15 hours, 32 minutes and 54 seconds', instead got: '7 years, 244 days, 21 hours, 32 minutes and 54 seconds'
+Expected: '3 years, 85 days, 1 hour, 9 minutes and 26 seconds', instead got: '3 years, 84 days, 7 hours, 9 minutes and 26 seconds'
+Expected: '1 year, 19 days, 18 hours, 19 minutes and 46 seconds', instead got: '1 year, 19 days, 12 hours, 19 minutes and 46 seconds'
+*/

@@ -1,5 +1,7 @@
+var BigNumber = require('bignumber.js');
+
 function factorial(n){
-  return f(n).toString();
+  return f(n).toFixed();
   
   function f(n) {
     if (n < 0) {
@@ -7,9 +9,8 @@ function factorial(n){
     } else if (n === 0) {
       return 1;
     } else {
-    return n * factorial(n-1);
+    return new BigNumber(n).times(factorial(n-1));
     };
   };
 };
 
-// This has been idiotic so far...

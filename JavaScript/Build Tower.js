@@ -1,9 +1,7 @@
 function towerBuilder(nFloors) {
   // build here
   let base = nFloors * 2 - 1;
-  console.log("base", base);
   let stairs = [];
-
   for (let i = 0; i <= base; i = i + 2) {
     let stars = [];
     for (let j = 0; j <= i; j++) {

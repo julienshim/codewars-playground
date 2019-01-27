@@ -1,65 +1,57 @@
 function formatDuration(seconds) {
-
-  let time = seconds;
   // Complete this function
-
-  if (time >= 31557600) {
-     return year(time);
-  } else if (time >= 86400) { 
-     return day(time);
-  } else if (time >= 3600) {
-     return hour(time);
-  } else if (time >= 60) {
-     return minute(time);
+  if (seconds === 0) {
+    return "now";
+  } else if (seconds >= 31536000) {
+    return year(seconds);
+  } else if (seconds >= 86400) {
+    return day(seconds);
+  } else if (seconds >= 3600) {
+    return hour(seconds);
+  } else if (seconds >= 60) {
+    return minute(seconds);
   } else {
-    if (time === 0) {
-      return 'now';
-    }
-    return second(time);
+    return second(seconds);
   }
-  
 }
 
 function year(t) {
-
-   let plural = Math.floor(t/31557600) === 1 ? "year" : "years";
-   return t % 31557600 === 0 ? `${t/31557600} ${plural}` : `${Math.floor(t/31557600)} ${plural}, ${day(t%31557600)}`;
-
+  let plural = Math.floor(t / 31557600) === 1 ? "year" : "years";
+  let difference = t % 31536000;
+  let command = difference % 86400 === 0 ? " and" : ",";
+  return t % 31557600 === 0
+    ? `${t / 31557600} ${plural}`
+    : `${Math.floor(t / 31536000)} ${plural}${command} ${day(difference)}`;
 }
 
 function day(t) {
-   let plural = Math.floor(t/86400) === 1 ? "day" : "days";
-   return t % 86400 === 0 ? `${t/86400} ${plural}` : `${Math.floor(t/86400)} ${plural}, ${hour(t%86400)}`;
+  let plural = Math.floor(t / 86400) === 1 ? "day" : "days";
+  let difference = t % 86400;
+  let command = difference % 3600 === 0 ? " and" : ",";
+  return t % 86400 === 0
+    ? `${t / 86400} ${plural}`
+    : `${Math.floor(t / 86400)} ${plural}${command} ${hour(difference)}`;
 }
 
 function hour(t) {
-   let plural = Math.floor(t/3600) === 1 ? "hour" : "hours";
-   return t % 3600 === 0 ? `${t/3600} ${plural}` : `${Math.floor(t/3600)} ${plural}, ${minute(t%3600)}`;
+  let plural = Math.floor(t / 3600) === 1 ? "hour" : "hours";
+  let difference = t % 3600;
+  let command = difference % 60 === 0 ? " and" : ",";
+  return t % 3600 === 0
+    ? `${t / 3600} ${plural}`
+    : `${Math.floor(t / 3600)} ${plural}${command} ${minute(difference)}`;
 }
 
 function minute(t) {
-    let plural = Math.floor(t/60) === 1 ? "minute" : "minutes";
-      return t % 60 === 0 ? `${t/60} ${plural}` : `${Math.floor(t/60)} ${plural} and ${second(t%60)}`
+  let plural = Math.floor(t / 60) === 1 ? "minute" : "minutes";
+  let difference = t % 60;
+  let command = difference % 1 === 0 ? " and" : ",";
+  return t % 60 === 0
+    ? `${t / 60} ${plural}`
+    : `${Math.floor(t / 60)} ${plural}${command} ${second(difference)}`;
 }
 
 function second(t) {
-    let plural = t === 1 ? "second" : "seconds";
-    return `${t} ${plural}`;
+  let plural = t === 1 ? "second" : "seconds";
+  return `${t} ${plural}`;
 }
-
-
-// Test Cases Not Passing
-/*
-formatDuration(132113944);
-Expected: '4 years, 68 days, 3 hours and 4 minutes', instead got: '4 years, 67 days, 3 hours, 4 minutes'
-formatDuration(205977390);
-Expected: '6 years, 192 days, 13 hours, 3 minutes and 54 seconds', instead got: '6 years, 191 days, 1 hour, 3 minutes and 54 seconds'
-formatDuration(253541469);
-Expected: '8 years, 12 days, 13 hours, 41 minutes and 1 second', instead got: '8 years, 10 days, 13 hours, 41 minutes and 1 second'
-formatDuration(242208856);
-Expected: '7 years, 246 days, 15 hours, 32 minutes and 54 seconds', instead got: '7 years, 244 days, 21 hours, 32 minutes and 54 seconds'
-formatDuration(102018944);
-Expected: '3 years, 85 days, 1 hour, 9 minutes and 26 seconds', instead got: '3 years, 84 days, 7 hours, 9 minutes and 26 seconds'
-formatDuration(33264512);
-Expected: '1 year, 19 days, 18 hours, 19 minutes and 46 seconds', instead got: '1 year, 19 days, 12 hours, 19 minutes and 46 seconds'
-*/

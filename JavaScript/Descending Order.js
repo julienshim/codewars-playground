@@ -1,4 +1,4 @@
 function descendingOrder(n){
   //...
-  return parseInt(`${n}`.split("").sort().reverse().join(""), 10);
+  return parseInt(n.toString().split("").sort().reverse().join(""), 10);
 }

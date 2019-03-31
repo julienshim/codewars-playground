@@ -5,4 +5,4 @@ function circleOfNumbers(n, firstNumber) {
   return n > opposite ? opposite : Math.abs(firstNumber - half)
 }
 
-// Simple Fun #2: Circle of Numbers
+// 7 kyu Simple Fun #2: Circle of Numbers

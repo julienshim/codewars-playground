@@ -4,30 +4,79 @@ A repository of personal Codewars solutions.
 
 ## Table of Contents
 
-### JavaScript
+### Kata
 
-- [A function within a function]()
-- [A Needle in the Haystack](https://github.com/julienshim/Codewars/blob/master/JavaScript/A%20Needle%20in%20the%20Haystack.js)
-- [Array.diff]()
-- [Build Tower]()
-- [Complimentary DNA]()
-- [Correct the time-string]()
-- [Count all the sheep on farm in the heights of New Zealand]()
-- [Count the smiley faces!](https://github.com/julienshim/Codewars/blob/master/JavaScript/Count%20the%20smiley%20faces!.js)
-- [Decipher this!]()
-- [Equal Sides Of An Array]()
-- [Find the odd int]()
-- [Find the stray number.](https://github.com/julienshim/Codewars/blob/master/JavaScript/Find%20the%20stray%20number.js)
-- [Friend or Foe?]()
-- [Fizz Buzz](https://github.com/julienshim/Codewars/blob/master/JavaScript/Fizz%20Buzz.js)
-- [Friend or Foe?](https://github.com/julienshim/Codewars/blob/master/JavaScript/Friend%20or%20Foe%3F.js)
-- [Keep Hydrated!](https://github.com/julienshim/Codewars/blob/master/JavaScript/Keep%20Hydrated!.js)
-- [Multiple](https://github.com/julienshim/Codewars/blob/master/JavaScript/Multiple.js)
-- [Multiples of 3 or 5](https://github.com/julienshim/Codewars/blob/master/JavaScript/Multiples%20of%203%20or%205.js)
-- [RGB To Hex Conversion](https://github.com/julienshim/Codewars/blob/master/JavaScript/RGB%20To%20Hex%20Conversion.js)
-- [Remove the minimum](https://github.com/julienshim/Codewars/blob/master/JavaScript/Remove%20the%20minimum.js)
-- [Rot13](https://github.com/julienshim/Codewars/blob/master/JavaScript/Rot13.js)
-- [Sum of all the multiples of 3 or 5](https://github.com/julienshim/Codewars/blob/master/JavaScript/Sum%20of%20all%20the%20multiples%20of%203%20or%205.js)
-- [Take a Ten Minute Walk](https://github.com/julienshim/Codewars/blob/master/JavaScript/Take%20a%20Ten%20Minute%20Walk.js)
-- [You only need one - Beginner](https://github.com/julienshim/Codewars/blob/master/JavaScript/You%20only%20need%20one%20-%20Beginner.js)
-- [You're a square!](https://github.com/julienshim/Codewars/blob/master/JavaScript/You're%20a%20square!.js)
+[4 kyu]
+
+- Human readable duration format
+- Large Factorials
+
+[5 kyu]
+
+- RGB To Hex Conversion
+- Regex Password Validation
+- Rot13
+
+[6 kyu]
+
+- Are they the "same"?
+- Array.diff
+- Build Tower
+- Count characters in your string
+- Count the smiley faces!
+- Counting Duplicates
+- Decipher this!
+- Duplicate Encoder
+- Equal Sides Of An Array
+- Fibonacci, Tribonacci and friends
+- Find the odd int
+- Multiples of 3 or 5
+- Persistent Bugger.
+- Playing with digits
+- Reverse every other word in the string
+- Take a Ten Minute Walk
+- Tribonacci Sequence
+- Unique In Order
+- Who likes it?
+- Your order, please
+
+[7 kyu]
+
+- Binary Addition
+- Complementary DNA
+- Correct the time-string
+- Count all the sheep on farm in the heights of New Zealand
+- Count the Digit
+- Descending Order
+- Disemvowel Trolls
+- Find the stray number
+- Fizz Buzz Cuckoo Clock
+- Fizz Buzz
+- Friend or Foe?
+- Get the Middle Character
+- Highest and Lowest
+- Is It Negative Zero (-0)?
+- Jaden Casing Strings
+- Money, Money, Money
+- Mumbling
+- Printer Errors
+- Remove the minimum
+- Square Every Digit
+- Sum of all the multiples of 3 or 5
+- Vowel Count
+
+[8 kyu]
+
+- A Needle in the Haystack
+- A function within a function
+- Double Char
+- Even or Odd
+- Find the smallest integer in the array
+- How many stairs will Suzuki climb in 20 years?
+- Keep Hydrated!
+- Multiply
+- Remove First and Last Character
+- Remove String Spaces
+- Simple Fun #1: Seats in Theater
+- You only need one - Beginner
+- You're a square!

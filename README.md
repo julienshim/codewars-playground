@@ -54,7 +54,7 @@ A repository of personal Codewars solutions.
 - Fizz Buzz Cuckoo Clock [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Fizz%20Buzz%20Cuckoo%20Clock.js)
 - Fizz Buzz [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Fizz%20Buzz.js)
 - Friend or Foe? [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Friend%20or%20Foe.js)
-- Gauß needs help! (Sums of a lot of numbers). [[.py]](<https://github.com/julienshim/Codewars-Playground/blob/master/Python/7%20kyu/Gau%C3%9F%20needs%20help!%20(Sums%20of%20a%20lot%20of%20numbers).py>)
+- Gauß needs help! (Sums of a lot of numbers). [[.py]](https://github.com/julienshim/Codewars-Playground/blob/master/Python/7%20kyu/Gau%C3%9F%20needs%20help%20-%20Sums%20of%20a%20lot%20of%20numbers.py)
 - Get the Middle Character [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Get%20the%20Middle%20Character.js)
 - Highest and Lowest [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Highest%20and%20Lowest.js)
 - Is It Negative Zero (-0)? [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Is%20It%20Negative%20Zero%20-0.js)

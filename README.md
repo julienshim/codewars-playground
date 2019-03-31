@@ -53,6 +53,7 @@ A repository of personal Codewars solutions.
 - Fizz Buzz Cuckoo Clock [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Fizz%20Buzz%20Cuckoo%20Clock.js)
 - Fizz Buzz [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Fizz%20Buzz.js)
 - Friend or Foe? [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Friend%20or%20Foe.js)
+- Gauß needs help! (Sums of a lot of numbers).
 - Get the Middle Character [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Get%20the%20Middle%20Character.js)
 - Highest and Lowest [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Highest%20and%20Lowest.js)
 - Is It Negative Zero (-0)? [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Is%20It%20Negative%20Zero%20-0.js)
@@ -69,14 +70,24 @@ A repository of personal Codewars solutions.
 
 - A function within a function [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/A%20Needle%20in%20the%20Haystack.js)
 - A Needle in the Haystack [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/A%20function%20within%20a%20function.js)
+- Basic Mathematical Operations
+- Closest elevator
+- Convert boolean values to strings 'Yes' or 'No'.
+- Count of positives / sum of negatives
+- Counting sheep...
 - Double Char [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Double%20Char.js)
 - Even or Odd [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Even%20or%20Odd.js)
 - Find the smallest integer in the array [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Find%20the%20smallest%20integer%20in%20the%20array.js)
+- Grasshopper - Summation
 - How many stairs will Suzuki climb in 20 years? [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/How%20many%20stairs%20will%20Suzuki%20climb%20in%2020%20years.js)
 - Keep Hydrated! [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Keep%20Hydrated.js)
+- MakeUpperCase
 - Multiply [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Multiply.js)
+- Return Negative
 - Remove First and Last Character [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Remove%20First%20and%20Last%20Character.js)
 - Remove String Spaces [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Remove%20String%20Spaces.js)
+- Rock Paper Scissors!
 - Simple Fun #1: Seats in Theater [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Simple%20Fun%201%20-%20Seats%20in%20Theater.js)
-- You only need one - Beginner [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/You%20only%20need%20one%20-%20Beginner.js)
+- Total amount of points
+- You only need one - Beginner [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/You%20only%20need%20one%20-%20Beginner.js) [[.py]]()
 - You're a square! [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/You're%20a%20square.js)

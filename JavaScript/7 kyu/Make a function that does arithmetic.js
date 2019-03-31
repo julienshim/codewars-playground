@@ -17,5 +17,3 @@ function arithmetic(a, b, operator){
         return "Not a valid operator."
     }
   }
-
-  // Make a function that does arithmetic! 7 - kyu

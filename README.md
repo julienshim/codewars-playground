@@ -48,6 +48,7 @@ A repository of personal Codewars solutions.
 - Count all the sheep on farm in the heights of New Zealand [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Count%20all%20the%20sheep%20on%20farm%20in%20the%20heights%20of%20New%20Zealand.js)
 - Count the Digit [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Count%20the%20Digit.js)
 - Descending Order [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Descending%20Order.js)
+- Don't give me five!
 - Disemvowel Trolls [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Disemvowel%20Trolls.js)
 - Find the stray number [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Find%20the%20stray%20number.js)
 - Fizz Buzz Cuckoo Clock [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Fizz%20Buzz%20Cuckoo%20Clock.js)
@@ -64,6 +65,7 @@ A repository of personal Codewars solutions.
 - Remove the minimum [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Remove%20the%20minimum.js)
 - Square Every Digit [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Square%20Every%20Digit.js)
 - Sum of all the multiples of 3 or 5 [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Sum%20of%20all%20the%20multiples%20of%203%20or%205.js)
+- Sum of two lowest positive integers
 - Vowel Count [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Vowel%20Count.js)
 
 [8 kyu]
@@ -71,23 +73,39 @@ A repository of personal Codewars solutions.
 - A function within a function [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/A%20Needle%20in%20the%20Haystack.js)
 - A Needle in the Haystack [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/A%20function%20within%20a%20function.js)
 - Basic Mathematical Operations [[.py]](https://github.com/julienshim/Codewars-Playground/blob/master/Python/Basic%20Mathematical%20Operations.py)
+- Beginner - Lost Without a Map [[.swift]]()
+- Calculate BMI [[.swift]]()
 - Closest elevator [[.py]](https://github.com/julienshim/Codewars-Playground/blob/master/Python/Closest%20elevator.py)
+- Convert a Boolean to a String [[.swift]]()
 - Convert boolean values to strings 'Yes' or 'No'. [[.py]](https://github.com/julienshim/Codewars-Playground/blob/master/Python/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'.py)
+- Convert number to reversed array of digits [[.swift]]()
 - Count of positives / sum of negatives [[.py]](https://github.com/julienshim/Codewars-Playground/blob/master/Python/Count%20of%20positives%2C%20sum%20of%20negatives.py)
 - Counting sheep... [[.py]](https://github.com/julienshim/Codewars-Playground/blob/master/Python/Counting%20Sheep.py)
+- Dollars and Cents [[.swift]]()
 - Double Char [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Double%20Char.js)
-- Even or Odd [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Even%20or%20Odd.js)
+- Even or Odd [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Even%20or%20Odd.js) [[.swift]]()
 - Find the smallest integer in the array [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Find%20the%20smallest%20integer%20in%20the%20array.js)
+- Function 3 - multiplying two numbers [[.swift]]()
+- Grasshopper - Personalized Message [[.swift]]()
 - Grasshopper - Summation [[.py]](https://github.com/julienshim/Codewars-Playground/blob/master/Python/Grasshopper%20-%20Summation.py)
 - How many stairs will Suzuki climb in 20 years? [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/How%20many%20stairs%20will%20Suzuki%20climb%20in%2020%20years.js)
 - Keep Hydrated! [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Keep%20Hydrated.js)
 - MakeUpperCase [[.py]](https://github.com/julienshim/Codewars-Playground/blob/master/Python/MakeUpperCase.py)
-- Multiply [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Multiply.js)
+- Multiply [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Multiply.js) [[.swift]]()
+- Opposite number
 - Return Negative [[.py]](https://github.com/julienshim/Codewars-Playground/blob/master/Python/Return%20Negative.py)
 - Remove First and Last Character [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Remove%20First%20and%20Last%20Character.js)
 - Remove String Spaces [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Remove%20String%20Spaces.js)
 - Rock Paper Scissors! [[.py]](https://github.com/julienshim/Codewars-Playground/blob/master/Python/Rock%20Paper%20Scissors!.py)
+- Simple multiplication
 - Simple Fun #1: Seats in Theater [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Simple%20Fun%201%20-%20Seats%20in%20Theater.js)
+- SQL Basics: Simple WHERE and ORDER BY [[.sql]]()
+- String repeat
+- Stringy Strings
+- Sum of positive
+- Switch it Up!
+- To square(root) or not to square(root)
 - Total amount of points [[.py]](https://github.com/julienshim/Codewars-Playground/blob/master/Python/Total%20amount%20of%20points.py)
-- You only need one - Beginner [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/You%20only%20need%20one%20-%20Beginner.js) [[.py]](https://github.com/julienshim/Codewars-Playground/blob/master/Python/You%20only%20need%20one-Beginner.py)
+- Transportation on vacation
+- You only need one - Beginner [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/You%20only%20need%20one%20-%20Beginner.js) [[.py]](https://github.com/julienshim/Codewars-Playground/blob/master/Python/You%20only%20need%20one-Beginner.py) [[.swift]]()
 - You're a square! [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/You're%20a%20square.js)

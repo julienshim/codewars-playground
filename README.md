@@ -50,6 +50,7 @@ A repository of personal Codewars solutions.
 - Descending Order [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Descending%20Order.js)
 - Don't give me five!
 - Disemvowel Trolls [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Disemvowel%20Trolls.js)
+- Easy wallpaper [[.swift]](https://github.com/julienshim/Codewars-Playground/blob/master/Swift/7%20kyu/Easy%20wallpaper.swift)
 - Find the stray number [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Find%20the%20stray%20number.js)
 - Fizz Buzz Cuckoo Clock [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Fizz%20Buzz%20Cuckoo%20Clock.js)
 - Fizz Buzz [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Fizz%20Buzz.js)

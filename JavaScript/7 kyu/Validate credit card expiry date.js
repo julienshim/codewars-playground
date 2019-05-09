@@ -3,6 +3,8 @@ function checkExpiryValid (date) {
   const validExp = /[\d]{2}[/][\d]{2,4}/g.test(date)
   const exp = validExp && date.split("/");
   const today = [new Date().getMonth(), new Date().getFullYear()];
-  console.log("v", validExp, "e", `20${exp[1]}`, "t", today[1]);
-  return exp[0] > today[0] && parseInt(`20${exp[1]}`, 10) > today[1] && validExp
+  const formatYear = `${exp[1]}`.length === 2 ? '20' : '';
+  const expYear = parseInt(`${formatYear}${exp[1]}`, 10);
+  const expMonth = parseInt(exp[0], 10)
+  return expYear + expMonth > today[0] + today[1] && expYear >= today[1] && validExp
 }

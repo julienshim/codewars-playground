@@ -117,7 +117,7 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Complementary%20DNA.js)
 - Correct the time-string [&#128279;](https://www.codewars.com/kata/57873ab5e55533a2890000c7)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Correct%20the%20time-string.js)
-- Count all the sheep on farm in the heights of New Zealand [&#128279;]https://www.codewars.com/kata/58e0f0bf92d04ccf0a000010)
+- Count all the sheep on farm in the heights of New Zealand [&#128279;](https://www.codewars.com/kata/58e0f0bf92d04ccf0a000010)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Count%20all%20the%20sheep%20on%20farm%20in%20the%20heights%20of%20New%20Zealand.js)
 - Count the Digit [&#128279;](https://www.codewars.com/kata/566fc12495810954b1000030)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Count%20the%20Digit.js)

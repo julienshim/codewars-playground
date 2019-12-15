@@ -1,181 +1,192 @@
-- Alan Partridge I - Partridge Watch [&#128279;](https://www.codewars.com/kata/5808c8eff0ed4210de000008) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Alan%20Partridge%20I%20-%20Partridge%20Watch.js)
-
-- Alan Partridge III - London [&#128279;](https://www.codewars.com/kata/580a41b6d6df740d6100030c) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Alan%20Partridge%20III%20-%20London.js)
-
-- Array comparator [&#128279;](https://www.codewars.com/kata/561046a9f629a8aac000001d) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Array%20comparator.js)
-
-- Basic Math (Add or Subtract) [&#128279;](https://www.codewars.com/kata/5809b62808ad92e31b000031) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Basic%20Math%20Add%20or%20Subtract.js)
-
-- Beginner Series #3 Sum of Numbers [&#128279;](https://www.codewars.com/kata/55f2b110f61eb01779000053) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Beginner%20Series%203%20Sum%20of%20Numbers.js)
-
-- Beginner- Reduce but Grow [&#128279;]() [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Beginner-%20Reduce%20but%20Grow.js)
-
-- Binary Addition [&#128279;]() [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Binary%20Addition.js)
-
-- Breaking chocolate problem [&#128279;]() [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Breaking%20chocolate%20problem.js)
-
-- By 3 or not by 3 That is the question [&#128279;]() [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/By%203%20or%20not%20by%203%20That%20is%20the%20question.js)
-
-- Categorize New Member [&#128279;]() [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Categorize%20New%20Member.js)
-
-- Complementary DNA [&#128279;]() [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Complementary%20DNA.js)
-
-- Correct the time-string [&#128279;]() [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Correct%20the%20time-string.js)
-
-- Count all the sheep on farm in the heights of New Zealand [&#128279;]() [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Count%20all%20the%20sheep%20on%20farm%20in%20the%20heights%20of%20New%20Zealand.js)
-
-- Count the Digit [&#128279;]() [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Count%20the%20Digit.js)
-
-- Credit Card Mask [&#128279;]() [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Credit%20Card%20Mask.js)
-
-- Descending Order [&#128279;]() [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Descending%20Order.js)
-
-- Disemvowel Trolls [&#128279;]() [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Disemvowel%20Trolls.js)
-
-- Divide and Conquer [&#128279;]() [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Divide%20and%20Conquer.js)
-
-- Double Sort [&#128279;]() [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Double%20Sort.js)
-
-- Easy wallpaper [&#128279;]() [[.swift]](https://github.com/julienshim/Codewars-Playground/blob/master/Swift/7%20kyu/Easy%20wallpaper.swift)
-
-- Even numbers in an array [&#128279;]() [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Even%20numbers%20in%20an%20array.js)
-
-- Exclamation marks series 3 - Remove all exclamation marks from sentence except at the end [&#128279;]() [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Exclamation%20marks%20series%203%20-%20Remove%20all%20exclamation%20marks%20from%20sentence%20except%20at%20the%20end)
-
-- Exes and Ohs [&#128279;]() [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Exes%20and%20Ohs.js)
-
-- Factorial (1) [&#128279;](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Factorial%20(1).js)
-
-- Factorial [&#128279;](https://www.codewars.com/kata/57a049e253ba33ac5e000212) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Factorial.js)
-
-- Find the Square Root [&#128279;](https://www.codewars.com/kata/56426b4e971f01fd2f00005b) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Find%20the%20Square%20Root.js) [[.swift]]()
-
-- Find the divisors! [&#128279;](https://www.codewars.com/kata/544aed4c4a30184e960010f4) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Find%20the%20divisors.js)
-
-- Find the next perfect square! [&#128279;](https://www.codewars.com/kata/56269eb78ad2e4ced1000013) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Find%20the%20next%20perfect%20square.js)
-
-- Create Find the nth Digit of a Number [&#128279;](https://www.codewars.com/kata/577b9960df78c19bca00007e) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Find%20the%20nth%20Digit%20of%20a%20Number.js)
-
-- Find the stray number [&#128279;](https://www.codewars.com/kata/57f609022f4d534f05000024) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Find%20the%20stray%20number.js)
-
-- Fizz Buzz Cuckoo Clock [&#128279;](https://www.codewars.com/kata/58485a43d750d23bad0000e6) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Fizz%20Buzz%20Cuckoo%20Clock.js)
-
-- Fizz Buzz [&#128279;](https://www.codewars.com/kata/5300901726d12b80e8000498) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Fizz%20Buzz.js)
-
-- Flatten and sort an array [&#128279;](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Flatten%20and%20sort%20an%20array.js)
-
-- Form The Minimum [&#128279;](https://www.codewars.com/kata/5ac6932b2f317b96980000ca) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Form%20The%20Minimum.js)
-
-- Friend or Foe? [&#128279;](https://www.codewars.com/kata/55b42574ff091733d900002f) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Friend%20or%20Foe.js)
-
-- Gauß needs help! (Sums of a lot of numbers). [&#128279;]() [[.py]](https://github.com/julienshim/Codewars-Playground/blob/master/Python/7%20kyu/Gau%C3%9F%20needs%20help%20-%20Sums%20of%20a%20lot%20of%20numbers.py)
-
-- Get list sum recursively [&#128279;](https://www.codewars.com/kata/57a84137cf1fa5f9f80000d6) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Get%20list%20sum%20recursively.js)
-
-- Get the Middle Character [&#128279;](https://www.codewars.com/kata/56747fd5cb988479af000028) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Get%20the%20Middle%20Character.js)
-
-- Going to the cinema [&#128279;](https://www.codewars.com/kata/562f91ff6a8b77dfe900006e) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Going%20to%20the%20cinema.js)
-
-- Growth of a Population [&#128279;](https://www.codewars.com/kata/563b662a59afc2b5120000c6) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Growth%20of%20a%20Population.js)
-
-- Highest and Lowest [&#128279;](https://www.codewars.com/kata/554b4ac871d6813a03000035) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Highest%20and%20Lowest.js)
-
-- Holiday II - Plane Seating [&#128279;](https://www.codewars.com/kata/57e8f757085f7c7d6300009a) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Holiday%20II%20-%20Plane%20Seating.js)
-
-- Ironman Triathlon [&#128279;](https://www.codewars.com/kata/57d001b405c186ccb6000304) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Ironman%20Triathlon.js)
-
-- Is It Negative Zero (-0)? [&#128279;](https://www.codewars.com/kata/5c5086287bc6600001c7589a) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Is%20It%20Negative%20Zero%20-0.js)
-
-- Is this a triangle? [&#128279;](https://www.codewars.com/kata/56606694ec01347ce800001b) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Is%20this%20a%20triangle.js)
-
-- Isograms [&#128279;](https://www.codewars.com/kata/54ba84be607a92aa900000f1) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Isograms.js)
-
-- Jaden Casing Strings [&#128279;](https://www.codewars.com/kata/5390bac347d09b7da40006f6) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Jaden%20Casing%20Strings.js)
-
-- Leap Years [&#128279;](https://www.codewars.com/kata/526c7363236867513f0005ca) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Leap%20Years.js)
-
-- List Filtering [&#128279;](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/List%20Filtering.js)
-
-- Love vs friendship [&#128279;](https://www.codewars.com/kata/59706036f6e5d1e22d000016) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Love%20vs%20friendship.js)
-
-- Make a function that does arithmetic! [&#128279;](https://www.codewars.com/kata/583f158ea20cfcbeb400000a) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Make%20a%20function%20that%20does%20arithmetic.js)
-
-- Maximum Multiple [&#128279;](https://www.codewars.com/kata/5aba780a6a176b029800041c) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Maximum%20Multiple.js)
-
-- Money, Money, Money [&#128279;]() [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Money%2C%20Money%2C%20Money.js)
-
-- Most digits [&#128279;](https://www.codewars.com/kata/58daa7617332e59593000006) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Most%20digits.js)
-
-- Moves in squared strings (I) [&#128279;](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Moves%20in%20squared%20strings%20-%20I.js)
-
-- Mumbling [&#128279;](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Mumbling.js)
-
-- Number of Decimal Digits [&#128279;](https://www.codewars.com/kata/58fa273ca6d84c158e000052) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Number%20of%20Decimal%20Digits.js)
-
-- Number of People in the Bus [&#128279;](https://www.codewars.com/kata/5648b12ce68d9daa6b000099) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Number%20of%20People%20in%20the%20Bus.js)
-
-- Numbers with this digit inside [&#128279;](https://www.codewars.com/kata/57ad85bb7cb1f3ae7c000039) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Numbers%20with%20this%20digit%20inside.js)
-
-- Odd or Even? [&#128279;](https://www.codewars.com/kata/5949481f86420f59480000e7) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Odd%20or%20Even.js)
-
-- Ones and Zeros [&#128279;](https://www.codewars.com/kata/578553c3a1b8d5c40300037c) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Ones%20and%20Zeros.js)
-
-- Predict your age! [&#128279;](https://www.codewars.com/kata/5aff237c578a14752d0035ae) [.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Predict%20your%20age.js)
-
-- Printer Errors [&#128279;](https://www.codewars.com/kata/56541980fa08ab47a0000040) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Printer%20Errors.js)
-
-- Recursive Replication [&#128279;](https://www.codewars.com/kata/57547f9182655569ab0008c4) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Recursive%20Replication.js)
-
-- Regex validate PIN code [&#128279;](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Regex%20validate%20PIN%20code.js)
-
-- Remove anchor from URL [&#128279;](https://www.codewars.com/kata/51f2b4448cadf20ed0000386) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Remove%20anchor%20from%20URL.js)
-
-- Remove the minimum [&#128279;](Remove the minimum) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Remove%20the%20minimum.js)
-
-- Resistor Color Codes [&#128279;](https://www.codewars.com/kata/57cf3dad05c186ba22000348) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Resistor%20Color%20Codes.js)
-
-- Rotate for a Max [&#128279;](Rotate for a Max) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Rotate%20for%20a%20Max.js)
-
-- Round to the next multiple of 5. [&#128279;](https://www.codewars.com/kata/55d1d6d5955ec6365400006d) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Round%20to%20the%20next%20multiple%20of%205.js)
-
-- Shift Left [&#128279;](https://www.codewars.com/kata/5bdc191306a8a678f6000187) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Shift%20Left.js)
-
-- Shortest Word [&#128279;](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Shortest%20Word.js)
-
-- Simple Fun #176: Reverse Letter [&#128279;](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Simple%20Fun%20176%20-%20Reverse%20Letter.js)
-
-- Simple Fun #2: Circle of Numbers [&#128279;](https://www.codewars.com/kata/58841cb52a077503c4000015) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Simple%20Fun%202%20-%20Circle%20of%20Numbers.js)
-
-- Sort array by string length [&#128279;](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Sort%20array%20by%20string%20length.js)
-
-- Sort by Last Char [&#128279;](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Sort%20by%20Last%20Char.js)
-
-- Square Every Digit [&#128279;](https://www.codewars.com/kata/546e2562b03326a88e000020) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Square%20Every%20Digit.js)
-
-- Sum of integers in string [&#128279;](https://www.codewars.com/kata/598f76a44f613e0e0b000026) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/String%20prefix%20and%20suffix.js)
-
-- Sum of all the multiples of 3 or 5 [&#128279;]() [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Sum%20of%20all%20the%20multiples%20of%203%20or%205.js)
-
-- Sum of integers in string [&#128279;]() [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Sum%20of%20integers%20in%20string.js)
-
-- Sum of odd numbers [&#128279;](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Sum%20of%20odd%20numbers.js)
-
-- Sum of the first nth term of Series [&#128279;](https://www.codewars.com/kata/555eded1ad94b00403000071) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Sum%20of%20the%20first%20nth%20term%20of%20Series.js)
-
-- Summing a number's digits [&#128279;](https://www.codewars.com/kata/52f3149496de55aded000410) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Summing%20a%20number-s%20digits.js)
-
-- The Office I - Outed [&#128279;](https://www.codewars.com/kata/57ecf6efc7fe13eb070000e1) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/The%20Office%20I%20-%20Outed.js)
-
-- The highest profit wins! [&#128279;](https://www.codewars.com/kata/559590633066759614000063) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/The%20highest%20profit%20wins.js)
-
-- ToLeetSpeak [&#128279;](https://www.codewars.com/kata/57c1ab3949324c321600013f) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/ToLeetSpeak.js)
-
-- Triangular Treasure [&#128279;](https://www.codewars.com/kata/525e5a1cb735154b320002c8) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Triangular%20Treasure.js) [[.swift]]()
-
-- Two fighters, one winner. [&#128279;](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Two%20fighters%20-%20one%20winner.js)
-
-- Two to One [&#128279;](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Two%20to%20One.js)
-
-- Validate credit card expiry date [&#128279;](https://www.codewars.com/kata/58c3fbe3ea65729f3800007d) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Validate%20credit%20card%20expiry%20date.js)
-
-- Vowel Count [&#128279;](https://www.codewars.com/kata/54ff3102c1bad923760001f3) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Vowel%20Count.js)
+# Codewars Playground
+
+A folder of personal 7 kyu Codewars solutions.
+
+## Kata
+
+- Alan Partridge I - Partridge Watch [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Alan%20Partridge%20I%20-%20Partridge%20Watch.js)
+- Alan Partridge III - London [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Alan%20Partridge%20III%20-%20London.js)
+- Array comparator [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Array%20comparator.js)
+- Basic Math Add or Subtract [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Basic%20Math%20Add%20or%20Subtract.js)
+- \*Beginner - Reduce but Grow [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Beginner-%20Reduce%20but%20Grow.js)
+- Beginner Series 3 Sum of Numbers [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Beginner%20Series%203%20Sum%20of%20Numbers.js)
+- Binary Addition [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Binary%20Addition.js)
+- Breaking chocolate problem [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Breaking%20chocolate%20problem.js)
+- By 3 or not by 3 That is the question [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/By%203%20or%20not%20by%203%20That%20is%20the%20question.js)
+- Categorize New Member [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Categorize%20New%20Member.js)
+- Complementary DNA [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Complementary%20DNA.js)
+- Correct the time-string [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Correct%20the%20time-string.js)
+- Count all the sheep on farm in the heights of New Zealand [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Count%20all%20the%20sheep%20on%20farm%20in%20the%20heights%20of%20New%20Zealand.js)
+- Count the Digit [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Count%20the%20Digit.js)
+- Credit Card Mask [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Credit%20Card%20Mask.js)
+- Descending Order [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Descending%20Order.js)
+- Disemvowel Trolls [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Disemvowel%20Trolls.js)
+- Divide and Conquer [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Divide%20and%20Conquer.js)
+- Double Sort [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Double%20Sort.js)
+- Easy wallpaper [&#128279;]()
+  [[.swift]](https://github.com/julienshim/Codewars-Playground/blob/master/Swift/7%20kyu/Easy%20wallpaper.swift)
+- Even numbers in an array [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Even%20numbers%20in%20an%20array.js)
+- Exclamation marks series 3 - Remove all exclamation marks from sentence except at the end [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Exclamation%20marks%20series%203%20-%20Remove%20all%20exclamation%20marks%20from%20sentence%20except%20at%20the%20end)
+- Exes and Ohs [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Exes%20and%20Ohs.js)
+- \*Factorial (wichu version) [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Factorial.js)
+- \*Factorial (zvytas version) [&#128279;]()
+  [[.js]](<https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Factorial%20(1).js>)
+- Find Maximum and Minimum Values of a List [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Find%20Maximum%20and%20Minimum%20Values%20of%20a%20List.js)
+- Find the divisors! [&#128279;](https://www.codewars.com/kata/544aed4c4a30184e960010f4)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Find%20the%20divisors.js)
+- Find the next perfect square [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Find%20the%20next%20perfect%20square.js)
+- Find the nth Digit of a Number [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Find%20the%20nth%20Digit%20of%20a%20Number.js)
+- Find the Square Root [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Find%20the%20Square%20Root.js)
+- Find the stray number [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Find%20the%20stray%20number.js)
+- Fizz Buzz Cuckoo Clock [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Fizz%20Buzz%20Cuckoo%20Clock.js)
+- Fizz Buzz [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Fizz%20Buzz.js)
+- Flatten and sort an array [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Flatten%20and%20sort%20an%20array.js)
+- Form The Minimum [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Form%20The%20Minimum.js)
+- Friend or Foe? [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Friend%20or%20Foe.js)
+- Gauß needs help! (Sums of a lot of numbers). [&#128279;]()
+  [[.py]](https://github.com/julienshim/Codewars-Playground/blob/master/Python/7%20kyu/Gau%C3%9F%20needs%20help%20-%20Sums%20of%20a%20lot%20of%20numbers.py)
+- Get list sum recursively [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Get%20list%20sum%20recursively.js)
+- Get the Middle Character [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Get%20the%20Middle%20Character.js)
+- Going to the cinema [&#128279;](https://www.codewars.com/kata/562f91ff6a8b77dfe900006e)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Going%20to%20the%20cinema.js)
+- Growth of a Population [&#128279;](https://www.codewars.com/kata/563b662a59afc2b5120000c6)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Growth%20of%20a%20Population.js)
+- Highest and Lowest [&#128279;](https://www.codewars.com/kata/554b4ac871d6813a03000035)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Highest%20and%20Lowest.js)
+- Holiday II - Plane Seating [&#128279;](https://www.codewars.com/kata/57e8f757085f7c7d6300009a)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Holiday%20II%20-%20Plane%20Seating.js)
+- Ironman Triathlon [&#128279;](https://www.codewars.com/kata/57d001b405c186ccb6000304)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Ironman%20Triathlon.js)
+- Is It Negative Zero (-0)? [&#128279;](Is It Negative Zero (-0)?)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Is%20It%20Negative%20Zero%20-0.js)
+- Is this a triangle? [&#128279;](https://www.codewars.com/kata/56606694ec01347ce800001b)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Is%20this%20a%20triangle.js)
+- Isograms [&#128279;](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Isograms.js)
+- Jaden Casing Strings [&#128279;](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Jaden%20Casing%20Strings.js)
+- Leap Years [&#128279;](https://www.codewars.com/kata/526c7363236867513f0005ca)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Leap%20Years.js)
+- List Filtering [&#128279;](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/List%20Filtering.js)
+- Love vs friendship [&#128279;](https://www.codewars.com/kata/59706036f6e5d1e22d000016)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Love%20vs%20friendship.js)
+- Make a function that does arithmetic! [&#128279;](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Make%20a%20function%20that%20does%20arithmetic.js)
+- Maximum Multiple [&#128279;](https://www.codewars.com/kata/5aba780a6a176b029800041c)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Maximum%20Multiple.js)
+- Money, Money, Money [&#128279;](https://www.codewars.com/kata/563f037412e5ada593000114)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Money%2C%20Money%2C%20Money.js)
+- Most digits [&#128279;](https://www.codewars.com/kata/58daa7617332e59593000006)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Most%20digits.js)
+- Moves in squared strings (I) [&#128279;](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Moves%20in%20squared%20strings%20-%20I.js)
+- Mumbling [&#128279;](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Mumbling.js)
+- Number of Decimal Digits [&#128279;](https://www.codewars.com/kata/58fa273ca6d84c158e000052)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Number%20of%20Decimal%20Digits.js)
+- Number of People in the Bus [&#128279;](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Number%20of%20People%20in%20the%20Bus.js)
+- Numbers with this digit inside [&#128279;](https://www.codewars.com/kata/57ad85bb7cb1f3ae7c000039)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Numbers%20with%20this%20digit%20inside.js)
+- Odd or Even? [&#128279;](https://www.codewars.com/kata/5949481f86420f59480000e7)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Odd%20or%20Even.js)
+- Ones and Zeros [&#128279;](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Ones%20and%20Zeros.js)
+- Predict your age! [&#128279;](https://www.codewars.com/kata/5aff237c578a14752d0035ae)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Predict%20your%20age.js)
+- Printer Errors [&#128279;](https://www.codewars.com/kata/56541980fa08ab47a0000040)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Printer%20Errors.js)
+- Recursive Replication [&#128279;](https://www.codewars.com/kata/57547f9182655569ab0008c4)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Recursive%20Replication.js)
+- Regex validate PIN code [&#128279;](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Regex%20validate%20PIN%20code.js)
+- Remove anchor from URL [&#128279;](https://www.codewars.com/kata/51f2b4448cadf20ed0000386)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Remove%20anchor%20from%20URL.js)
+- Remove the minimum [&#128279;](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Remove%20the%20minimum.js)
+- Resistor Color Codes [&#128279;](https://www.codewars.com/kata/57cf3dad05c186ba22000348)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Resistor%20Color%20Codes.js)
+- Reverse words [&#128279;](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Rotate%20for%20a%20Max.js)
+- Rotate for a Max [&#128279;](https://www.codewars.com/kata/56a4872cbb65f3a610000026)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Rotate%20for%20a%20Max.js)
+- Round to the next multiple of 5. [&#128279;](https://www.codewars.com/kata/55d1d6d5955ec6365400006d)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Round%20to%20the%20next%20multiple%20of%205.js)
+- Shift Left [&#128279;](https://www.codewars.com/kata/5bdc191306a8a678f6000187)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Shift%20Left.js)
+- Shortest Word [&#128279;](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Shortest%20Word.js)
+- Simple Fun #2: Circle of Numbers [&#128279;](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Simple%20Fun%202%20-%20Circle%20of%20Numbers.js)
+- Simple Fun #176: Reverse Letter [&#128279;](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Simple%20Fun%20176%20-%20Reverse%20Letter)
+- Sort array by string length [&#128279;](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Sort%20array%20by%20string%20length.js)
+- Sort by Last Char [&#128279;](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Sort%20by%20Last%20Char.js)
+- Square Every Digit [&#128279;](https://www.codewars.com/kata/546e2562b03326a88e000020)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Square%20Every%20Digit.js)
+- String prefix and suffix [&#128279;](https://www.codewars.com/kata/5ce969ab07d4b7002dcaa7a1)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/String%20prefix%20and%20suffix.js)
+- Sum of all the multiples of 3 or 5 [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Sum%20of%20all%20the%20multiples%20of%203%20or%205.js)
+- Sum of integers in string [&#128279;](https://www.codewars.com/kata/598f76a44f613e0e0b000026)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Sum%20of%20integers%20in%20string.js)
+- Sum of odd numbers [&#128279;](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Sum%20of%20odd%20numbers.js)
+- Sum of the first nth term of Series [&#128279;](https://www.codewars.com/kata/555eded1ad94b00403000071)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Sum%20of%20the%20first%20nth%20term%20of%20Series.js)
+- Summing a number's digits [&#128279;](https://www.codewars.com/kata/52f3149496de55aded000410)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Summing%20a%20number-s%20digits.js)
+- The highest profit wins! [&#128279;](https://www.codewars.com/kata/559590633066759614000063)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/The%20highest%20profit%20wins.js)
+- The Office I - Outed [&#128279;](https://www.codewars.com/kata/57ecf6efc7fe13eb070000e1)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/The%20Office%20I%20-%20Outed.js)
+- ToLeetSpeak [&#128279;](https://www.codewars.com/kata/57c1ab3949324c321600013f)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/ToLeetSpeak.js)
+- Triangular Treasure [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Triangular%20Treasure.js)
+- Two fighters - one winner [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Two%20fighters%20-%20one%20winner.js)
+- Two to One [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Two%20to%20One.js)
+- Validate credit card expiry date [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Validate%20credit%20card%20expiry%20date.js)
+- Vowel Count [&#128279;]()
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Vowel%20Count.js)

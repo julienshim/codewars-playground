@@ -390,6 +390,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Generate%20range%20of%20integers.js)
 - Get Nth Even Number [&#128279;](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Get%20Nth%20Even%20Number.js)
+- get character from ASCII Value [&#128279;](https://www.codewars.com/kata/55ad04714f0b468e8200001c)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/get%20character%20from%20ASCII%20Value.js)
 - Get the mean of an array [&#128279;](https://www.codewars.com/kata/563e320cee5dddcf77000158)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Get%20the%20mean%20of%20an%20array.js)
 - Grasshopper - Grade book [&#128279;](https://www.codewars.com/kata/55cbd4ba903825f7970000f5)

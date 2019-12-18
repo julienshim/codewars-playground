@@ -222,6 +222,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Number%20of%20Decimal%20Digits.js)
 - Number of People in the Bus [&#128279;](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Number%20of%20People%20in%20the%20Bus.js)
+- Numbers to Letters [&#128279;](https://www.codewars.com/kata/57ebaa8f7b45ef590c00000c)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Numbers%20to%20Letters.js)
 - Numbers with this digit inside [&#128279;](https://www.codewars.com/kata/57ad85bb7cb1f3ae7c000039)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Numbers%20with%20this%20digit%20inside.js)
 - Odd or Even? [&#128279;](https://www.codewars.com/kata/5949481f86420f59480000e7)

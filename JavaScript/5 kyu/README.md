@@ -1,6 +1,0 @@
-- Can you get the loop ? [&#128279;](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/5%20kyu/Can%20you%20get%20the%20loop.js)
-- Directions Reduction [&#128279;](https://www.codewars.com/kata/550f22f4d758534c1100025a) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/5%20kyu/Directions%20Reduction.js)
-- RGB To Hex Conversion [&#128279;](https://www.codewars.com/kata/513e08acc600c94f01000001) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/5%20kyu/RGB%20To%20Hex%20Conversion.js)
-- Regex Password Validation [&#128279;](https://www.codewars.com/kata/52e1476c8147a7547a000811) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/5%20kyu/Regex%20Password%20Validation.js)
-- Rot13 [&#128279;](https://www.codewars.com/kata/530e15517bc88ac656000716) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/5%20kyu/Rot13.js)
-- Sum of Pairs [&#128279;](https://www.codewars.com/kata/54d81488b981293527000c8f) [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/5%20kyu/Sum%20of%20Pairs.js)

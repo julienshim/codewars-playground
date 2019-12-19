@@ -278,6 +278,8 @@ A repository of personal Codewars solutions.
   [[.swift]](https://github.com/julienshim/Codewars-Playground/blob/master/Swift/7%20kyu/Sum%20of%20two%20lowest%20positive%20integers.swift)
 - Summing a number's digits [&#128279;](https://www.codewars.com/kata/52f3149496de55aded000410)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Summing%20a%20number-s%20digits.js)
+- Tail Swap [&#128279;](https://www.codewars.com/kata/5868812b15f0057e05000001)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Tail%20Swap.js)
 - The highest profit wins! [&#128279;](https://www.codewars.com/kata/559590633066759614000063)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/The%20highest%20profit%20wins.js)
 - The Office I - Outed [&#128279;](https://www.codewars.com/kata/57ecf6efc7fe13eb070000e1)

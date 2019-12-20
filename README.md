@@ -256,6 +256,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Shortest%20Word.js)
 - Simple Fun #2: Circle of Numbers [&#128279;](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Simple%20Fun%20-2-%20Circle%20of%20Numbers.js)
+- Simple Fun #37: House Numbers Sum [&#128279;](https://www.codewars.com/kata/58880c6e79a0a3e459000004)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Simple%20Fun%20-37-%20House%20Numbers%20Sum.js)
 - Simple Fun #176: Reverse Letter [&#128279;](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Simple%20Fun%20-176-%20Reverse%20Letter.js)
 - Sort array by string length [&#128279;](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)

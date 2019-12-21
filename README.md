@@ -268,6 +268,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Square%20Every%20Digit.js)
 - String prefix and suffix [&#128279;](https://www.codewars.com/kata/5ce969ab07d4b7002dcaa7a1)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/String%20prefix%20and%20suffix.js)
+- Substring fun [&#128279;](https://www.codewars.com/kata/565b112d09c1adfdd500019c)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Substring%20fun.js)
 - Sum of all the multiples of 3 or 5 [&#128279;](https://www.codewars.com/kata/57f36495c0bb25ecf50000e7)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Sum%20of%20all%20the%20multiples%20of%203%20or%205.js)
 - Sum of integers in string [&#128279;](https://www.codewars.com/kata/598f76a44f613e0e0b000026)

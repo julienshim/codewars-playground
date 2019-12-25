@@ -97,6 +97,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Alan%20Partridge%20I%20-%20Partridge%20Watch.js)
 - Alan Partridge III - London [&#128279;](https://www.codewars.com/kata/580a41b6d6df740d6100030c)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Alan%20Partridge%20III%20-%20London.js)
+- All Star Code Challenge #3 [&#128279;](https://www.codewars.com/kata/58640340b3a675d9a70000b9)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/All%20Star%20Code%20Challenge%20-3.js)
 - Array comparator [&#128279;](https://www.codewars.com/kata/561046a9f629a8aac000001d)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Array%20comparator.js)
 - Basic Math (Add or Subtract) [&#128279;](https://www.codewars.com/kata/5809b62808ad92e31b000031)

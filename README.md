@@ -32,6 +32,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/6%20kyu/Are%20they%20the%20-same--.js)
 - Array.diff [&#128279;](https://www.codewars.com/kata/523f5d21c841566fde000009)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/6%20kyu/Array-diff.js)
+- Backspaces in string [&#128279;](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/6%20kyu/Backspaces%20in%20string.js)
 - Build Tower [&#128279;](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/6%20kyu/Build%20Tower.js)
 - Count characters in your string [&#128279;](https://www.codewars.com/kata/52efefcbcdf57161d4000091)

@@ -2,7 +2,7 @@ function addLetters(...letters) {
   // your code here
   const alphabetKey = {};
   const alphabetKeyRev = {};
-  const alphabetArr = 'abcdefghijklmnopqrstuvwxyz'.split('').forEach((letter,index) => {
+  'abcdefghijklmnopqrstuvwxyz'.split('').forEach((letter,index) => {
     alphabetKey[letter] = index+1;
     alphabetKeyRev[index+1] = letter;
   });

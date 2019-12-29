@@ -103,6 +103,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/All%20Star%20Code%20Challenge%20-3.js)
 - All Star Code Challenge #22 [&#128279;](https://www.codewars.com/kata/5865cff66b5699883f0001aa)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/All%20Star%20Code%20Challenge%20-22.js)
+- Alphabetical Addition [&#128279;](https://www.codewars.com/kata/5d50e3914861a500121e1958)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Alphabetical%20Addition.js)
 - Array comparator [&#128279;](https://www.codewars.com/kata/561046a9f629a8aac000001d)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Array%20comparator.js)
 - Basic Math (Add or Subtract) [&#128279;](https://www.codewars.com/kata/5809b62808ad92e31b000031)

@@ -520,6 +520,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Welcome-.js)
 - Well of Ideas - Easy Version [&#128279;](https://www.codewars.com/kata/57f222ce69e09c3630000212)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Well%20of%20Ideas%20-%20Easy%20Version.js)
+- What is between? [&#128279;](https://www.codewars.com/kata/55ecd718f46fba02e5000029)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/What%20is%20between-.js)
 - Will there be enough space? [&#128279;](https://www.codewars.com/kata/5875b200d520904a04000003)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Will%20there%20be%20enough%20space-.js)
 - You only need one - Beginner [&#128279;](https://www.codewars.com/kata/57cc975ed542d3148f00015b)

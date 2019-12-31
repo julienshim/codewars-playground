@@ -209,6 +209,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Leap%20Years.js)
 - List Filtering [&#128279;](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/List%20Filtering.js)
+- Lottery machine [&#128279;](https://www.codewars.com/kata/5832db03d5bafb7d96000107)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Lottery%20machine.js)
 - Lost number in number sequence [&#128279;](https://www.codewars.com/kata/595aa94353e43a8746000120)
   [[.swift]](https://github.com/julienshim/Codewars-Playground/blob/master/Swift/7%20kyu/Lost%20number%20in%20number%20sequence.swift)
 - Love vs friendship [&#128279;](https://www.codewars.com/kata/59706036f6e5d1e22d000016)

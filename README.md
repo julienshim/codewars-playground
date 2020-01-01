@@ -320,6 +320,8 @@ A repository of personal Codewars solutions.
 
 - 101 Dalmatians - squash the bugs, not the dogs! [&#128279;](https://www.codewars.com/kata/56f6919a6b88de18ff000b36)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/101%20Dalmatians%20-%20squash%20the%20bugs-%20not%20the%20dogs-.js)
+- 5 Without Numbers !! [&#128279;](https://www.codewars.com/kata/59441520102eaa25260000bf)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/5%20without%20numbers%20--.js)
 - A Needle in the Haystack [&#128279;](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/A%20Needle%20in%20the%20Haystack.js)
 - A wolf in sheep's clothing[&#128279;](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15)

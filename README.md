@@ -512,6 +512,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/The%20Feast%20of%20Many%20Beasts.js)
 - The Wide-Mouthed frog! [&#128279;](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/The%20Wide-Mouthed%20frog.js)
+- Tip Calculator [&#128279;](https://www.codewars.com/kata/56598d8076ee7a0759000087)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Tip%20Calculator.js)
 - To square(root) or not to square(root) [&#128279;](https://www.codewars.com/kata/57f6ad55cca6e045d2000627)
   [[.swift]](https://github.com/julienshim/Codewars-Playground/blob/master/Swift/8%20kyu/To%20square-root-%20or%20not%20to%20square-root-.swift)
 - Total amount of points [&#128279;](https://www.codewars.com/kata/5bb904724c47249b10000131)

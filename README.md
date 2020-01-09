@@ -524,6 +524,8 @@ A repository of personal Codewars solutions.
   [[.swift]](https://github.com/julienshim/Codewars-Playground/blob/master/Swift/8%20kyu/Transportation%20on%20vacation.swift)
 - Twice as old [&#128279;](https://www.codewars.com/kata/5b853229cfde412a470000d0)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Twice%20as%20old.js)
+- Watermelon [&#128279;](https://www.codewars.com/kata/55192f4ecd82ff826900089e)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Watermelon.js)
 - Welcome! [&#128279;](https://www.codewars.com/kata/577ff15ad648a14b780000e7)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Welcome-.js)
 - Well of Ideas - Easy Version [&#128279;](https://www.codewars.com/kata/57f222ce69e09c3630000212)

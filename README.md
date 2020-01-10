@@ -221,6 +221,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Make%20a%20function%20that%20does%20arithmetic-.js)
 - Maximum Multiple [&#128279;](https://www.codewars.com/kata/5aba780a6a176b029800041c)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Maximum%20Multiple.js)
+- Minimize Sum Of Array (Array Series #1) [&#128279;](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Minimize%20Sum%20Of%20Array%20-Array%20Series%20-1-.js)
 - Money, Money, Money [&#128279;](https://www.codewars.com/kata/563f037412e5ada593000114)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Money-%20Money-%20Money.js)
 - Most digits [&#128279;](https://www.codewars.com/kata/58daa7617332e59593000006)

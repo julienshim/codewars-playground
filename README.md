@@ -361,6 +361,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Century%20From%20Year.js)
 - Check the exam [&#128279;](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Check%20the%20exam.js)
+- Classic Hello World [&#128279;](https://www.codewars.com/kata/57036f007fd72e3b77000023)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Classic%20Hello%20World.js)
 - Closest elevator [&#128279;](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a)
   [[.py]](https://github.com/julienshim/Codewars-Playground/blob/master/Python/8%20kyu/Closest%20elevator.py)
 - Convert a Boolean to a String [&#128279;](https://www.codewars.com/kata/551b4501ac0447318f0009cd)

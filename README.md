@@ -228,6 +228,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Money-%20Money-%20Money.js)
 - Most digits [&#128279;](https://www.codewars.com/kata/58daa7617332e59593000006)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Most%20digits.js)
+- Most sales [&#128279;](https://www.codewars.com/kata/5e16ffb7297fe00001114824)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Most%20sales.js)
 - Moves in squared strings (I) [&#128279;](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Moves%20in%20squared%20strings%20-I-.js)
 - Mumbling [&#128279;](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)

@@ -339,6 +339,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Alan%20Partridge%20II%20-%20Apple%20Turnover.js)
 - Are You Playing Banjo? [&#128279;](https://www.codewars.com/kata/53af2b8861023f1d88000832)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Are%20You%20Playing%20Banjo-.js)
+- Array plus array [&#128279;](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Array%20plus%20array.js)
 - Basic Mathematical Operations [&#128279;](https://www.codewars.com/kata/57356c55867b9b7a60000bd7)
   [[.py]](https://github.com/julienshim/Codewars-Playground/blob/master/Python/8%20kyu/Basic%20Mathematical%20Operations.py)
 - Beginner - Lost Without a Map [&#128279;](https://www.codewars.com/kata/57f781872e3d8ca2a000007e)

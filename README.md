@@ -84,6 +84,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/6%20kyu/Tribonacci%20Sequence.js)
 - Unique In Order [&#128279;](https://www.codewars.com/kata/54e6533c92449cc251001667)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/6%20kyu/Unique%20In%20Order.js)
+- "Very Even" Numbers. [&#128279;](https://www.codewars.com/kata/58c9322bedb4235468000019/train)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/-Very%20Even-%20Numbers-.js)
 - WeIrD StRiNg CaSe [&#128279;](https://www.codewars.com/kata/52b757663a95b11b3d00062d)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/6%20kyu/WeIrD%20StRiNg%20CaSe.js)
 - What's in a name? [&#128279;](https://www.codewars.com/kata/59daf400beec9780a9000045)

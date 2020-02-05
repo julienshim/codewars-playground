@@ -235,6 +235,8 @@ A repository of personal Codewars solutions.
 - Mumbling [&#128279;](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Mumbling.js)
   [[.swift]](https://github.com/julienshim/Codewars-Playground/blob/master/Swift/7%20kyu/Mumbling.swift)
+- No Loops 1 - Small enough? [&#128279;](https://www.codewars.com/kata/57cc4853fa9fc57a6a0002c2)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/No%20Loops%201%20-%20Small%20enough-.js)
 - Number of Decimal Digits [&#128279;](https://www.codewars.com/kata/58fa273ca6d84c158e000052)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Number%20of%20Decimal%20Digits.js)
 - Number of People in the Bus [&#128279;](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)

@@ -475,6 +475,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Multiply.js)
   [[.sql]](https://github.com/julienshim/Codewars-Playground/blob/master/SQL/8%20kyu/Multiply.sql)
   [[.swift]](https://github.com/julienshim/Codewars-Playground/blob/master/Swift/8%20kyu/Multiply.swift)
+- No Loops 2 - You only need one [&#128279;](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/No%20Loops%202%20-%20You%20only%20need%20one.js)
 - Opposite number [&#128279;](https://www.codewars.com/kata/56dec885c54a926dcd001095)
   [[.swift]](https://github.com/julienshim/Codewars-Playground/blob/master/Swift/8%20kyu/Opposite%20number.swift)
 - Regexp Basics - is it a digit? [&#128279;](https://www.codewars.com/kata/567bf4f7ee34510f69000032)

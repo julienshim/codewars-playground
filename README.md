@@ -297,6 +297,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Sum%20of%20all%20the%20multiples%20of%203%20or%205.js)
 - Sum of integers in string [&#128279;](https://www.codewars.com/kata/598f76a44f613e0e0b000026)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Sum%20of%20integers%20in%20string.js)
+- Sum of Minimums! [&#128279;](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Sum%20of%20Minimums-.js)
 - Sum of odd numbers [&#128279;](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Sum%20of%20odd%20numbers.js)
 - Sum of numbers from 0 to N [&#128279;](https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763)

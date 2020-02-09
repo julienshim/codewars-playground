@@ -465,6 +465,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Is%20he%20gonna%20survive-.js)
 - Is n divisible by x and y? [&#128279;](https://www.codewars.com/kata/5545f109004975ea66000086)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Is%20n%20divisible%20by%20x%20and%20y-.js)
+- Jenny's secret message [&#128279;](https://www.codewars.com/kata/55225023e1be1ec8bc000390)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Jenny-s%20secret%20message.js)
 - Keep Hydrated! [&#128279;](https://www.codewars.com/kata/582cb0224e56e068d800003c)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Keep%20Hydrated-.js)
 - Keep up the hoop [&#128279;](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145)

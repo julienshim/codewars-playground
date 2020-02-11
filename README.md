@@ -192,6 +192,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Going%20to%20the%20cinema.js)
 - Growth of a Population [&#128279;](https://www.codewars.com/kata/563b662a59afc2b5120000c6)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Growth%20of%20a%20Population.js)
+- Help Bob count letters and digits. [&#128279;](https://www.codewars.com/kata/5738f5ea9545204cec000155)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Help%20Bob%20count%20letters%20and%20digits-.js)
 - Highest and Lowest [&#128279;](https://www.codewars.com/kata/554b4ac871d6813a03000035)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Highest%20and%20Lowest.js)
 - Holiday II - Plane Seating [&#128279;](https://www.codewars.com/kata/57e8f757085f7c7d6300009a)

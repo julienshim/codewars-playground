@@ -200,6 +200,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Holiday%20II%20-%20Plane%20Seating.js)
 - How many arguments [&#128279;](https://www.codewars.com/kata/5c44b0b200ce187106452139)
   [[.py]](https://github.com/julienshim/Codewars-Playground/blob/master/Python/7%20kyu/How%20many%20arguments.py)
+- How many urinals are free? [&#128279;](https://www.codewars.com/kata/5e2733f0e7432a000fb5ecc4)
+  [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/How%20many%20urinals%20are%20free-.js)
 - Ironman Triathlon [&#128279;](https://www.codewars.com/kata/57d001b405c186ccb6000304)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/7%20kyu/Ironman%20Triathlon.js)
 - Is It Negative Zero (-0)? [&#128279;](Is It Negative Zero (-0)?)

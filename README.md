@@ -435,6 +435,7 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Find%20numbers%20which%20are%20divisible%20by%20given%20number.js)
 - Find the first non-consecutive number [&#128279;](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Find%20the%20first%20non-consecutive%20number.js)
+  [[.py]](https://github.com/julienshim/Codewars-Playground/blob/master/Python/8%20kyu/Find%20the%20first%20non-consecutive%20number.py)
 - Find the smallest integer in the array [&#128279;](https://www.codewars.com/kata/55a2d7ebe362935a210000b2)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Find%20the%20smallest%20integer%20in%20the%20array.js)
 - Function 1 - hello world [&#128279;](https://www.codewars.com/kata/523b4ff7adca849afe000035)

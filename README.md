@@ -563,6 +563,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Training%20JS%20-7-%20if--else%20and%20ternary%20operator.js)
 - Transportation on vacation [&#128279;](https://www.codewars.com/kata/568d0dd208ee69389d000016)
   [[.swift]](https://github.com/julienshim/Codewars-Playground/blob/master/Swift/8%20kyu/Transportation%20on%20vacation.swift)
+- Triple Trouble [&#128279;](https://www.codewars.com/kata/5704aea738428f4d30000914)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Triple%20Trouble.js)
 - Twice as old [&#128279;](https://www.codewars.com/kata/5b853229cfde412a470000d0)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Twice%20as%20old.js)
 - Watermelon [&#128279;](https://www.codewars.com/kata/55192f4ecd82ff826900089e)

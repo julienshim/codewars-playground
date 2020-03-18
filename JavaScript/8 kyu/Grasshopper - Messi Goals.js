@@ -1,5 +1,5 @@
-var laLigaGoals = 43;
-var championsLeagueGoals = 10;
-var copaDelReyGoals = 5;
+const laLigaGoals = 43;
+const championsLeagueGoals = 10;
+const copaDelReyGoals = 5;
 
-var totalGoals = laLigaGoals + championsLeagueGoals + copaDelReyGoals;
+const totalGoals = laLigaGoals + championsLeagueGoals + copaDelReyGoals;

@@ -455,6 +455,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Grade%20book.js)
 - Grasshopper - Make change [&#128279;](https://www.codewars.com/kata/560dab9f8b50f89fd6000070)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Make%20change.js)
+- Grasshopper - Messi Goals [&#128279;](https://www.codewars.com/kata/55ca77fa094a2af31f00002a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Messi%20Goals.js)
 - Grasshopper - Messi goals function [&#128279;](https://www.codewars.com/kata/55f73be6e12baaa5900000d4)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Messi%20goals%20function.js)
 - Grasshopper - Personalized Message [&#128279;](https://www.codewars.com/kata/5772da22b89313a4d50012f7)

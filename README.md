@@ -76,6 +76,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/6%20kyu/Reverse%20every%20other%20word%20in%20the%20string.js)
 - Sort the odd [&#128279;](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/6%20kyu/Sort%20the%20odd.js)
+- Split Strings [&#128279;](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Split%20Strings.js)
 - Take a Ten Minute Walk [&#128279;](https://www.codewars.com/kata/54da539698b8a2ad76000228)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/6%20kyu/Take%20a%20Ten%20Minute%20Walk.js)
 - Transform To Prime [&#128279;](https://www.codewars.com/kata/5a946d9fba1bb5135100007c)

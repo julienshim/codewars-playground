@@ -357,6 +357,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Abbreviate%20a%20Two%20Word%20Name.js)
 - Alan Partridge II - Apple Turnover [&#128279;](https://www.codewars.com/kata/580a094553bd9ec5d800007d)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Alan%20Partridge%20II%20-%20Apple%20Turnover.js)
+- All Star Code Challenge #18 [&#128279;](https://www.codewars.com/kata/5865918c6b569962950002a1)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/All%20Star%20Code%20Challenge%20-18.py)
 - Are You Playing Banjo? [&#128279;](https://www.codewars.com/kata/53af2b8861023f1d88000832)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/8%20kyu/Are%20You%20Playing%20Banjo-.js)
 - Area or Perimeter [&#128279;](https://www.codewars.com/kata/5ab6538b379d20ad880000ab)

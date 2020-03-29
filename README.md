@@ -72,6 +72,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/6%20kyu/Persistent%20Bugger-.js)
 - Playing with digits [&#128279;](https://www.codewars.com/kata/5552101f47fc5178b1000050)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/6%20kyu/Playing%20with%20digits.js)
+- Replace With Alphabet Position [&#128279;](https://www.codewars.com/kata/546f922b54af40e1e90001da)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Replace%20With%20Alphabet%20Position.js)
 - Reverse every other word in the string [&#128279;](https://www.codewars.com/kata/58d76854024c72c3e20000de)
   [[.js]](https://github.com/julienshim/Codewars-Playground/blob/master/JavaScript/6%20kyu/Reverse%20every%20other%20word%20in%20the%20string.js)
 - Sort the odd [&#128279;](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)

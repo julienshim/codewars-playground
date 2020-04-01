@@ -168,6 +168,8 @@ A repository of personal Codewars solutions.
   [[.js]](<https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Factorial%20(zvytas%20version).js>)
 - Find all non-consecutive numbers [&#128279;](https://www.codewars.com/kata/58f8b35fda19c0c79400020f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20all%20non-consecutive%20numbers.js)
+- Find the area of the rectangle! [&#128279;](https://www.codewars.com/kata/580a0347430590220e000091)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20area%20of%20the%20rectangle-.js)
 - Find the capitals [&#128279;](https://www.codewars.com/kata/539ee3b6757843632d00026b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20capitals.js)
 - Find the divisors! [&#128279;](https://www.codewars.com/kata/544aed4c4a30184e960010f4)

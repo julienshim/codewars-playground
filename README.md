@@ -541,6 +541,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Simple%20Fun%20-1-%20Seats%20in%20Theater.js)
 - Simple multiplication [&#128279;](https://www.codewars.com/kata/583710ccaa6717322c000105)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Simple%20multiplication.swift)
+- SpeedCode #2 - Array Madness [&#128279;](https://www.codewars.com/kata/56ff6a70e1a63ccdfa0001b1/)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/SpeedCode%20-2%20-%20Array%20Madness.js)
 - SQL Basics: Simple WHERE and ORDER BY [&#128279;](https://www.codewars.com/kata/5809508cc47d327c12000084)
   [[.sql]](https://github.com/julienshim/codewars-playground/blob/master/SQL/8%20kyu/SQL%20Basics-%20Simple%20WHERE%20and%20ORDER%20BY.sql)
 - Square(n) Sum [&#128279;](https://www.codewars.com/kata/515e271a311df0350d00000f)

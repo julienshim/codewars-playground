@@ -170,6 +170,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20all%20non-consecutive%20numbers.js)
 - Find all occurrences of an element in an array [&#128279;](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20all%20occurrences%20of%20an%20element%20in%20an%20array.js)
   [[.js]](https://www.codewars.com/kata/59a9919107157a45220000e1)
+- Find min and max [&#128279;](https://www.codewars.com/kata/57a1ae8c7cb1f31e4e000130)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20min%20and%20max.js)
 - Find the area of the rectangle! [&#128279;](https://www.codewars.com/kata/580a0347430590220e000091)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20area%20of%20the%20rectangle-.js)
 - Find the capitals [&#128279;](https://www.codewars.com/kata/539ee3b6757843632d00026b)

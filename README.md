@@ -257,6 +257,8 @@ A repository of personal Codewars solutions.
 - Mumbling [&#128279;](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Mumbling.js)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Mumbling.swift)
+- My Languages [&#128279;](https://www.codewars.com/kata/5b16490986b6d336c900007d)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/My%20Languages.js)
 - No Loops 1 - Small enough? [&#128279;](https://www.codewars.com/kata/57cc4853fa9fc57a6a0002c2)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/No%20Loops%201%20-%20Small%20enough-.js)
 - Number of Decimal Digits [&#128279;](https://www.codewars.com/kata/58fa273ca6d84c158e000052)

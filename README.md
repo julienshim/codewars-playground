@@ -119,6 +119,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Basic%20Math%20-Add%20or%20Subtract-.js)
 - Beginner Series #3 Sum of Numbers [&#128279;](https://www.codewars.com/kata/55f2b110f61eb01779000053)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Beginner%20Series%20-3%20Sum%20of%20Numbers.js)
+- Beginner Series #5 Triangular Numbers [&#128279;](https://www.codewars.com/kata/56d0a591c6c8b466ca00118b)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Beginner%20Series%20-5%20Triangular%20Numbers.js)
 - Binary Addition [&#128279;](https://www.codewars.com/kata/551f37452ff852b7bd000139)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Binary%20Addition.js)
 - Binary Calculator [&#128279;](https://www.codewars.com/kata/546ba103f0cf8f7982000df4)

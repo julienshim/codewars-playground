@@ -210,6 +210,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Growth%20of%20a%20Population.js)
 - Halving Sum [&#128279;](https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Halving%20Sum.js)
+- Happy Birthday, Darling! [&#128279;](https://www.codewars.com/kata/5e96332d18ac870032eb735f)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Happy%20Birthday-%20Darling-.js)
 - Help Bob count letters and digits. [&#128279;](https://www.codewars.com/kata/5738f5ea9545204cec000155)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Help%20Bob%20count%20letters%20and%20digits-.js)
 - Highest and Lowest [&#128279;](https://www.codewars.com/kata/554b4ac871d6813a03000035)

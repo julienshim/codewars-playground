@@ -62,6 +62,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Find%20the%20odd%20int.js)
 - Find the unique number [&#128279;](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Find%20the%20unique%20number.js)
+- From..To..Series #1: from m to n. Find the maximum range [&#128279;](https://www.codewars.com/kata/58065440a4647e0ed3000230)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/From--To--Series%20-1-%20from%20m%20to%20n-%20Find%20the%20maximum%20range.js)
 - IQ Test [&#128279;](https://www.codewars.com/kata/552c028c030765286c00007d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/IQ%20Test.js)
 - Mexican Wave [&#128279;](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)

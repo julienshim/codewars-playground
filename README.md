@@ -236,6 +236,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Is%20It%20Negative%20Zero%20--0--.js)
 - Is this a triangle? [&#128279;](https://www.codewars.com/kata/56606694ec01347ce800001b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Is%20this%20a%20triangle.js)
+- Is There an Odd Bit? [&#128279;](https://www.codewars.com/kata/5d6f49d85e45290016bf4718)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Is%20There%20an%20Odd%20Bit-.js)
 - Isograms [&#128279;](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Isograms.js)
 - Jaden Casing Strings [&#128279;](https://www.codewars.com/kata/5390bac347d09b7da40006f6)

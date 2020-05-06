@@ -606,7 +606,7 @@ A repository of personal Codewars solutions.
 - Total amount of points [&#128279;](https://www.codewars.com/kata/5bb904724c47249b10000131)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Total%20amount%20of%20points.py)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Total%20amount%20of%20points.js)
-- Training JS #7: https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Total%20amount%20of%20points.js and ternary operator [&#128279;](https://www.codewars.com/kata/57202aefe8d6c514300001fd)
+- Training JS #7: and ternary operator [&#128279;](https://www.codewars.com/kata/57202aefe8d6c514300001fd)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Training%20JS%20-7-%20if--else%20and%20ternary%20operator.js)
 - Transportation on vacation [&#128279;](https://www.codewars.com/kata/568d0dd208ee69389d000016)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Transportation%20on%20vacation.swift)

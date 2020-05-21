@@ -216,6 +216,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Get%20the%20Middle%20Character.js)
 - Going to the cinema [&#128279;](https://www.codewars.com/kata/562f91ff6a8b77dfe900006e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Going%20to%20the%20cinema.js)
+- Greet Me [&#128279;](https://www.codewars.com/kata/535474308bb336c9980006f2)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Greet%20Me.js)
 - Growth of a Population [&#128279;](https://www.codewars.com/kata/563b662a59afc2b5120000c6)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Growth%20of%20a%20Population.js)
 - Halving Sum [&#128279;](https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d)

@@ -329,6 +329,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20Out%20The%20Men%20From%20Boys.js)
 - Sort rectangles and circles by area II [&#128279;](https://www.codewars.com/kata/5a1ebc2480171f29cf0000e5)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20rectangles%20and%20circles%20by%20area%20II.js)
+- Sort Santa's Reindeer [&#128279;](https://www.codewars.com/kata/52ab60b122e82a6375000bad)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20Santa-s%20Reindeer.js)
 - Square Every Digit [&#128279;](https://www.codewars.com/kata/546e2562b03326a88e000020)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Square%20Every%20Digit.js)
 - String ends with? [&#128279;](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)

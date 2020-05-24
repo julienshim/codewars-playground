@@ -186,6 +186,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20area%20of%20the%20rectangle-.js)
 - Find the capitals [&#128279;](https://www.codewars.com/kata/539ee3b6757843632d00026b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20capitals.js)
+- Find the Capitals [&#128279;](https://www.codewars.com/kata/53573877d5493b4d6e00050c)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20Capitals.js)
 - Find the divisors! [&#128279;](https://www.codewars.com/kata/544aed4c4a30184e960010f4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20divisors-.js)
 - Find the next perfect square [&#128279;](https://www.codewars.com/kata/56269eb78ad2e4ced1000013)

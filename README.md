@@ -593,6 +593,7 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Sum%20of%20differences%20in%20array.js)
 - Sum of positive [&#128279;](https://www.codewars.com/kata/5715eaedb436cf5606000381)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Sum%20of%20positive.swift)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Sum%20of%20Positive.py)
 - Sum The Strings [&#128279;](https://www.codewars.com/kata/5966e33c4e686b508700002d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Sum%20The%20Strings.js)
 - Sum without highest and lowest number [&#128279;](https://www.codewars.com/kata/576b93db1129fcf2200001e6)

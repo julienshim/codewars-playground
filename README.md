@@ -510,6 +510,8 @@ A repository of personal Codewars solutions.
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Grasshopper%20-%20Personalized%20Message.swift)
 - Grasshopper - Summation [&#128279;](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Grasshopper%20-%20Summation.py)
+- How do I compare numbers? [&#128279;](https://www.codewars.com/kata/55d8618adfda93c89600012e/solutions/python)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/How%20do%20I%20compare%20numbers-.py)
 - How good are you really? [&#128279;](https://www.codewars.com/kata/5601409514fc93442500010b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/How%20good%20are%20you%20really-.js)
 - How many lightsabers do you own? [&#128279;](https://www.codewars.com/kata/51f9d93b4095e0a7200001b8)

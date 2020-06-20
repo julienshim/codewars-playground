@@ -310,6 +310,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Remove%20the%20minimum.js)
 - Resistor Color Codes [&#128279;](https://www.codewars.com/kata/57cf3dad05c186ba22000348)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Resistor%20Color%20Codes.js)
+- Reverse the bits in an integer [&#128279;](https://www.codewars.com/kata/5959ec605595565f5c00002b)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Reverse%20the%20bits%20in%20an%20integer.py)
 - Reverse words [&#128279;](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Reverse%20words.js)
 - Rotate for a Max [&#128279;](https://www.codewars.com/kata/56a4872cbb65f3a610000026)

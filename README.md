@@ -338,6 +338,7 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20Santa-s%20Reindeer.js)
 - Square Every Digit [&#128279;](https://www.codewars.com/kata/546e2562b03326a88e000020)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Square%20Every%20Digit.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Square%20Every%20Digit.py)
 - String ends with? [&#128279;](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/String%20ends%20with-.js)
 - String prefix and suffix [&#128279;](https://www.codewars.com/kata/5ce969ab07d4b7002dcaa7a1)

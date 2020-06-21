@@ -573,6 +573,7 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Reversed%20sequence.js)
 - Reversed Strings [&#128279;](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Reversed%20Strings.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Reversed%20Strings.py)
 - Reversed Words [&#128279;](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Reversed%20Words.js)
 - Reversing Words in a String [&#128279;](https://www.codewars.com/kata/57a55c8b72292d057b000594)

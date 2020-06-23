@@ -559,6 +559,8 @@ A repository of personal Codewars solutions.
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Opposite%20number.swift)
 - Regexp Basics - is it a digit? [&#128279;](https://www.codewars.com/kata/567bf4f7ee34510f69000032)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Regexp%20Basics%20-%20is%20it%20a%20digit-.js)
+- Regex count lowercase letters [&#128279;](https://www.codewars.com/kata/56a946cd7bd95ccab2000055)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Regex%20count%20lowercase%20letters.py)
 - Remove First and Last Character [&#128279;](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Remove%20First%20and%20Last%20Character.js)
 - Remove String Spaces [&#128279;](https://www.codewars.com/kata/57eae20f5500ad98e50002c5)

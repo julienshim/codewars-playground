@@ -592,6 +592,7 @@ A repository of personal Codewars solutions.
   [[.sql]](https://github.com/julienshim/codewars-playground/blob/master/SQL/8%20kyu/SQL%20Basics-%20Simple%20WHERE%20and%20ORDER%20BY.sql)
 - Square(n) Sum [&#128279;](https://www.codewars.com/kata/515e271a311df0350d00000f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Square-n-%20Sum.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Square-n-%20Sum.py)
 - Squash the bugs [&#128279;](https://www.codewars.com/kata/56f173a35b91399a05000cb7)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Squash%20the%20bugs.js)
 - String repeat [&#128279;](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)

@@ -315,6 +315,7 @@ A repository of personal Codewars solutions.
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Reverse%20the%20bits%20in%20an%20integer.py)
 - Reverse words [&#128279;](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Reverse%20words.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Reverse%20words.py)
 - Rotate for a Max [&#128279;](https://www.codewars.com/kata/56a4872cbb65f3a610000026)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Rotate%20for%20a%20Max.js)
 - Round to the next multiple of 5. [&#128279;](https://www.codewars.com/kata/55d1d6d5955ec6365400006d)

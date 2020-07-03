@@ -562,6 +562,7 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/No%20Loops%202%20-%20You%20only%20need%20one.js)
 - Opposite number [&#128279;](https://www.codewars.com/kata/56dec885c54a926dcd001095)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Opposite%20number.swift)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Opposite%20number.py)
 - Regexp Basics - is it a digit? [&#128279;](https://www.codewars.com/kata/567bf4f7ee34510f69000032)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Regexp%20Basics%20-%20is%20it%20a%20digit-.js)
 - Regex count lowercase letters [&#128279;](https://www.codewars.com/kata/56a946cd7bd95ccab2000055)

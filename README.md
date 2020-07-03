@@ -569,6 +569,7 @@ A repository of personal Codewars solutions.
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Regex%20count%20lowercase%20letters.py)
 - Remove First and Last Character [&#128279;](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Remove%20First%20and%20Last%20Character.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Remove%20First%20and%20Last%20Character.py)
 - Remove String Spaces [&#128279;](https://www.codewars.com/kata/57eae20f5500ad98e50002c5)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Remove%20String%20Spaces.js)
 - Return Negative [&#128279;](https://www.codewars.com/kata/55685cd7ad70877c23000102)

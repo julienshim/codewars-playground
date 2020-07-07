@@ -158,6 +158,7 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Debug%20Sum%20of%20Digits%20of%20a%20Number.js]
 - Descending Order [&#128279;](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Descending%20Order.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Descending%20Order.py)
 - Disemvowel Trolls [&#128279;](https://www.codewars.com/kata/52fba66badcd10859f00097e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Disemvowel%20Trolls.js)
 - Divide and Conquer [&#128279;](https://www.codewars.com/kata/57eaec5608fed543d6000021)

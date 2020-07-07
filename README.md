@@ -236,6 +236,7 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Help%20Bob%20count%20letters%20and%20digits-.js)
 - Highest and Lowest [&#128279;](https://www.codewars.com/kata/554b4ac871d6813a03000035)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Highest%20and%20Lowest.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Highest%20and%20Lowest.py)
 - Holiday II - Plane Seating [&#128279;](https://www.codewars.com/kata/57e8f757085f7c7d6300009a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Holiday%20II%20-%20Plane%20Seating.js)
 - How many arguments [&#128279;](https://www.codewars.com/kata/5c44b0b200ce187106452139)

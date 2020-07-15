@@ -625,6 +625,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Surface%20Area%20and%20Volume%20of%20a%20Box.js)
 - Switch it Up! [&#128279;](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Switch%20it%20Up-.swift)
+- The falling speed of petals [&#128279;](https://www.codewars.com/kata/5a0be7ea8ba914fc9c00006b/solutions/javascript)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/The%20falling%20speed%20of%20petals.js)
 - The Feast of Many Beasts [&#128279;](https://www.codewars.com/kata/5aa736a455f906981800360d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/The%20Feast%20of%20Many%20Beasts.js)
 - The Wide-Mouthed frog! [&#128279;](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89)

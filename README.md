@@ -350,6 +350,7 @@ A repository of personal Codewars solutions.
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Square%20Every%20Digit.py)
 - String ends with? [&#128279;](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/String%20ends%20with-.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/String%20ends%20with-.py)
 - String prefix and suffix [&#128279;](https://www.codewars.com/kata/5ce969ab07d4b7002dcaa7a1)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/String%20prefix%20and%20suffix.js)
 - Substring fun [&#128279;](https://www.codewars.com/kata/565b112d09c1adfdd500019c)

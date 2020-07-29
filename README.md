@@ -663,6 +663,7 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/What%20is%20between-.js)
 - Will there be enough space? [&#128279;](https://www.codewars.com/kata/5875b200d520904a04000003)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Will%20there%20be%20enough%20space-.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Will%20there%20be%20enough%20space-py)
 - Will you make it? [&#128279;](https://www.codewars.com/kata/5861d28f124b35723e00005e)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Will%20you%20make%20it-.py)
 - You only need one - Beginner [&#128279;](https://www.codewars.com/kata/57cc975ed542d3148f00015b)

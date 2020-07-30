@@ -390,6 +390,7 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Validate%20credit%20card%20expiry%20date.js)
 - "Very Even" Numbers. [&#128279;](https://www.codewars.com/kata/58c9322bedb4235468000019/train)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/-Very%20Even-%20Numbers-.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/-Very%20Even-%20Numbers-.py)
 - Vowel Count [&#128279;](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Vowel%20Count.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Vowel%20Count.py)

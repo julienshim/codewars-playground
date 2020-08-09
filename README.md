@@ -47,6 +47,7 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Counting%20Duplicates.js)
 - Create Phone Number [&#128279;](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Create%20Phone%20Number.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/6%20kyu/Create%20Phone%20Number.py)
 - Decipher this! [&#128279;](https://www.codewars.com/kata/581e014b55f2c52bb00000f8)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Decipher%20this-.js)
 - Detect Pangram [&#128279;](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)

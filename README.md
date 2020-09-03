@@ -157,7 +157,7 @@ A repository of personal Codewars solutions.
 - Credit Card Mask [&#128279;](https://www.codewars.com/kata/5412509bd436bd33920011bc)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Credit%20Card%20Mask.js)
 - Debug Sum of Digits of a Number [&#128279;](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)
-  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Debug%20Sum%20of%20Digits%20of%20a%20Number.js]
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Debug%20Sum%20of%20Digits%20of%20a%20Number.js)
 - Descending Order [&#128279;](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Descending%20Order.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Descending%20Order.py)

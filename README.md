@@ -658,6 +658,7 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Triple%20Trouble.js)
 - Twice as old [&#128279;](https://www.codewars.com/kata/5b853229cfde412a470000d0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Twice%20as%20old.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Twice%20as%20old.py)
 - Watermelon [&#128279;](https://www.codewars.com/kata/55192f4ecd82ff826900089e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Watermelon.js)
 - Welcome! [&#128279;](https://www.codewars.com/kata/577ff15ad648a14b780000e7)

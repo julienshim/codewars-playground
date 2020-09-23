@@ -32,6 +32,7 @@ A repository of personal Codewars solutions.
 
 - Are they the "same"? [&#128279;](https://www.codewars.com/kata/550498447451fbbd7600041c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Are%20they%20the%20-same--.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/6%20kyu/Are%20they%20the%20-same--.py)
 - Array.diff [&#128279;](https://www.codewars.com/kata/523f5d21c841566fde000009)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Array-diff.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/6%20kyu/Array-diff.py)

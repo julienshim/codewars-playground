@@ -435,6 +435,7 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Beginner%20Series%20-2%20Clock.js)
 - Beginner Series #4 Cockroach [&#128279;](https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Beginner%20Series%20-4%20Cockroach.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Beginner%20Series%20-4%20Cockroach.py)
 - Bin to Decimal [&#128279;](https://www.codewars.com/kata/57a5c31ce298a7e6b7000334)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Bin%20to%20Decimal.js)
 - Calculate average [&#128279;](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)

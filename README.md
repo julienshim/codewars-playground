@@ -140,6 +140,7 @@ A repository of personal Codewars solutions.
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Binary%20Calculator.swift)
 - Breaking chocolate problem [&#128279;](https://www.codewars.com/kata/534ea96ebb17181947000ada)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Breaking%20chocolate%20problem.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Breaking%20chocolate%20problem.py)
 - By 3, or not by 3? That is the question . . . [&#128279;](https://www.codewars.com/kata/59f7fc109f0e86d705000043)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/By%203-%20or%20not%20by%203-%20That%20is%20the%20question%20-%20-%20-.js)
 - Categorize New Member [&#128279;](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)

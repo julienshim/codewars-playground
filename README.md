@@ -81,6 +81,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Playing%20with%20digits.js)
 - regex pattern to check if string has all characters [&#128279;](https://www.codewars.com/kata/5e4eb72bb95d28002dbbecde)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/regex%20pattern%20to%20check%20if%20string%20has%20all%20characters.js)
+  Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c002a2b8cc8)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/6%20kyu/Remove%20the%20parentheses.py)
 - Replace With Alphabet Position [&#128279;](https://www.codewars.com/kata/546f922b54af40e1e90001da)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Replace%20With%20Alphabet%20Position.js)
 - Reverse every other word in the string [&#128279;](https://www.codewars.com/kata/58d76854024c72c3e20000de)

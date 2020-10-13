@@ -1,4 +1,5 @@
-from math import floor 
+from math import floor
+
 
 def cockroach_speed(s):
     # Good Luck!

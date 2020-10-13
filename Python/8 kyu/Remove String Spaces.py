@@ -1,5 +1,5 @@
 def no_space(x):
-    #your code here
+    # your code here
     return ''.join([w for w in x if w not in ' '])
 
 # dry

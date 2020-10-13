@@ -1,6 +1,6 @@
 def filter_list(l):
-  'return a new list with the strings filtered out'
-  return [n for n in l if type(n) == int]
+    'return a new list with the strings filtered out'
+    return [n for n in l if type(n) == int]
 
 # alt
 

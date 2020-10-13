@@ -589,7 +589,7 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Remove%20String%20Spaces.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Remove%20String%20Spaces.py)
 - Return Negative [&#128279;](https://www.codewars.com/kata/55685cd7ad70877c23000102)
-  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Return%20Negative.py)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Return%20Negative.py)
 - Returning Strings [&#128279;](https://www.codewars.com/kata/55a70521798b14d4750000a4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Returning%20Strings.js)
 - Reverse words [&#128279;](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)

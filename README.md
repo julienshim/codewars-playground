@@ -309,6 +309,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Odd%20or%20Even-.js)
 - Ones and Zeros [&#128279;](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Ones%20and%20Zeros.js)
+- Password should not contain any part of your username. [&#128279;](https://www.codewars.com/kata/5c511d8877c0070e2c195faf)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Password%20should%20not%20contain%20any%20part%20of%20your%20username-.js)
 - Predict your age! [&#128279;](https://www.codewars.com/kata/5aff237c578a14752d0035ae)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Predict%20your%20age-.js)
 - Printer Errors [&#128279;](https://www.codewars.com/kata/56541980fa08ab47a0000040)

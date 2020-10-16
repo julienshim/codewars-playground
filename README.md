@@ -267,6 +267,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Largest%205%20digit%20number%20in%20a%20series.js)
 - Leap Years [&#128279;](https://www.codewars.com/kata/526c7363236867513f0005ca)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Leap%20Years.js)
+- Least Larger [&#128279;](https://www.codewars.com/kata/5f8341f6d030dc002a69d7e4)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Least%20Larger.js)
 - List Filtering [&#128279;](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/List%20Filtering.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/List%20Filtering.py)

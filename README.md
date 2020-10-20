@@ -177,6 +177,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Double%20Sort.js)
 - Drying Potatos [&#128279;](https://www.codewars.com/kata/58ce8725c835848ad6000007)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Drying%20Potatoes.swift)
+- Duplicate sandwich [&#128279;](https://www.codewars.com/kata/5f8a15c06dbd530016be0c19)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Duplicate%20sandwiich.js)
 - Easy wallpaper [&#128279;](https://www.codewars.com/kata/567501aec64b81e252000003)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Easy%20wallpaper.swift)
 - Even numbers in an array [&#128279;](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c)

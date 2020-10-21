@@ -38,6 +38,8 @@ A repository of personal Codewars solutions.
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/6%20kyu/Array-diff.py)
 - Backspaces in string [&#128279;](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Backspaces%20in%20string.js)
+- Break camelCase [&#128279;](https://www.codewars.com/kata/5208f99aee097e6552000148)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Break%20camelCase.js)
 - Build Tower [&#128279;](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Build%20Tower.js)
 - Count characters in your string [&#128279;](https://www.codewars.com/kata/52efefcbcdf57161d4000091)

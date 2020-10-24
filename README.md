@@ -403,6 +403,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Two%20fighters%20-%20one%20winner.js)
 - Two to One [&#128279;](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Two%20to%20One.js)
+- Uglify Word [&#128279;](https://www.codewars.com/kata/5ce6cf94cb83dc0020da1929)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Uglify%20Word.js)
 - Validate credit card expiry date [&#128279;](https://www.codewars.com/kata/58c3fbe3ea65729f3800007d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Validate%20credit%20card%20expiry%20date.js)
 - "Very Even" Numbers. [&#128279;](https://www.codewars.com/kata/58c9322bedb4235468000019/train)

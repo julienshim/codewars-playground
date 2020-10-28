@@ -372,6 +372,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/String%20prefix%20and%20suffix.js)
 - Substring fun [&#128279;](https://www.codewars.com/kata/565b112d09c1adfdd500019c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Substring%20fun.js)
+- Sum of a sequence [&#128279;](https://www.codewars.com/kata/586f6741c66d18c22800010a)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Sum%20of%20a%20sequence.py)
 - Sum of all the multiples of 3 or 5 [&#128279;](https://www.codewars.com/kata/57f36495c0bb25ecf50000e7)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sum%20of%20all%20the%20multiples%20of%203%20or%205.js)
 - Sum of integers in string [&#128279;](https://www.codewars.com/kata/598f76a44f613e0e0b000026)

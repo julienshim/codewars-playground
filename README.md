@@ -160,6 +160,8 @@ A repository of personal Codewars solutions.
 - Count the Digit [&#128279;](https://www.codewars.com/kata/566fc12495810954b1000030)
 - Count the divisors of a number [&#128279;](https://www.codewars.com/kata/542c0f198e077084c0000c2e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Count%20the%20divisors%20of%20a%20number.js)
+- Counting Array Elements [&#128279;](https://www.codewars.com/kata/5569b10074fe4a6715000054)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Counting%20Array%20Elements.py)
 - Counting in the Amazon [&#128279;](https://www.codewars.com/kata/55b95c76e08bd5eef100001e)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Counting%20in%20the%20Amazon.swift)
 - Credit Card Mask [&#128279;](https://www.codewars.com/kata/5412509bd436bd33920011bc)

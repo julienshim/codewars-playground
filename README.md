@@ -315,6 +315,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Numbers%20to%20Letters.js)
 - Numbers with this digit inside [&#128279;](https://www.codewars.com/kata/57ad85bb7cb1f3ae7c000039)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Numbers%20with%20this%20digit%20inside.js)
+- Odd One Out [&#128279;](https://www.codewars.com/kata/59670a7591dae8b6900000e4)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Odd%20One%20Out.js)
 - Odd or Even? [&#128279;](https://www.codewars.com/kata/5949481f86420f59480000e7)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Odd%20or%20Even-.js)
 - Ones and Zeros [&#128279;](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)

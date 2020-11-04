@@ -627,6 +627,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Reversing%20Words%20in%20a%20String.js)
 - Rock Paper Scissors! [&#128279;](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Rock%20Paper%20Scissors-.py)
+- Sentence Smash [&#128279;](https://www.codewars.com/kata/53dc23c68a0c93699800041d)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Sentence%20Smash.js)
 - Simple Fun #1: Seats in Theater [&#128279;](https://www.codewars.com/kata/588417e576933b0ec9000045)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Simple%20Fun%20-1-%20Seats%20in%20Theater.js)
 - Simple multiplication [&#128279;](https://www.codewars.com/kata/583710ccaa6717322c000105)

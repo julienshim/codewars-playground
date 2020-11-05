@@ -288,6 +288,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Love%20vs%20friendship.js)
 - Make a function that does arithmetic! [&#128279;](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Make%20a%20function%20that%20does%20arithmetic-.js)
+- Maximum Length Difference [&#128279;](https://www.codewars.com/kata/5663f5305102699bad000056)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Maximum%20Length%20Difference.js)
 - Maximum Multiple [&#128279;](https://www.codewars.com/kata/5aba780a6a176b029800041c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Maximum%20Multiple.js)
 - Minimize Sum Of Array (Array Series #1) [&#128279;](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b)

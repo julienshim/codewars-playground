@@ -517,6 +517,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Exclamation%20marks%20series%20-2-%20Remove%20all%20exclamation%20marks%20from%20the%20end%20of%20sentence.js)
 - Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence [&#128279;](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Exclamation%20marks%20series%20-11-%20Replace%20all%20vowel%20to%20exclamation%20mark%20in%20the%20sentence.js)
+- Exclusive "or" (xor) Logical Operator [&#128279;](https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Exclusive%20-or-%20-xor-%20Logical%20Operator.js)
 - Expressions Matter [&#128279;](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Expressions%20Matter.js)
 - Filter out the geese [&#128279;](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7)

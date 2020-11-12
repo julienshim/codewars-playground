@@ -209,6 +209,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20Capitals.js)
 - Find the divisors! [&#128279;](https://www.codewars.com/kata/544aed4c4a30184e960010f4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20divisors-.js)
+- Find the middle element [&#128279;](https://www.codewars.com/kata/545a4c5a61aa4c6916000755)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20middle%20element.js)
 - Find the Missing Number [&#128279;](https://www.codewars.com/kata/57f5e7bd60d0a0cfd900032d)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Finding%20the%20Missing%20Number.py)
 - Find the next perfect square [&#128279;](https://www.codewars.com/kata/56269eb78ad2e4ced1000013)

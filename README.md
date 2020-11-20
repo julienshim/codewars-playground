@@ -227,6 +227,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Fizz%20Buzz.js)
 - Flatten and sort an array [&#128279;](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Flatten%20and%20sort%20an%20array.js)
+- Form The Largest [&#128279;](https://www.codewars.com/kata/5a4ea304b3bfa89a9900008e)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Form%20The%20Largest.js)
 - Form The Minimum [&#128279;](https://www.codewars.com/kata/5ac6932b2f317b96980000ca)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Form%20The%20Minimum.js)
 - Friend or Foe? [&#128279;](https://www.codewars.com/kata/55b42574ff091733d900002f)

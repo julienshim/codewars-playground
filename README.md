@@ -281,6 +281,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Leap%20Years.js)
 - Least Larger [&#128279;](https://www.codewars.com/kata/5f8341f6d030dc002a69d7e4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Least%20Larger.js)
+- Life Path Number [&#128279;](https://www.codewars.com/kata/5a1a76c8a7ad6aa26a0007a0)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Life%20Path%20Number.js)
 - List Filtering [&#128279;](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/List%20Filtering.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/List%20Filtering.py)

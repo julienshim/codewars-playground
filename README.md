@@ -529,6 +529,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Exclusive%20-or-%20-xor-%20Logical%20Operator.js)
 - Expressions Matter [&#128279;](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Expressions%20Matter.js)
+- Filling an array (part 1) [&#128279;](https://www.codewars.com/kata/571d42206414b103dc0006a1)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Filling%20an%20array%20(part%201).py)
 - Filter out the geese [&#128279;](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Filter%20out%20the%20geese.js)
 - Find Maximum and Minimum Values of a List [&#128279;](https://www.codewars.com/kata/577a98a6ae28071780000989)

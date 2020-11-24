@@ -604,6 +604,8 @@ A repository of personal Codewars solutions.
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/MakeUpperCase.py)
 - Multiple of index [&#128279;](https://www.codewars.com/kata/5a34b80155519e1a00000009)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Multiple%20of%20index.js)
+- Multiplication table for number [&#128279;](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Multiplication%20table%20for%20number.py)
 - Multiply [&#128279;](https://www.codewars.com/kata/50654ddff44f800200000004)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Multiply.js)
   [[.sql]](https://github.com/julienshim/codewars-playground/blob/master/SQL/8%20kyu/Multiply.sql)

@@ -319,6 +319,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/My%20Languages.js)
 - No Loops 1 - Small enough? [&#128279;](https://www.codewars.com/kata/57cc4853fa9fc57a6a0002c2)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/No%20Loops%201%20-%20Small%20enough-.js)
+- Nth power rules them all! [&#128279;](https://www.codewars.com/kata/58aed2cafab8faca1d000e20)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Nth%20power%20rules%20them%20all-.js)
 - Number of Decimal Digits [&#128279;](https://www.codewars.com/kata/58fa273ca6d84c158e000052)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Number%20of%20Decimal%20Digits.js)
 - Number of People in the Bus [&#128279;](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)

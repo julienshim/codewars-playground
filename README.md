@@ -721,6 +721,7 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Well%20of%20Ideas%20-%20Easy%20Version.js)
 - What is between? [&#128279;](https://www.codewars.com/kata/55ecd718f46fba02e5000029)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/What%20is%20between-.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/What%20is%20between-.py)
 - Will there be enough space? [&#128279;](https://www.codewars.com/kata/5875b200d520904a04000003)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Will%20there%20be%20enough%20space-.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Will%20there%20be%20enough%20space-.py)

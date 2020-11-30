@@ -714,6 +714,7 @@ A repository of personal Codewars solutions.
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Twice%20as%20old.py)
 - Watermelon [&#128279;](https://www.codewars.com/kata/55192f4ecd82ff826900089e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Watermelon.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Watermelon.py)
 - Welcome! [&#128279;](https://www.codewars.com/kata/577ff15ad648a14b780000e7)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Welcome-.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Welcome-.py)

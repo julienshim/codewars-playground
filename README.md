@@ -175,6 +175,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Disemvowel%20Trolls.js)
 - Divide and Conquer [&#128279;](https://www.codewars.com/kata/57eaec5608fed543d6000021)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Divide%20and%20Conquer.js)
+- Dominant array elements [&#128279;](https://www.codewars.com/kata/5a04133e32b8b998dc000089/)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Dominant%20array%20elements.js)
 - Don't give me five! [&#128279;](https://www.codewars.com/kata/5813d19765d81c592200001a)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Don-t%20give%20me%20five-.swift)
 - Double Sort [&#128279;](https://www.codewars.com/kata/57cc79ec484cf991c900018d)

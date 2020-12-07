@@ -69,6 +69,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Find%20the%20odd%20int.js)
 - Find the unique number [&#128279;](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Find%20the%20unique%20number.js)
+- Format a string of names like 'Bart, Lisa & Maggie'. [&#128279;](https://www.codewars.com/kata/53368a47e38700bd8300030d)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Format%20a%20string%20of%20names%20like%20-Bart-%20Lisa%20-%20Maggie-.js)
 - From..To..Series #1: from m to n. Find the maximum range [&#128279;](https://www.codewars.com/kata/58065440a4647e0ed3000230)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/From--To--Series%20-1-%20from%20m%20to%20n-%20Find%20the%20maximum%20range.js)
 - Highest Scoring Word [&#128279;](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)

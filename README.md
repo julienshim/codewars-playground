@@ -67,6 +67,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Fibonacci-%20Tribonacci%20and%20friends.js)
 - Find the odd int [&#128279;](https://www.codewars.com/kata/54da5a58ea159efa38000836)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Find%20the%20odd%20int.js)
+- Find The Parity Outlier [&#128279;](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Find%20The%20Parity%20Outlier.js)
 - Find the unique number [&#128279;](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Find%20the%20unique%20number.js)
 - Format a string of names like 'Bart, Lisa & Maggie'. [&#128279;](https://www.codewars.com/kata/53368a47e38700bd8300030d)

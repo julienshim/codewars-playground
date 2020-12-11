@@ -432,6 +432,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/The%20highest%20profit%20wins.js)
 - The Office I - Outed [&#128279;](https://www.codewars.com/kata/57ecf6efc7fe13eb070000e1)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/The%20Office%20I%20-%20Outed.js)
+- Thinking & Testing : Uniq or not Uniq [&#128279;](https://www.codewars.com/kata/56d949281b5fdc7666000004)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Thinking%20-%20Testing-%20Uniq%20or%20not%20Uniq.js)
 - ToLeetSpeak [&#128279;](https://www.codewars.com/kata/57c1ab3949324c321600013f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/ToLeetSpeak.js)
 - Triangular Treasure [&#128279;](https://www.codewars.com/kata/525e5a1cb735154b320002c8)

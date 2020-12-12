@@ -287,6 +287,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Isograms.js)
 - Jaden Casing Strings [&#128279;](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Jaden%20Casing%20Strings.js)
+- L2: Triple X [&#128279;](https://www.codewars.com/kata/568dc69683322417eb00002c)
+  [[.js]](https://github.com/julienshim/codewars-playground/commit/c626279ce7a0adc05c981f253c3b8a3f06b0de96)
 - Larger Product or Sum [&#128279;](https://www.codewars.com/kata/5c4cb8fc3cf185147a5bdd02)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Larger%20Product%20or%20Sum.js)
 - Largest 5 digit number in a series [&#128279;](https://www.codewars.com/kata/51675d17e0c1bed195000001)

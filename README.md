@@ -436,6 +436,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/The%20Office%20I%20-%20Outed.js)
 - Thinking & Testing: A and B? [&#128279;](https://www.codewars.com/kata/56d904db9963e9cf5000037d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Thinking%20-%20Testing-%20A%20and%20B-.js)
+  Thinking & Testing : Incomplete string [&#128279;](https://www.codewars.com/kata/56d9292cc11bcc3629000533)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Thinking%20-%20Testing%20-%20Incomplete%20string.js)
 - Thinking & Testing : Uniq or not Uniq [&#128279;](https://www.codewars.com/kata/56d949281b5fdc7666000004)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Thinking%20-%20Testing-%20Uniq%20or%20not%20Uniq.js)
 - ToLeetSpeak [&#128279;](https://www.codewars.com/kata/57c1ab3949324c321600013f)

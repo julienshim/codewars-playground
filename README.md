@@ -697,7 +697,7 @@ A repository of personal Codewars solutions.
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/String%20repeat.py)
 - Stringy Strings [&#128279;](https://www.codewars.com/kata/563b74ddd19a3ad462000054)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Stringy%20Strings.swift)
-- Sum Arrays [&#128279;](https://www.codewars.com/kata/53dc54212259ed3d4f00071c)  
+- Sum Arrays [&#128279;](https://www.codewars.com/kata/53dc54212259ed3d4f00071c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Sum%20Arrays.js)
 - Sum Mixed Array [&#128279;](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Sum%20Mixed%20Array.js)

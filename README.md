@@ -268,6 +268,8 @@ A repository of personal Codewars solutions.
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Highest%20and%20Lowest.py)
 - Holiday II - Plane Seating [&#128279;](https://www.codewars.com/kata/57e8f757085f7c7d6300009a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Holiday%20II%20-%20Plane%20Seating.js)
+- Homogenous arrays [&#128279;](https://www.codewars.com/kata/57ef016a7b45ef647a00002d)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Homogenous%20arrays.js)
 - How many arguments [&#128279;](https://www.codewars.com/kata/5c44b0b200ce187106452139)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/How%20many%20arguments.py)
 - How many consecutive numbers are needed? [&#128279;](https://www.codewars.com/kata/559cc2d2b802a5c94700000c)

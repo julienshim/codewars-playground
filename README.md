@@ -159,6 +159,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/By%203-%20or%20not%20by%203-%20That%20is%20the%20question%20-%20-%20-.js)
 - Categorize New Member [&#128279;](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Categorize%20New%20Member.js)
+- [Code Golf] Return Odd No Matter What [&#128279;](https://www.codewars.com/kata/5f882dcc272e7a00287743f5)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/-Code%20Golf-%20Return%20Odd%20No%20Matter%20What.py)
 - Complementary DNA [&#128279;](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Complementary%20DNA.js)
 - Correct the time-string [&#128279;](https://www.codewars.com/kata/57873ab5e55533a2890000c7)

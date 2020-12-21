@@ -461,6 +461,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Two%20to%20One.js)
 - Uglify Word [&#128279;](https://www.codewars.com/kata/5ce6cf94cb83dc0020da1929)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Uglify%20Word.js)
+- Unique string characters [&#128279;](https://www.codewars.com/kata/5a262cfb8f27f217f700000b)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Unique%20string%20characters.js)
 - Unlucky Days [&#128279;](https://www.codewars.com/kata/56eb0be52caf798c630013c0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Unlucky%20Days.js)
 - Valid Spacing [&#128279;](https://www.codewars.com/kata/5f77d62851f6bc0033616bd8)

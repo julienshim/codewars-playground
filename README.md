@@ -278,6 +278,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/How%20many%20consecutive%20numbers%20are%20needed-.js)
 - How many urinals are free? [&#128279;](https://www.codewars.com/kata/5e2733f0e7432a000fb5ecc4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/How%20many%20urinals%20are%20free-.js)
+- Interview Question (easy) [&#128279;](https://www.codewars.com/kata/5b358a1e228d316283001892)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Interview%20Question%20-easy-.js)
 - Ironman Triathlon [&#128279;](https://www.codewars.com/kata/57d001b405c186ccb6000304)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Ironman%20Triathlon.js)
 - Is It Negative Zero (-0)? [&#128279;](Is It Negative Zero (-0)?)

@@ -593,6 +593,8 @@ A repository of personal Codewars solutions.
 - Function 1 - hello world [&#128279;](https://www.codewars.com/kata/523b4ff7adca849afe000035)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Function%201%20-%20hello%20world.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Function%201%20-%20hello%20world.py)
+- Function 2 - squaring an argument [&#128279;](https://www.codewars.com/kata/523b623152af8a30c6000027)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Function%202%20-%20squaring%20an%20argument.js)
 - Function 3 - multiplying two numbers [&#128279;](https://www.codewars.com/kata/523b66342d0c301ae400003b)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Function%203%20-%20multiplying%20two%20numbers.swift)
 - Generate range of integers [&#128279;](https://www.codewars.com/kata/55eca815d0d20962e1000106)

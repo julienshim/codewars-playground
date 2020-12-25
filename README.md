@@ -152,6 +152,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Binary%20Addition.js)
 - Binary Calculator [&#128279;](https://www.codewars.com/kata/546ba103f0cf8f7982000df4)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Binary%20Calculator.swift)
+- Boiled Eggs [&#128279;](https://www.codewars.com/kata/52b5247074ea613a09000164)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Boiled%20Eggs.js)
 - Breaking chocolate problem [&#128279;](https://www.codewars.com/kata/534ea96ebb17181947000ada)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Breaking%20chocolate%20problem.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Breaking%20chocolate%20problem.py)

@@ -671,6 +671,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/No%20Loops%202%20-%20You%20only%20need%20one.js)
 - N-th Power [&#128279;](https://www.codewars.com/kata/57d814e4950d8489720008db)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/N-th%20Power.js)
+- NBA full 48 minutes average [&#128279;](https://www.codewars.com/kata/587c2d08bb65b5e8040004fd)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/NBA%20full%2048%20minutes%20average.js)
 - Opposite number [&#128279;](https://www.codewars.com/kata/56dec885c54a926dcd001095)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Opposite%20number.swift)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Opposite%20number.py)

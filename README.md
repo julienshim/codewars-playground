@@ -42,6 +42,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Break%20camelCase.js)
 - Build Tower [&#128279;](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Build%20Tower.js)
+- Convert [&#128279;](https://www.codewars.com/kata/517abf86da9663f1d2000003)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Convert%20string%20to%20camel%20case.js)
 - Count characters in your string [&#128279;](https://www.codewars.com/kata/52efefcbcdf57161d4000091)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Count%20characters%20in%20your%20string.js)
 - Count the smiley faces! [&#128279;](https://www.codewars.com/kata/583203e6eb35d7980400002a)

@@ -19,6 +19,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Directions%20Reduction.js)
 - Extract the domain name from a URL [&#128279;](https://www.codewars.com/kata/514a024011ea4fb54200004b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Extract%20the%20domain%20name%20from%20a%20URL.js)
+- Moving Zeros To The End [&#128279;](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Moving%20Zeros%20To%20The%20End.js)
 - Regex Password Validation [&#128279;](https://www.codewars.com/kata/52e1476c8147a7547a000811)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Regex%20Password%20Validation.js)
 - RGB To Hex Conversion [&#128279;](https://www.codewars.com/kata/513e08acc600c94f01000001)

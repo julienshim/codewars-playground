@@ -57,6 +57,8 @@ A repository of personal Codewars solutions.
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/6%20kyu/Create%20Phone%20Number.py)
 - Decipher this! [&#128279;](https://www.codewars.com/kata/581e014b55f2c52bb00000f8)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Decipher%20this-.js)
+- Delete occurrences of an element if it occurs more than n times [&#128279;](https://www.codewars.com/kata/554ca54ffa7d91b236000023)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Delete%20occurrences%20of%20an%20element%20if%20it%20occurs%20more%20than%20n%20times.js)
 - Detect Pangram [&#128279;](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Detect%20Pangram.js)
 - Dubstep [&#128279;](https://www.codewars.com/kata/551dc350bf4e526099000ae5)

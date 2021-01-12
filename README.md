@@ -571,6 +571,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Count%20the%20Monkeys-.js)
 - Counting sheep... [&#128279;](https://www.codewars.com/kata/54edbc7200b811e956000556)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Counting%20sheep---.py)
+- CSV representation of array [&#128279;](https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/CSV%20representation%20of%20array.js)
 - Do I get a bonus? [&#128279;](https://www.codewars.com/kata/56f6ad906b88de513f000d96)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Do%20I%20get%20a%20bonus-.js)
 - Dollars and Cents [&#128279;](https://www.codewars.com/kata/55902c5eaa8069a5b4000083)

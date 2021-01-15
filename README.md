@@ -141,6 +141,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/All%20Star%20Code%20Challenge%20-22.js)
 - Alphabetical Addition [&#128279;](https://www.codewars.com/kata/5d50e3914861a500121e1958)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Alphabetical%20Addition.js)
+- Alphabet symmetry [&#128279;](https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Alphabet%20symmetry.js)
 - Alternate capitalization [&#128279;](https://www.codewars.com/kata/59cfc000aeb2844d16000075)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Alternate%20capitalization.py)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Alternative%20capitalization.js)

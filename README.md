@@ -12,7 +12,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/4%20kyu/Large%20Factorials.js)
 
 [5 kyu]
-
+- Calculate Variance [&#128279;](https://www.codewars.com/kata/5266fba01283974e720000fa)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Calculate%20Variance.js)
 - Can you get the loop ? [&#128279;](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Can%20you%20get%20the%20loop%20-.js)
 - Directions Reduction [&#128279;](https://www.codewars.com/kata/550f22f4d758534c1100025a)

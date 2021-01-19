@@ -151,6 +151,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Anagram%20Detection.js)
 - Array comparator [&#128279;](https://www.codewars.com/kata/561046a9f629a8aac000001d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Array%20comparator.js)
+- Array element parity [&#128279;](https://www.codewars.com/kata/5a092d9e46d843b9db000064)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Array%20element%20parity.js)
 - Basic Math (Add or Subtract) [&#128279;](https://www.codewars.com/kata/5809b62808ad92e31b000031)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Basic%20Math%20-Add%20or%20Subtract-.js)
 - Beginner Series #3 Sum of Numbers [&#128279;](https://www.codewars.com/kata/55f2b110f61eb01779000053)

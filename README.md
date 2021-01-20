@@ -86,6 +86,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Highest%20Scoring%20Word.js)
 - IQ Test [&#128279;](https://www.codewars.com/kata/552c028c030765286c00007d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/IQ%20Test.js)
+- Message Validator [&#128279;](https://www.codewars.com/kata/5fc7d2d2682ff3000e1a3fbc)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Message%20Validator.js)
 - Mexican Wave [&#128279;](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Mexican%20Wave.js)
 - Multiples of 3 or 5 [&#128279;](https://www.codewars.com/kata/514b92a657cdc65150000006)

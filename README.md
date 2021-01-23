@@ -419,6 +419,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Simple%20Fun%20-176-%20Reverse%20Letter.js)
 - Simple letter removal [&#128279;](https://www.codewars.com/kata/5b728f801db5cec7320000c7)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Simple%20letter%20removal.js)
+- Simple string reversal [&#128279;](https://www.codewars.com/kata/5a71939d373c2e634200008e)
+  [[.js[[(https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Simple%20string%20reversal.js)
 - Smallest value of an array [&#128279;](https://www.codewars.com/kata/544a54fd18b8e06d240005c0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Smallest%20value%20of%20an%20array.js)
 - Sort array by string length [&#128279;](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)

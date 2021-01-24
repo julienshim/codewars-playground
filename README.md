@@ -120,6 +120,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Tribonacci%20Sequence.js)
 - Unique In Order [&#128279;](https://www.codewars.com/kata/54e6533c92449cc251001667)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Unique%20In%20Order.js)
+- Upside down numbers [&#128279;](https://www.codewars.com/kata/59f7597716049833200001eb)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Upside%20down%20number.js)
 - WeIrD StRiNg CaSe [&#128279;](https://www.codewars.com/kata/52b757663a95b11b3d00062d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/WeIrD%20StRiNg%20CaSe.js)
 - What's in a name? [&#128279;](https://www.codewars.com/kata/59daf400beec9780a9000045)

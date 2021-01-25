@@ -329,6 +329,8 @@ A repository of personal Codewars solutions.
 - List Filtering [&#128279;](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/List%20Filtering.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/List%20Filtering.py)
+- Longest vowel chain [&#128279;](https://www.codewars.com/kata/59c5f4e9d751df43cf000035)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Longest%20vowel%20chain.js)
 - Lottery machine [&#128279;](https://www.codewars.com/kata/5832db03d5bafb7d96000107)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Lottery%20machine.js)
 - Lost number in number sequence [&#128279;](https://www.codewars.com/kata/595aa94353e43a8746000120)

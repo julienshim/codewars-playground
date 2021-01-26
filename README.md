@@ -30,6 +30,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Rot13.js)
 - Sum of Pairs [&#128279;](https://www.codewars.com/kata/54d81488b981293527000c8f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Sum%20of%20Pairs.js)
+- Weight for weight [&#128279;](https://www.codewars.com/users/julienshim)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Weight%20for%20weight.js)
 
 [6 kyu]
 

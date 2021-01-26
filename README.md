@@ -475,6 +475,8 @@ A repository of personal Codewars solutions.
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Sum%20of%20two%20lowest%20positive%20integers.swift)
 - Summing a number's digits [&#128279;](https://www.codewars.com/kata/52f3149496de55aded000410)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Summing%20a%20number-s%20digits.js)
+- Summy [&#128279;](https://www.codewars.com/kata/599c20626bd8795ce900001d)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Summy.js)
 - Tail Swap [&#128279;](https://www.codewars.com/kata/5868812b15f0057e05000001)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Tail%20Swap.js)
 - Testing 1-2-3 [&#128279;](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)

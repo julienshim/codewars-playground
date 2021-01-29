@@ -272,6 +272,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Friend%20or%20Foe-.js)
 - Functional Addition [&#128279;](https://www.codewars.com/kata/538835ae443aae6e03000547)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Functional%20Addition.swift)
+- Game Hit the target [&#128279;](https://www.codewars.com/kata/5ffc226ce1666a002bf023d2)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Game%20Hit%20the%20target.js)
 - Gauß needs help! (Sums of a lot of numbers). [&#128279;](https://www.codewars.com/kata/54df2067ecaa226eca000229)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Gauss%20needs%20help-%20-Sums%20of%20a%20lot%20of%20numbers-.py)
 - Get list sum recursively [&#128279;](https://www.codewars.com/kata/57a84137cf1fa5f9f80000d6)

@@ -150,6 +150,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Alphabetical%20Addition.js)
 - Alphabet symmetry [&#128279;](https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Alphabet%20symmetry.js)
+- Alphabet war [&#128279;](https://www.codewars.com/kata/59377c53e66267c8f6000027)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Alphabet%20war.js)
 - Alternate capitalization [&#128279;](https://www.codewars.com/kata/59cfc000aeb2844d16000075)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Alternate%20capitalization.py)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Alternative%20capitalization.js)

@@ -116,6 +116,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Sum%20of%20Digits%20-%20Digital%20Root.js)
 - Take a Ten Minute Walk [&#128279;](https://www.codewars.com/kata/54da539698b8a2ad76000228)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Take%20a%20Ten%20Minute%20Walk.js)
+- Title Case [&#128279;](https://www.codewars.com/kata/5202ef17a402dd033c000009)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Title%20Case.js)
 - Transform To Prime [&#128279;](https://www.codewars.com/kata/5a946d9fba1bb5135100007c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Transform%20To%20Prime.js)
 - Tribonacci Sequence [&#128279;](https://www.codewars.com/kata/556deca17c58da83c00002db)

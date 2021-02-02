@@ -10,6 +10,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/4%20kyu/Human%20readable%20duration%20format.js)
 - Large Factorials [&#128279;](https://www.codewars.com/kata/557f6437bf8dcdd135000010)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/4%20kyu/Large%20Factorials.js)
+- Most frequently used words in a text [&#128279;](https://www.codewars.com/kata/51e056fe544cf36c410000fb)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/4%20kyu/Most%20frequently%20used%20words%20in%20a%20text.js)
 
 [5 kyu]
 - Calculate Variance [&#128279;](https://www.codewars.com/kata/5266fba01283974e720000fa)

@@ -126,6 +126,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Transform%20To%20Prime.js)
 - Tribonacci Sequence [&#128279;](https://www.codewars.com/kata/556deca17c58da83c00002db)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Tribonacci%20Sequence.js)
+- Uncollapse Digits [&#128279;](https://www.codewars.com/kata/5a626fc7fd56cb63c300008c)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/6%20kyu/Uncollapse%20Digits.py)
 - Unique In Order [&#128279;](https://www.codewars.com/kata/54e6533c92449cc251001667)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Unique%20In%20Order.js)
 - Upside down numbers [&#128279;](https://www.codewars.com/kata/59f7597716049833200001eb)

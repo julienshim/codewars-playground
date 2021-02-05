@@ -143,6 +143,8 @@ A repository of personal Codewars solutions.
 
 [7 kyu]
 
+- 99 Bottles of Beer [&#128279;](https://www.codewars.com/kata/52a723508a4d96c6c90005ba)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/99%20Bottles%20of%20Beer.js)
 - Absent vowel [&#128279;](https://www.codewars.com/kata/56414fdc6488ee99db00002c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Absent%20vowel.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Absent%20vowel.py)

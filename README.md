@@ -388,6 +388,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Number%20of%20Decimal%20Digits.js)
 - Number of People in the Bus [&#128279;](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Number%20of%20People%20in%20the%20Bus.js)
+- Number to digit tiers [&#128279;](https://www.codewars.com/kata/586bca7fa44cfc833e00005c)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Number%20to%20digit%20tiers.js)
 - Numbers to Letters [&#128279;](https://www.codewars.com/kata/57ebaa8f7b45ef590c00000c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Numbers%20to%20Letters.js)
 - Numbers with this digit inside [&#128279;](https://www.codewars.com/kata/57ad85bb7cb1f3ae7c000039)

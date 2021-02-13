@@ -522,6 +522,8 @@ A repository of personal Codewars solutions.
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Triangular%20Treasure.swift)
 - Two fighters - one winner [&#128279;](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Two%20fighters%20-%20one%20winner.js)
+- Two Oldest Ages [&#128279;](https://www.codewars.com/kata/511f11d355fe575d2c000001)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Two%20Oldest%20Ages.js)
 - Two to One [&#128279;](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Two%20to%20One.js)
 - Uglify Word [&#128279;](https://www.codewars.com/kata/5ce6cf94cb83dc0020da1929)

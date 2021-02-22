@@ -120,6 +120,8 @@ A repository of personal Codewars solutions.
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/6%20kyu/Stop%20gninnipS%20My%20sdroW-.py)
 - Sum of Digits / Digital Root [&#128279;](https://www.codewars.com/kata/541c8630095125aba6000c00)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Sum%20of%20Digits%20-%20Digital%20Root.js)
+- Sum of Parts [&#128279;](https://www.codewars.com/kata/5ce399e0047a45001c853c2b)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Sums%20of%20Parts.js)
 - Take a Ten Minute Walk [&#128279;](https://www.codewars.com/kata/54da539698b8a2ad76000228)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Take%20a%20Ten%20Minute%20Walk.js)
 - Title Case [&#128279;](https://www.codewars.com/kata/5202ef17a402dd033c000009)

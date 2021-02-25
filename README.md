@@ -200,6 +200,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Categorize%20New%20Member.js)
 - Ce\*s\*r\*d Strings [&#128279;](codewars.com/kata/5ff6060ed14f4100106d8e6f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Ce-s-r-d%20Strings.js)
+- Chuck Norris I - Push Ups [&#128279;](https://www.codewars.com/kata/570564e838428f2eca001d73)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Chuck%20Norris%20I%20-%20Push%20Ups.js)
 - [Code Golf] Return Odd No Matter What [&#128279;](https://www.codewars.com/kata/5f882dcc272e7a00287743f5)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/-Code%20Golf-%20Return%20Odd%20No%20Matter%20What.py)
 - Complementary DNA [&#128279;](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)

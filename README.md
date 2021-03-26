@@ -651,7 +651,7 @@ A repository of personal Codewars solutions.
 - Expressions Matter [&#128279;](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Expressions%20Matter.js)
 - Fake Binary [&#128279;](https://www.codewars.com/kata/57eae65a4321032ce000002d)
-  [[.js))(https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Fake%20Binary.js)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Fake%20Binary.js)
 - Filling an array (part 1) [&#128279;](https://www.codewars.com/kata/571d42206414b103dc0006a1)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Filling%20an%20array%20(part%201).py)
 - Filter out the geese [&#128279;](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7)

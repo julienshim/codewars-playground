@@ -686,6 +686,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Get%20the%20mean%20of%20an%20array.js)
 - Grasshopper - Basic Function Fixer [&#128279;](https://www.codewars.com/kata/56200d610758762fb0000002)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Basic%20Function%20Fixer.js)
+- Grasshopper - Debug sayHello [&#128279;](https://www.codewars.com/kata/5625618b1fe21ab49f00001f)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Debug%20sayHello.js)
 - Grasshopper - Grade book [&#128279;](https://www.codewars.com/kata/55cbd4ba903825f7970000f5)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Grade%20book.js)
 - Grasshopper - Make change [&#128279;](https://www.codewars.com/kata/560dab9f8b50f89fd6000070)

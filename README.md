@@ -276,6 +276,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20Square%20Root.js)
 - Find the stray number [&#128279;](https://www.codewars.com/kata/57f609022f4d534f05000024)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20stray%20number.js)
+- Find Your Villain Name [&#128279;](https://www.codewars.com/kata/536c00e21da4dc0a0700128b)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20Your%20Villain%20Name.js)
 - Fizz Buzz Cuckoo Clock [&#128279;](https://www.codewars.com/kata/58485a43d750d23bad0000e6)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Fizz%20Buzz%20Cuckoo%20Clock.js)
 - Fizz Buzz [&#128279;](https://www.codewars.com/kata/5300901726d12b80e8000498)

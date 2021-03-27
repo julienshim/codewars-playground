@@ -428,6 +428,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Resistor%20Color%20Codes.js)
 - Return a string's even characters. [&#128279;](https://www.codewars.com/kata/566044325f8fddc1c000002c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Return%20a%20string-s%20even%20characters-.js)
+- Reverse a Number [&#128279;](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Reverse%20a%20Number.js)
 - Reverse the bits in an integer [&#128279;](https://www.codewars.com/kata/5959ec605595565f5c00002b)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Reverse%20the%20bits%20in%20an%20integer.py)
 - Reverse words [&#128279;](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)

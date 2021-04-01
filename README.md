@@ -373,6 +373,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Maximum%20Length%20Difference.js)
 - Maximum Multiple [&#128279;](https://www.codewars.com/kata/5aba780a6a176b029800041c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Maximum%20Multiple.js)
+- Merge two arrays [&#128279;](https://www.codewars.com/kata/583af10620dda4da270000c5)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Merge%20two%20arrays.js)
 - Minimize Sum Of Array (Array Series #1) [&#128279;](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Minimize%20Sum%20Of%20Array%20-Array%20Series%20-1-.js)
 - Money, Money, Money [&#128279;](https://www.codewars.com/kata/563f037412e5ada593000114)

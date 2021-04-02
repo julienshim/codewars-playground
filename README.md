@@ -521,6 +521,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/The%20highest%20profit%20wins.js)
 - The Office I - Outed [&#128279;](https://www.codewars.com/kata/57ecf6efc7fe13eb070000e1)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/The%20Office%20I%20-%20Outed.js)
+- Thinkful - String Drills: Repeater [&#128279;](https://www.codewars.com/kata/585a1a227cb58d8d740001c3)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Thinkful%20-%20String%20Drills-%20Repeater.py)
 - Thinking & Testing: A and B? [&#128279;](https://www.codewars.com/kata/56d904db9963e9cf5000037d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Thinking%20-%20Testing-%20A%20and%20B-.js)
 - Thinking & Testing : Incomplete string [&#128279;](https://www.codewars.com/kata/56d9292cc11bcc3629000533)

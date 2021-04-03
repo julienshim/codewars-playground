@@ -130,7 +130,7 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Transform%20To%20Prime.js)
 - Tribonacci Sequence [&#128279;](https://www.codewars.com/kata/556deca17c58da83c00002db)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Tribonacci%20Sequence.js)
-- Two sum [&#128279;](https://www.codewars.com/kata/52c31f8e6605bcc646000082)
+- Two Sum [&#128279;](https://www.codewars.com/kata/52c31f8e6605bcc646000082)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/6%20kyu/Two%20Sum.py)
 - Uncollapse Digits [&#128279;](https://www.codewars.com/kata/5a626fc7fd56cb63c300008c)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/6%20kyu/Uncollapse%20Digits.py)

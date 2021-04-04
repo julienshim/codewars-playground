@@ -104,6 +104,8 @@ A repository of personal Codewars solutions.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Persistent%20Bugger-.js)
 - Playing with digits [&#128279;](https://www.codewars.com/kata/5552101f47fc5178b1000050)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Playing%20with%20digits.js)
+- Prefill an Array [&#128279;](https://www.codewars.com/kata/54129112fb7c188740000162)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Prefill%20an%20Array.js)
 - regex pattern to check if string has all characters [&#128279;](https://www.codewars.com/kata/5e4eb72bb95d28002dbbecde)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/regex%20pattern%20to%20check%20if%20string%20has%20all%20characters.js)
   Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c002a2b8cc8)

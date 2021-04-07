@@ -362,7 +362,7 @@ This README is sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Interview%20Question%20-easy-.js)
 - Ironman Triathlon [&#128279;](https://www.codewars.com/kata/57d001b405c186ccb6000304)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Ironman%20Triathlon.js)
-- Is It Negative Zero (-0)? [&#128279;](Is It Negative Zero (-0)?)
+- Is It Negative Zero (-0)? [&#128279;](https://www.codewars.com/kata/5c5086287bc6600001c7589a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Is%20It%20Negative%20Zero%20--0--.js)
 - Is There an Odd Bit? [&#128279;](https://www.codewars.com/kata/5d6f49d85e45290016bf4718)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Is%20There%20an%20Odd%20Bit-.js)

@@ -896,7 +896,7 @@ This README is sorted by section with the following algorithm.
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Will%20there%20be%20enough%20space-.py)
 - Will you make it? [&#128279;](https://www.codewars.com/kata/5861d28f124b35723e00005e)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Will%20you%20make%20it-.py)
-- You Can't Code Under Pressure #1 - [&#128279;](https://www.codewars.com/kata/53ee5429ba190077850011d4)
+- You Can't Code Under Pressure #1 [&#128279;](https://www.codewars.com/kata/53ee5429ba190077850011d4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/You%20Can-t%20Code%20Under%20Pressure%20-1.js)
 - You only need one - Beginner [&#128279;](https://www.codewars.com/kata/57cc975ed542d3148f00015b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/You%20only%20need%20one%20-%20Beginner.js)

@@ -4,7 +4,7 @@ A repository of personal Codewars solutions.
 
 ## Sort
 
-This README is sorted by section with the following algorithm.
+This README is occasionally sorted by section with the following algorithm.
 
 ```
 `
@@ -555,7 +555,7 @@ This README is sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Tail%20Swap.js)
 - Testing 1-2-3 [&#128279;](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Testing%201-2-3.py)
-- The Coupon Code [[&#128279;]](https://www.codewars.com/kata/539de388a540db7fec000642)
+- The Coupon Code [&#128279;](https://www.codewars.com/kata/539de388a540db7fec000642)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/The%20Coupon%20Code.js)
 - The highest profit wins! [&#128279;](https://www.codewars.com/kata/559590633066759614000063)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/The%20highest%20profit%20wins.js)

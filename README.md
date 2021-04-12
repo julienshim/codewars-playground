@@ -72,6 +72,8 @@ This README is sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Break%20camelCase.js)
 - Build Tower [&#128279;](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Build%20Tower.js)
+- Buying a car [&#128279;](https://www.codewars.com/kata/554a44516729e4d80b000012/)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Buying%20a%20car.js)
 - Convert [&#128279;](https://www.codewars.com/kata/517abf86da9663f1d2000003)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Convert%20string%20to%20camel%20case.js)
 - Count characters in your string [&#128279;](https://www.codewars.com/kata/52efefcbcdf57161d4000091)

@@ -597,6 +597,8 @@ This README is occasionally sorted by section with the following algorithm.
 - Vowel Count [&#128279;](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Vowel%20Count.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Vowel%20Count.py)
+- Word to binary [&#128279;](https://www.codewars.com/kata/59859f435f5d18ede7000050)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Word%20to%20binary.js)
 - You're a square! [&#128279;](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/You-re%20a%20square-.js)
 

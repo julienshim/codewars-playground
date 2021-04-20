@@ -237,7 +237,7 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Ce-s-r-d%20Strings.js)
 - Chuck Norris I - Push Ups [&#128279;](https://www.codewars.com/kata/570564e838428f2eca001d73)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Chuck%20Norris%20I%20-%20Push%20Ups.js)
-- Coding Meetup -1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe [&#128279;](https://www.codewars.com/kata/582746fa14b3892727000c4f)
+- Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe [&#128279;](https://www.codewars.com/kata/582746fa14b3892727000c4f)
   [[.js]](https://github.com/julienshim/codewars-playground/commit/815cc0754702e78cb8fe2c445b2125e37ca9653a)
 - Complementary DNA [&#128279;](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Complementary%20DNA.js)

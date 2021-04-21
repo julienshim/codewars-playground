@@ -4,7 +4,7 @@ A repository of personal Codewars solutions.
 
 ## Sort
 
-This README is sorted by section with the following algorithm.
+This README is occasionally sorted by section with the following algorithm.
 
 ```
 `
@@ -72,6 +72,8 @@ This README is sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Break%20camelCase.js)
 - Build Tower [&#128279;](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Build%20Tower.js)
+- Buying a car [&#128279;](https://www.codewars.com/kata/554a44516729e4d80b000012/)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Buying%20a%20car.js)
 - Convert [&#128279;](https://www.codewars.com/kata/517abf86da9663f1d2000003)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Convert%20string%20to%20camel%20case.js)
 - Count characters in your string [&#128279;](https://www.codewars.com/kata/52efefcbcdf57161d4000091)
@@ -235,6 +237,8 @@ This README is sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Ce-s-r-d%20Strings.js)
 - Chuck Norris I - Push Ups [&#128279;](https://www.codewars.com/kata/570564e838428f2eca001d73)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Chuck%20Norris%20I%20-%20Push%20Ups.js)
+- Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe [&#128279;](https://www.codewars.com/kata/582746fa14b3892727000c4f)
+  [[.js]](https://github.com/julienshim/codewars-playground/commit/815cc0754702e78cb8fe2c445b2125e37ca9653a)
 - Complementary DNA [&#128279;](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Complementary%20DNA.js)
 - Correct the time-string [&#128279;](https://www.codewars.com/kata/57873ab5e55533a2890000c7)
@@ -553,6 +557,8 @@ This README is sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Tail%20Swap.js)
 - Testing 1-2-3 [&#128279;](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Testing%201-2-3.py)
+- The Coupon Code [&#128279;](https://www.codewars.com/kata/539de388a540db7fec000642)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/The%20Coupon%20Code.js)
 - The highest profit wins! [&#128279;](https://www.codewars.com/kata/559590633066759614000063)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/The%20highest%20profit%20wins.js)
 - The Office I - Outed [&#128279;](https://www.codewars.com/kata/57ecf6efc7fe13eb070000e1)
@@ -593,6 +599,8 @@ This README is sorted by section with the following algorithm.
 - Vowel Count [&#128279;](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Vowel%20Count.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Vowel%20Count.py)
+- Word to binary [&#128279;](https://www.codewars.com/kata/59859f435f5d18ede7000050)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Word%20to%20binary.js)
 - You're a square! [&#128279;](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/You-re%20a%20square-.js)
 
@@ -611,6 +619,8 @@ This README is sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Alan%20Partridge%20II%20-%20Apple%20Turnover.js)
 - All Star Code Challenge #18 [&#128279;](https://www.codewars.com/kata/5865918c6b569962950002a1)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/All%20Star%20Code%20Challenge%20-18.py)
+- altERnaTIng cAsE <=> ALTerNAtiNG CaSe [&#128279;](https://www.codewars.com/kata/56efc695740d30f963000557)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/altERnaTIng%20cAsE%20---%20ALTerNAtiNG%20CaSe.js)
 - Are You Playing Banjo? [&#128279;](https://www.codewars.com/kata/53af2b8861023f1d88000832)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Are%20You%20Playing%20Banjo-.js)
 - Area or Perimeter [&#128279;](https://www.codewars.com/kata/5ab6538b379d20ad880000ab)
@@ -670,6 +680,8 @@ This README is sorted by section with the following algorithm.
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Counting%20sheep---.py)
 - CSV representation of array [&#128279;](https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/CSV%20representation%20of%20array.js)
+- DNA to RNA Conversion [&#128279;](https://www.codewars.com/kata/5556282156230d0e5e000089)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/DNA%20to%20RNA%20Conversion.js)
 - Do I get a bonus? [&#128279;](https://www.codewars.com/kata/56f6ad906b88de513f000d96)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Do%20I%20get%20a%20bonus-.js)
 - Dollars and Cents [&#128279;](https://www.codewars.com/kata/55902c5eaa8069a5b4000083)

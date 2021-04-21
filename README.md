@@ -277,6 +277,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Easy%20wallpaper.swift)
 - Even numbers in an array [&#128279;](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Even%20numbers%20in%20an%20array.js)
+- Evens times last [&#128279;](https://www.codewars.com/kata/5a1a9e5032b8b98477000004)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Evens%20times%20last.js)
 - Exclamation marks series #3: Remove all exclamation marks from sentence except at the end [&#128279;](https://www.codewars.com/kata/57faefc42b531482d5000123)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Exclamation%20marks%20series%20-3-%20Remove%20all%20exclamation%20marks%20from%20sentence%20except%20at%20the%20end.js)
 - Exes and Ohs [&#128279;](https://www.codewars.com/kata/55908aad6620c066bc00002a)

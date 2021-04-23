@@ -517,6 +517,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20Santa-s%20Reindeer.js)
 - Spoonerize Me [&#128279;](https://www.codewars.com/kata/56b8903933dbe5831e000c76)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Spoonerize%20Me.js)
+- Spraying trees [&#128279;](https://www.codewars.com/kata/5981a139f5471fd1b2000071)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Spraying%20trees.js)
 - Square Every Digit [&#128279;](https://www.codewars.com/kata/546e2562b03326a88e000020)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Square%20Every%20Digit.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Square%20Every%20Digit.py)

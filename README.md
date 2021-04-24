@@ -347,6 +347,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Growth%20of%20a%20Population.js)
 - Halving Sum [&#128279;](https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Halving%20Sum.js)
+- Hands Up [&#128279;](https://www.codewars.com/kata/56d8f14cba01a83cdb0002a2)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Hands%20Up.js)
 - Happy Birthday, Darling! [&#128279;](https://www.codewars.com/kata/5e96332d18ac870032eb735f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Happy%20Birthday-%20Darling-.js)
 - Help Bob count letters and digits. [&#128279;](https://www.codewars.com/kata/5738f5ea9545204cec000155)

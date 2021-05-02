@@ -431,6 +431,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Mumbling.swift)
 - My Languages [&#128279;](https://www.codewars.com/kata/5b16490986b6d336c900007d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/My%20Languages.js)
+- Negative Connotation [&#128279;](https://www.codewars.com/kata/5ef0456fcd067000321baffa)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Negative%20Connotation.py)
 - No Loops 1 - Small enough? [&#128279;](https://www.codewars.com/kata/57cc4853fa9fc57a6a0002c2)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/No%20Loops%201%20-%20Small%20enough-.js)
 - Nth power rules them all! [&#128279;](https://www.codewars.com/kata/58aed2cafab8faca1d000e20)

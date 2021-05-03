@@ -406,6 +406,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Love%20vs%20friendship.js)
 - Make a function that does arithmetic! [&#128279;](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Make%20a%20function%20that%20does%20arithmetic-.js)
+- Map over a list of lists [&#128279;](https://www.codewars.com/kata/606b43f4adea6e00425dff42)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Map%20over%20a%20list%20of%20lists.py)
 - Max sum between two negatives [&#128279;](https://www.codewars.com/kata/6066ae080168ff0032c4107a)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Max%20sum%20between%20two%20negatives.py)
 - Max-min arrays[&#128279;](https://www.codewars.com/kata/5a090c4e697598d0b9000004)

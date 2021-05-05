@@ -515,6 +515,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Smallest%20value%20of%20an%20array.js)
 - Sort array by string length [&#128279;](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20array%20by%20string%20length.js)
+- Sort arrays - 1.js [&#128279;](https://www.codewars.com/kata/51f41b98e8f176e70d0002a8)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20arrays%20-%201.js)
 - Sort by Last Char [&#128279;](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20by%20Last%20Char.js)
 - Sort Numbers [&#128279;](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003)

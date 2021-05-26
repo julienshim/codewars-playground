@@ -204,6 +204,8 @@ This README is occasionally sorted by section with the following algorithm.
 - Alternate capitalization [&#128279;](https://www.codewars.com/kata/59cfc000aeb2844d16000075)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Alternate%20capitalization.py)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Alternative%20capitalization.js)
+- An English Twist on a Japanese Classic [&#128279;](https://www.codewars.com/kata/5b04be641839f1a0ab000151/)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/An%20English%20Twist%20on%20a%20Japanese%20Classic.js)
 - Anagram Detection [&#128279;](https://www.codewars.com/kata/529eef7a9194e0cbc1000255)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Anagram%20Detection.js)
 - Array comparator [&#128279;](https://www.codewars.com/kata/561046a9f629a8aac000001d)

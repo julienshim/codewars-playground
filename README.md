@@ -389,6 +389,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Larger%20Product%20or%20Sum.js)
 - Largest 5 digit number in a series [&#128279;](https://www.codewars.com/kata/51675d17e0c1bed195000001)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Largest%205%20digit%20number%20in%20a%20series.js)
+- Largest pair sum in array [&#128279;](https://www.codewars.com/kata/556196a6091a7e7f58000018)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Largest%20pair%20sum%20in%20array.js)
 - Leap Years [&#128279;](https://www.codewars.com/kata/526c7363236867513f0005ca)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Leap%20Years.js)
 - Least Larger [&#128279;](https://www.codewars.com/kata/5f8341f6d030dc002a69d7e4)

@@ -62,6 +62,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Sum%20of%20Pairs.js)
 - Weight for weight [&#128279;](https://www.codewars.com/users/julienshim)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Weight%20for%20weight.js)
+- Where my anagrams at? [&#128297;](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/5%20kyu/Where%20my%20anagrams%20at-.py)
 
 [6 kyu]
 - Are they the \"same\"? [&#128279;](https://www.codewars.com/kata/550498447451fbbd7600041c)

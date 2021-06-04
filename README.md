@@ -15,15 +15,15 @@ This README is occasionally sorted by section with the following algorithm.
 - Most frequently used words in a text [&#128279;](https://www.codewars.com/kata/51e056fe544cf36c410000fb)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/4%20kyu/Most%20frequently%20used%20words%20in%20a%20text.js)
 `.split(/^- /gm).sort((a,b) => { 
-		a = a.toLowerCase()
-		b = b.toLowerCase()
-		if (a > b){
-			return 1
-		}  else if (a < b) {
-			return -1
-		} else {
-			return 0
-		}
+	a = a.match(/[a-z\d ]/gi).join("").toLowerCase();
+	b = b ? b.match(/[a-z\d ]/gi).join("").toLowerCase() : "";
+	if (a > b){
+		return 1
+	}  else if (a < b) {
+		return -1
+	} else {
+		return 0
+	}
 }).join("- ")
 ```
 
@@ -68,7 +68,7 @@ This README is occasionally sorted by section with the following algorithm.
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/5%20kyu/Where%20my%20anagrams%20at-.py)
 
 [6 kyu]
-- Are they the \"same\"? [&#128279;](https://www.codewars.com/kata/550498447451fbbd7600041c)
+- Are they the "same"? [&#128279;](https://www.codewars.com/kata/550498447451fbbd7600041c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Are%20they%20the%20-same--.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/6%20kyu/Are%20they%20the%20-same--.py)
 - Array.diff [&#128279;](https://www.codewars.com/kata/523f5d21c841566fde000009)
@@ -143,7 +143,7 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Prefill%20an%20Array.js)
 - regex pattern to check if string has all characters [&#128279;](https://www.codewars.com/kata/5e4eb72bb95d28002dbbecde)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/regex%20pattern%20to%20check%20if%20string%20has%20all%20characters.js)
-  Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c002a2b8cc8)
+Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c002a2b8cc8)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/6%20kyu/Remove%20the%20parentheses.py)
 - Replace With Alphabet Position [&#128279;](https://www.codewars.com/kata/546f922b54af40e1e90001da)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Replace%20With%20Alphabet%20Position.js)
@@ -185,13 +185,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Your%20order-%20please.js)
 
 [7 kyu]
-- \"Very Even\" Numbers. [&#128279;](https://www.codewars.com/kata/58c9322bedb4235468000019/train)
-  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/-Very%20Even-%20Numbers-.js)
-  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/-Very%20Even-%20Numbers-.py)
 - 99 Bottles of Beer [&#128279;](https://www.codewars.com/kata/52a723508a4d96c6c90005ba)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/99%20Bottles%20of%20Beer.js)
-- [Code Golf] Return Odd No Matter What [&#128279;](https://www.codewars.com/kata/5f882dcc272e7a00287743f5)
-  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/-Code%20Golf-%20Return%20Odd%20No%20Matter%20What.py)
 - Absent vowel [&#128279;](https://www.codewars.com/kata/56414fdc6488ee99db00002c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Absent%20vowel.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Absent%20vowel.py)
@@ -249,6 +244,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Ce-s-r-d%20Strings.js)
 - Chuck Norris I - Push Ups [&#128279;](https://www.codewars.com/kata/570564e838428f2eca001d73)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Chuck%20Norris%20I%20-%20Push%20Ups.js)
+- [Code Golf] Return Odd No Matter What [&#128279;](https://www.codewars.com/kata/5f882dcc272e7a00287743f5)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/-Code%20Golf-%20Return%20Odd%20No%20Matter%20What.py)
 - Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe [&#128279;](https://www.codewars.com/kata/582746fa14b3892727000c4f)
   [[.js]](https://github.com/julienshim/codewars-playground/commit/815cc0754702e78cb8fe2c445b2125e37ca9653a)
 - Complementary DNA [&#128279;](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
@@ -424,12 +421,12 @@ This README is occasionally sorted by section with the following algorithm.
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Map%20over%20a%20list%20of%20lists.py)
 - Max sum between two negatives [&#128279;](https://www.codewars.com/kata/6066ae080168ff0032c4107a)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Max%20sum%20between%20two%20negatives.py)
-- Max-min arrays[&#128279;](https://www.codewars.com/kata/5a090c4e697598d0b9000004)
-  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Max-min%20arrays.js)
 - Maximum Length Difference [&#128279;](https://www.codewars.com/kata/5663f5305102699bad000056)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Maximum%20Length%20Difference.js)
 - Maximum Multiple [&#128279;](https://www.codewars.com/kata/5aba780a6a176b029800041c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Maximum%20Multiple.js)
+- Max-min arrays[&#128279;](https://www.codewars.com/kata/5a090c4e697598d0b9000004)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Max-min%20arrays.js)
 - Merge two arrays [&#128279;](https://www.codewars.com/kata/583af10620dda4da270000c5)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Merge%20two%20arrays.js)
 - Minimize Sum Of Array (Array Series #1) [&#128279;](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b)
@@ -626,6 +623,9 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Valid%20Spacing.js)
 - Validate credit card expiry date [&#128279;](https://www.codewars.com/kata/58c3fbe3ea65729f3800007d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Validate%20credit%20card%20expiry%20date.js)
+- "Very Even" Numbers. [&#128279;](https://www.codewars.com/kata/58c9322bedb4235468000019/train)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/-Very%20Even-%20Numbers-.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/-Very%20Even-%20Numbers-.py)
 - Vowel Count [&#128279;](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Vowel%20Count.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Vowel%20Count.py)
@@ -722,13 +722,13 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Even%20or%20Odd.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Even%20or%20Odd.py)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Even%20or%20Odd.swift)
-- Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence [&#128279;](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed)
-  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Exclamation%20marks%20series%20-11-%20Replace%20all%20vowel%20to%20exclamation%20mark%20in%20the%20sentence.js)
 - Exclamation marks series #1: Remove a exclamation mark from the end of string [&#128279;](https://www.codewars.com/kata/57fae964d80daa229d000126)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Exclamation%20marks%20series%20-1-%20Remove%20a%20exclamation%20mark%20from%20the%20end%20of%20string.js)
+- Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence [&#128279;](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Exclamation%20marks%20series%20-11-%20Replace%20all%20vowel%20to%20exclamation%20mark%20in%20the%20sentence.js)
 - Exclamation marks series #2: Remove all exclamation marks from the end of sentence [&#128279;](https://www.codewars.com/kata/57faece99610ced690000165)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Exclamation%20marks%20series%20-2-%20Remove%20all%20exclamation%20marks%20from%20the%20end%20of%20sentence.js)
-- Exclusive \"or\" (xor) Logical Operator [&#128279;](https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c)
+- Exclusive "or" (xor) Logical Operator [&#128279;](https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Exclusive%20-or-%20-xor-%20Logical%20Operator.js)
 - Expressions Matter [&#128279;](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Expressions%20Matter.js)
@@ -826,14 +826,14 @@ This README is occasionally sorted by section with the following algorithm.
   [[.sql]](https://github.com/julienshim/codewars-playground/blob/master/SQL/8%20kyu/Multiply.sql)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Multiply.swift)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Multiply.py)
-- N-th Power [&#128279;](https://www.codewars.com/kata/57d814e4950d8489720008db)
-  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/N-th%20Power.js)
 - NBA full 48 minutes average [&#128279;](https://www.codewars.com/kata/587c2d08bb65b5e8040004fd)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/NBA%20full%2048%20minutes%20average.js)
 - No Loops 2 - You only need one [&#128279;](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/No%20Loops%202%20-%20You%20only%20need%20one.js)
 - noobCode 01: SUPERSIZE ME.... or rather, this integer! [&#128279;](https://www.codewars.com/kata/5709bdd2f088096786000008)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/noobCode%2001-%20SUPERSIZE%20ME----%20or%20rather-%20this%20integer-.js)
+- N-th Power [&#128279;](https://www.codewars.com/kata/57d814e4950d8489720008db)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/N-th%20Power.js)
 - Opposite number [&#128279;](https://www.codewars.com/kata/56dec885c54a926dcd001095)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Opposite%20number.swift)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Opposite%20number.py)

@@ -199,6 +199,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Alan%20Partridge%20I%20-%20Partridge%20Watch.js)
 - Alan Partridge III - London [&#128279;](https://www.codewars.com/kata/580a41b6d6df740d6100030c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Alan%20Partridge%20III%20-%20London.js)
+- All Star Code Challenge #1 [&#128279;](https://www.codewars.com/kata/5863f97fb3a675d9a700003f)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/All%20Star%20Code%20Challenge%20-1.js)
 - All Star Code Challenge #22 [&#128279;](https://www.codewars.com/kata/5865cff66b5699883f0001aa)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/All%20Star%20Code%20Challenge%20-22.js)
 - All Star Code Challenge #3 [&#128279;](https://www.codewars.com/kata/58640340b3a675d9a70000b9)

@@ -7,8 +7,7 @@ A repository of personal Codewars solutions.
 This README is occasionally sorted by section with the following algorithm.
 
 ```
-`
-- Human readable duration format [&#128279;](https://www.codewars.com/kata/52742f58faf5485cae000b9a)
+`- Human readable duration format [&#128279;](https://www.codewars.com/kata/52742f58faf5485cae000b9a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/4%20kyu/Human%20readable%20duration%20format.js)
 - Large Factorials [&#128279;](https://www.codewars.com/kata/557f6437bf8dcdd135000010)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/4%20kyu/Large%20Factorials.js)

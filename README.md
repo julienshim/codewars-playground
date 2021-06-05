@@ -537,6 +537,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20rectangles%20and%20circles%20by%20area%20II.js)
 - Sort Santa's Reindeer [&#128279;](https://www.codewars.com/kata/52ab60b122e82a6375000bad)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20Santa-s%20Reindeer.js)
+- Sort the Vowels! [&#128279;](https://www.codewars.com/kata/59e49b2afc3c494d5d00002a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20the%20Vowels-.js)
 - Spoonerize Me [&#128279;](https://www.codewars.com/kata/56b8903933dbe5831e000c76)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Spoonerize%20Me.js)
 - Spraying trees [&#128279;](https://www.codewars.com/kata/5981a139f5471fd1b2000071)

@@ -378,6 +378,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/How%20many%20consecutive%20numbers%20are%20needed-.js)
 - How many urinals are free? [&#128279;](https://www.codewars.com/kata/5e2733f0e7432a000fb5ecc4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/How%20many%20urinals%20are%20free-.js)
+- I'm everywhere! [&#128279](https://www.codewars.com/kata/6097a9f20d32c2000d0bdb98)
+- [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/I-m%20everywhere-.js)
 - Interview Question (easy) [&#128279;](https://www.codewars.com/kata/5b358a1e228d316283001892)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Interview%20Question%20-easy-.js)
 - Ironman Triathlon [&#128279;](https://www.codewars.com/kata/57d001b405c186ccb6000304)

@@ -837,6 +837,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/NBA%20full%2048%20minutes%20average.js)
 - No Loops 2 - You only need one [&#128279;](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/No%20Loops%202%20-%20You%20only%20need%20one.js)
+- No zeroes for heroes [&#128279;](https://www.codewars.com/kata/570a6a46455d08ff8d001002)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/No%20zeroes%20for%20heroes.js)
 - noobCode 01: SUPERSIZE ME.... or rather, this integer! [&#128279;](https://www.codewars.com/kata/5709bdd2f088096786000008)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/noobCode%2001-%20SUPERSIZE%20ME----%20or%20rather-%20this%20integer-.js)
 - N-th Power [&#128279;](https://www.codewars.com/kata/57d814e4950d8489720008db)

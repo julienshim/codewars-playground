@@ -180,6 +180,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/WeIrD%20StRiNg%20CaSe.js)
 - What's in a name? [&#128279;](https://www.codewars.com/kata/59daf400beec9780a9000045)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/What-s%20in%20a%20name-.js)
+- Which are in? [&#128279;](https://www.codewars.com/kata/550554fd08b86f84fe000a58)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Which%20are%20in-.js)
 - Who likes it? [&#128279;](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Who%20likes%20it-.js)
 - Your order, please [&#128279;](https://www.codewars.com/kata/55c45be3b2079eccff00010f)

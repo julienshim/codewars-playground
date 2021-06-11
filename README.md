@@ -176,6 +176,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Unique%20In%20Order.js)
 - Upside down numbers [&#128279;](https://www.codewars.com/kata/59f7597716049833200001eb)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Upside%20down%20number.js)
+- Vasaya - Clerk [&#128279;](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Vasya%20-%20Clerk.js)
 - WeIrD StRiNg CaSe [&#128279;](https://www.codewars.com/kata/52b757663a95b11b3d00062d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/WeIrD%20StRiNg%20CaSe.js)
 - What's in a name? [&#128279;](https://www.codewars.com/kata/59daf400beec9780a9000045)

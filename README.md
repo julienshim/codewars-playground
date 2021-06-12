@@ -327,6 +327,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20nth%20Digit%20of%20a%20Number.js)
 - Find the Square Root [&#128279;](https://www.codewars.com/kata/56426b4e971f01fd2f00005b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20Square%20Root.js)
+- Find the Squares [&#128279;](https://www.codewars.com/kata/60908bc1d5811f0025474291)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20Squares.js)
 - Find the stray number [&#128279;](https://www.codewars.com/kata/57f609022f4d534f05000024)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20stray%20number.js)
 - Find Your Villain Name [&#128279;](https://www.codewars.com/kata/536c00e21da4dc0a0700128b)

@@ -802,6 +802,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Grasshopper%20-%20Personalized%20Message.swift)
 - Grasshopper - Summation [&#128279;](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Grasshopper%20-%20Summation.py)
+- Gravity Flip [&#128279;](https://www.codewars.com/kata/5f70c883e10f9e0001c89673)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Gravity%20Flip.js)
 - How do I compare numbers? [&#128279;](https://www.codewars.com/kata/55d8618adfda93c89600012e/solutions/python)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/How%20do%20I%20compare%20numbers-.py)
 - How good are you really? [&#128279;](https://www.codewars.com/kata/5601409514fc93442500010b)

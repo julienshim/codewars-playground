@@ -619,6 +619,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Thinking%20-%20Testing-%20A%20and%20B-.js)
 - ToLeetSpeak [&#128279;](https://www.codewars.com/kata/57c1ab3949324c321600013f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/ToLeetSpeak.js)
+- Triangle area. [&#128279;](https://www.codewars.com/kata/59bd84b8a0640e7c49002398/)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Triangle%20area-.js)
 - Triangular Treasure [&#128279;](https://www.codewars.com/kata/525e5a1cb735154b320002c8)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Triangular%20Treasure.js)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Triangular%20Treasure.swift)

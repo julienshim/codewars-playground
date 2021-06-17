@@ -51,6 +51,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Human%20Readable%20Time.js)
 - Moving Zeros To The End [&#128279;](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Moving%20Zeros%20To%20The%20End.js)
+- N00bify - English to n00b Translator [&#128279;](https://www.codewars.com/kata/552ec968fcd1975e8100005a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/N00bify%20-%20English%20to%20N00b%20Translator.js)
 - Regex Password Validation [&#128279;](https://www.codewars.com/kata/52e1476c8147a7547a000811)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Regex%20Password%20Validation.js)
 - RGB To Hex Conversion [&#128279;](https://www.codewars.com/kata/513e08acc600c94f01000001)

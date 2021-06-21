@@ -844,6 +844,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/L1-%20Set%20Alarm.js)
 - MakeUpperCase [&#128279;](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/MakeUpperCase.py)
+- Merge two sorted arrays into one [&#128279;](https://www.codewars.com/kata/5899642f6e1b25935d000161/solutions/python)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Merge%20two%20sorted%20arrays%20into%20one.py)
 - Multiple of index [&#128279;](https://www.codewars.com/kata/5a34b80155519e1a00000009)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Multiple%20of%20index.js)
 - Multiplication table for number [&#128279;](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce)

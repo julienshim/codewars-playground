@@ -541,6 +541,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Small%20enough-%20-%20Beginner.js)
 - Smallest value of an array [&#128279;](https://www.codewars.com/kata/544a54fd18b8e06d240005c0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Smallest%20value%20of%20an%20array.js)
+- Some (but not all) [&#128279;](https://www.codewars.com/kata/60dda5a66c4cf90026256b75)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Some%20-but%20not%20all-.py)
 - Sort array by string length [&#128279;](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20array%20by%20string%20length.js)
 - Sort arrays - 1.js [&#128279;](https://www.codewars.com/kata/51f41b98e8f176e70d0002a8)

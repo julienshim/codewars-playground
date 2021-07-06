@@ -735,6 +735,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Count%20of%20positives%20-%20sum%20of%20negatives.py)
 - Count the Monkeys! [&#128279;](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Count%20the%20Monkeys-.js)
+- Count Odd Numbers below n [&#128279;](https://www.codewars.com/kata/59342039eb450e39970000a6)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Count%20Odd%20Numbers%20below%20n.py)
 - Counting sheep... [&#128279;](https://www.codewars.com/kata/54edbc7200b811e956000556)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Counting%20sheep---.py)
 - CSV representation of array [&#128279;](https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036)

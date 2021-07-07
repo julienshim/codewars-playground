@@ -465,6 +465,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Negative%20Connotation.py)
 - No Loops 1 - Small enough? [&#128279;](https://www.codewars.com/kata/57cc4853fa9fc57a6a0002c2)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/No%20Loops%201%20-%20Small%20enough-.js)
+- No oddities here [&#128279;](https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce/)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/No%20oddities%20here.py)
 - Nth power rules them all! [&#128279;](https://www.codewars.com/kata/58aed2cafab8faca1d000e20)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Nth%20power%20rules%20them%20all-.js)
 - Number of Decimal Digits [&#128279;](https://www.codewars.com/kata/58fa273ca6d84c158e000052)

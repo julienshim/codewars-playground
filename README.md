@@ -985,6 +985,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
 - What is between? [&#128279;](https://www.codewars.com/kata/55ecd718f46fba02e5000029)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/What%20is%20between-.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/What%20is%20between-.py)
+- What's the real floor? [&#128279;](https://www.codewars.com/kata/574b3b1599d8f897470018f6)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/What-s%20the%20real%20floor-.py)
 - Will there be enough space? [&#128279;](https://www.codewars.com/kata/5875b200d520904a04000003)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Will%20there%20be%20enough%20space-.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Will%20there%20be%20enough%20space-.py)

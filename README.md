@@ -132,6 +132,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/From--To--Series%20-1-%20from%20m%20to%20n-%20Find%20the%20maximum%20range.js)
 - Highest Scoring Word [&#128279;](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Highest%20Scoring%20Word.js)
+- HTML dynamic color string generation [&#128279;](https://www.codewars.com/kata/56f1c6034d0c330e4a001059)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/HTML%20dynamic%20color%20string%20generation.js)
 - Is a number prime? [&#128279;](https://www.codewars.com/kata/5262119038c0985a5b00029f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Is%20a%20number%20prime-.js)
 - IQ Test [&#128279;](https://www.codewars.com/kata/552c028c030765286c00007d)

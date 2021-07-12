@@ -130,6 +130,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Format%20a%20string%20of%20names%20like%20-Bart-%20Lisa%20-%20Maggie-.js)
 - From..To..Series #1: from m to n. Find the maximum range [&#128279;](https://www.codewars.com/kata/58065440a4647e0ed3000230)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/From--To--Series%20-1-%20from%20m%20to%20n-%20Find%20the%20maximum%20range.js)
+- Greatest Common Factor of an Array [&#128279;](https://www.codewars.com/kata/5849169a6512c5964000016e)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Greatest%20Common%20Factor%20of%20an%20Array.js)
 - Highest Scoring Word [&#128279;](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Highest%20Scoring%20Word.js)
 - HTML dynamic color string generation [&#128279;](https://www.codewars.com/kata/56f1c6034d0c330e4a001059)

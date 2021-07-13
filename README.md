@@ -261,6 +261,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Categorize%20New%20Member.js)
 - Ce*s*r*d Strings [&#128279;](codewars.com/kata/5ff6060ed14f4100106d8e6f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Ce-s-r-d%20Strings.js)
+- Change two-dimensional array [&#128279;](https://www.codewars.com/kata/581214d54624a8232100005f)
+  [[.js]](https://www.codewars.com/kata/581214d54624a8232100005f)
 - Chicken Sexting [&#128279;](https://www.codewars.com/kata/57ed40e3bd793e9c92000fcb)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Chicken%20Sexing.js)
 - Chuck Norris I - Push Ups [&#128279;](https://www.codewars.com/kata/570564e838428f2eca001d73)

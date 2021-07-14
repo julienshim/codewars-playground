@@ -929,6 +929,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Simple%20Fun%20-1-%20Seats%20in%20Theater.js)
 - Simple multiplication [&#128279;](https://www.codewars.com/kata/583710ccaa6717322c000105)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Simple%20multiplication.swift)
+- Sleigh Authentication [&#128279;](https://www.codewars.com/kata/52adc142b2651f25a8000643)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Sleigh%20Authentication.js)
 - SpeedCode #2 - Array Madness [&#128279;](https://www.codewars.com/kata/56ff6a70e1a63ccdfa0001b1/)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/SpeedCode%20-2%20-%20Array%20Madness.js)
 - SQL Basics: Simple WHERE and ORDER BY [&#128279;](https://www.codewars.com/kata/5809508cc47d327c12000084)

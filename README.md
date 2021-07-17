@@ -458,6 +458,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Max-min%20arrays.js)
 - Merge two arrays [&#128279;](https://www.codewars.com/kata/583af10620dda4da270000c5)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Merge%20two%20arrays.js)
+- Middle Me [&#128279;](https://www.codewars.com/kata/59cd155d1a68b70f8e000117)
+- [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Middle%20Me.py)
 - Minimize Sum Of Array (Array Series #1) [&#128279;](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Minimize%20Sum%20Of%20Array%20-Array%20Series%20-1-.js)
 - Money, Money, Money [&#128279;](https://www.codewars.com/kata/563f037412e5ada593000114)

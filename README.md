@@ -668,6 +668,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
 - Vowel Count [&#128279;](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Vowel%20Count.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Vowel%20Count.py)
+- Weight of its Contents [&#128279;](https://www.codewars.com/kata/53921994d8f00b93df000bea)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Weight%20of%20its%20Contents.js)
 - What a "Classy" Song [&#128279;](https://www.codewars.com/kata/6089c7992df556001253ba7d)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/What%20a%20-Classy-%20Song.py)
 - Which triangle is that? [&#128279;](https://www.codewars.com/kata/564d398e2ecf66cec00000a9)

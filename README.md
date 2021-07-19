@@ -864,6 +864,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Is%20it%20even-.py)
 - Is n divisible by x and y? [&#128279;](https://www.codewars.com/kata/5545f109004975ea66000086)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Is%20n%20divisible%20by%20x%20and%20y-.js)
+- Is the string uppercase? [&#128279;](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
+  [[.js]](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
 - Jenny's secret message [&#128279;](https://www.codewars.com/kata/55225023e1be1ec8bc000390)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Jenny-s%20secret%20message.js)
 - Keep Hydrated! [&#128279;](https://www.codewars.com/kata/582cb0224e56e068d800003c)

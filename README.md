@@ -910,6 +910,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Regex%20count%20lowercase%20letters.py)
 - Regexp Basics - is it a digit? [&#128279;](https://www.codewars.com/kata/567bf4f7ee34510f69000032)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Regexp%20Basics%20-%20is%20it%20a%20digit-.js)
+- Regular Ball Super Ball [&#128279;](https://www.codewars.com/kata/53f0f358b9cb376eca001079)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Regular%20Ball%20Super%20Ball.js)
 - Remove First and Last Character [&#128279;](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Remove%20First%20and%20Last%20Character.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Remove%20First%20and%20Last%20Character.py)

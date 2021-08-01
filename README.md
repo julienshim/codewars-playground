@@ -769,6 +769,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Dollars%20and%20Cents.swift)
 - Double Char [&#128279;](https://www.codewars.com/kata/56b1f01c247c01db92000076)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Double%20Char.js)
+- Enumerable Magic #3 - Does My List Include This? [&#128279;](https://www.codewars.com/kata/545991b4cbae2a5fda000158)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Enumerable%20Magic%20-3%20-%20Does%20My%20List%20Include%20This-)
 - Even or Odd [&#128279;](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Even%20or%20Odd.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Even%20or%20Odd.py)

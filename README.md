@@ -206,6 +206,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
 [7 kyu]
 - 99 Bottles of Beer [&#128279;](https://www.codewars.com/kata/52a723508a4d96c6c90005ba)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/99%20Bottles%20of%20Beer.js)
+- A Rule of Divisibility by 7 [&#128279;](https://www.codewars.com/kata/55e6f5e58f7817808e00002e)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/A%20Rule%20of%20Divisibility%20by%207.js)
 - Absent vowel [&#128279;](https://www.codewars.com/kata/56414fdc6488ee99db00002c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Absent%20vowel.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Absent%20vowel.py)

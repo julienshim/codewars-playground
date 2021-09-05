@@ -168,6 +168,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Split%20Strings.js)
 - SQL Basics: Simple HAVING [&#128279;](https://www.codewars.com/kata/58164ddf890632ce00000220)
   [[.sql]](https://github.com/julienshim/codewars-playground/blob/master/SQL/6%20kyu/SQL%20Basics-%20Simple%20HAVING.sql)
+- SQL Basics: Simple NULL handling [&#128279;](https://www.codewars.com/kata/5811315e04adbbdb5000050e)
+  [[.sql]](https://github.com/julienshim/codewars-playground/blob/master/SQL/6%20kyu/SQL%20Basics-%20Simple%20NULL%20handling.sql)
 - SQL Basics: Simple table totaling. [&#128279;](https://www.codewars.com/kata/5809575e166583acfa000083)
   [[.sql]](https://github.com/julienshim/codewars-playground/blob/master/SQL/6%20kyu/SQL%20Basics-%20Simple%20table%20totaling-.sql)
 - Stop gninnipS My sdroW! [&#128279;](https://www.codewars.com/kata/5264d2b162488dc400000001)

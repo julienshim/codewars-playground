@@ -903,6 +903,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.sql]](https://github.com/julienshim/codewars-playground/blob/master/SQL/8%20kyu/Multiply.sql)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Multiply.swift)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Multiply.py)
+- Name Shuffler [&#128279;](https://www.codewars.com/kata/559ac78160f0be07c200005a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/b4d15a538d2476a583dcd0acacdcea45ff1cd7d0/JavaScript/8%20kyu/Name%20Shuffler.js)
 - NBA full 48 minutes average [&#128279;](https://www.codewars.com/kata/587c2d08bb65b5e8040004fd)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/NBA%20full%2048%20minutes%20average.js)
 - No Loops 2 - You only need one [&#128279;](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce)

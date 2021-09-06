@@ -561,6 +561,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Simple%20Fun%20-37-%20House%20Numbers%20Sum.js)
 - Simple letter removal [&#128279;](https://www.codewars.com/kata/5b728f801db5cec7320000c7)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Simple%20letter%20removal.js)
+- Simple Fun #74: Growing Plant [&#128279;](https://www.codewars.com/kata/58941fec8afa3618c9000184)
+  [[.sql]](https://github.com/julienshim/codewars-playground/blob/master/SQL/7%20kyu/Simple%20Fun%20-74-%20Growing%20Plant.sql)
 - Simple string reversal [&#128279;](https://www.codewars.com/kata/5a71939d373c2e634200008e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Simple%20string%20reversal.js)
 - Small enough? - Beginner [&#128279;](https://www.codewars.com/kata/57cc981a58da9e302a000214)

@@ -1024,6 +1024,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
 - Twice as old [&#128279;](https://www.codewars.com/kata/5b853229cfde412a470000d0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Twice%20as%20old.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Twice%20as%20old.py)
+- USD => CNY [&#128279;](https://www.codewars.com/kata/5977618080ef220766000022)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/USD%20--%20CNY.js)
 - Watermelon [&#128279;](https://www.codewars.com/kata/55192f4ecd82ff826900089e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Watermelon.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Watermelon.py)

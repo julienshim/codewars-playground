@@ -948,6 +948,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Return%20Negative.js)
 - Returning Strings [&#128279;](https://www.codewars.com/kata/55a70521798b14d4750000a4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Returning%20Strings.js)
+- Reverse List Order [&#128279;](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Reverse%20List%20Order.js)
 - Reverse words [&#128279;](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Reverse%20words.js)
 - Reversed sequence [&#128279;](https://www.codewars.com/kata/5a00e05cc374cb34d100000d)

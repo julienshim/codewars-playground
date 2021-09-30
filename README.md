@@ -853,6 +853,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Debug%20sayHello.js)
 - Grasshopper - Grade book [&#128279;](https://www.codewars.com/kata/55cbd4ba903825f7970000f5)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Grade%20book.js)
+- Grasshopper - If/else syntax debug [&#128279;](https://www.codewars.com/kata/57089707fe2d01529f00024a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20If-else%20syntax%20debug.js)
 - Grasshopper - Make change [&#128279;](https://www.codewars.com/kata/560dab9f8b50f89fd6000070)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Make%20change.js)
 - Grasshopper - Messi Goals [&#128279;](https://www.codewars.com/kata/55ca77fa094a2af31f00002a)

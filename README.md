@@ -930,6 +930,7 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
 - Opposite number [&#128279;](https://www.codewars.com/kata/56dec885c54a926dcd001095)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Opposite%20number.swift)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Opposite%20number.py)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Opposite%20number.js)
 - Opposites Attract [&#128279;](https://www.codewars.com/kata/555086d53eac039a2a000083)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Opposites%20Attract.js)
 - Quarter of the year [&#128279;](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af)

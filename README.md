@@ -720,6 +720,8 @@ Remove the parentheses [&#128279;](https://www.codewars.com/kata/5f7c38eb54307c0
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Array%20plus%20array.js)
 - Basic Mathematical Operations [&#128279;](https://www.codewars.com/kata/57356c55867b9b7a60000bd7)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Basic%20Mathematical%20Operations.py)
+- Basic variable assignment [&#128279;](https://www.codewars.com/kata/50ee6b0bdeab583673000025)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Basic%20variable%20assignment.js)
 - Beginner - Lost Without a Map [&#128279;](https://www.codewars.com/kata/57f781872e3d8ca2a000007e)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Beginner%20-%20Lost%20Without%20a%20Map.swift)
 - Beginner - Reduce but Grow [&#128279;](https://www.codewars.com/kata/57f780909f7e8e3183000078)

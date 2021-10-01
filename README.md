@@ -868,6 +868,7 @@ This README is occasionally sorted by section with the following algorithm.
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Grasshopper%20-%20Personalized%20Message.swift)
 - Grasshopper - Summation [&#128279;](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Grasshopper%20-%20Summation.py)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Summation.js)
 - Grasshopper - Terminal game move function [&#128279;](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2)
   [[.sql]](https://github.com/julienshim/codewars-playground/blob/master/SQL/8%20kyu/Grasshopper%20-%20Terminal%20game%20move%20function.sql)
 - Gravity Flip [&#128279;](https://www.codewars.com/kata/5f70c883e10f9e0001c89673)

@@ -937,6 +937,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Opposite%20number.js)
 - Opposites Attract [&#128279;](https://www.codewars.com/kata/555086d53eac039a2a000083)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Opposites%20Attract.js)
+- Pre-FizzBuzz Workout #1 [&#128279;](https://www.codewars.com/kata/569e09850a8e371ab200000b)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Pre-FizzBuzz%20Workout%20-1.js)
 - Quarter of the year [&#128279;](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Quarter%20of%20the%20year.js)
 - Regex count lowercase letters [&#128279;](https://www.codewars.com/kata/56a946cd7bd95ccab2000055)

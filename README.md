@@ -1038,6 +1038,8 @@ This README is occasionally sorted by section with the following algorithm.
 - Twice as old [&#128279;](https://www.codewars.com/kata/5b853229cfde412a470000d0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Twice%20as%20old.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Twice%20as%20old.py)
+- Unfinished Loop - Bug Fixing #1 [&#128279;](https://www.codewars.com/kata/55c28f7304e3eaebef0000da)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Unfinished%20Loop%20-%20Bug%20Fixing%20-1.js)
 - USD => CNY [&#128279;](https://www.codewars.com/kata/5977618080ef220766000022)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/USD%20--%20CNY.js)
 - Watermelon [&#128279;](https://www.codewars.com/kata/55192f4ecd82ff826900089e)

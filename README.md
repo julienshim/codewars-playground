@@ -777,6 +777,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Counting%20sheep---.py)
 - CSV representation of array [&#128279;](https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/CSV%20representation%20of%20array.js)
+- Difference of Volumes of Cuboids [&#128279;](https://www.codewars.com/kata/58cb43f4256836ed95000f97)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Difference%20of%20Volumes%20of%20Cuboids.js)
 - DNA to RNA Conversion [&#128279;](https://www.codewars.com/kata/5556282156230d0e5e000089)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/DNA%20to%20RNA%20Conversion.js)
 - Do I get a bonus? [&#128279;](https://www.codewars.com/kata/56f6ad906b88de513f000d96)

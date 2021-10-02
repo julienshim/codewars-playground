@@ -853,6 +853,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Check%20for%20factor.js)
 - Grasshopper - Combine strings [&#128279;](https://www.codewars.com/kata/55f73f66d160f1f1db000059)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Combine%20strings.js)
+- Grasshopper - Debug [&#128279;](https://www.codewars.com/kata/55cb854deb36f11f130000e1)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Debug.js)
 - Grasshopper - Debug sayHello [&#128279;](https://www.codewars.com/kata/5625618b1fe21ab49f00001f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Debug%20sayHello.js)
 - Grasshopper - Grade book [&#128279;](https://www.codewars.com/kata/55cbd4ba903825f7970000f5)

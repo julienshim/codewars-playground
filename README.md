@@ -938,6 +938,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/noobCode%2001-%20SUPERSIZE%20ME----%20or%20rather-%20this%20integer-.js)
 - N-th Power [&#128279;](https://www.codewars.com/kata/57d814e4950d8489720008db)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/N-th%20Power.js)
+- Number toString [&#128279;](https://www.codewars.com/kata/53934feec44762736c00044b)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Number%20toString.js)
 - Opposite number [&#128279;](https://www.codewars.com/kata/56dec885c54a926dcd001095)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Opposite%20number.swift)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Opposite%20number.py)

@@ -1030,6 +1030,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Sum%20without%20highest%20and%20lowest%20number.py)
 - Surface Area and Volume of a Box [&#128279;](https://www.codewars.com/kata/565f5825379664a26b00007c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Surface%20Area%20and%20Volume%20of%20a%20Box.js)
+- Swap Values [&#128279;](https://www.codewars.com/kata/5388f0e00b24c5635e000fc6)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Swap%20Values.js)
 - Switch it Up! [&#128279;](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Switch%20it%20Up-.swift)
 - The falling speed of petals [&#128279;](https://www.codewars.com/kata/5a0be7ea8ba914fc9c00006b/solutions/javascript)

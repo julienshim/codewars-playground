@@ -950,6 +950,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Opposite%20number.js)
 - Opposites Attract [&#128279;](https://www.codewars.com/kata/555086d53eac039a2a000083)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Opposites%20Attract.js)
+- Palindrome Strings [&#128279;](https://www.codewars.com/kata/57a5015d72292ddeb8000b31)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Palindrome%20Strings.js)
 - Playing with cubes II [&#128279;](https://www.codewars.com/kata/55c0ac142326fdf18d0000af)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Playing%20with%20cubes%20II.js)
 - Pre-FizzBuzz Workout #1 [&#128279;](https://www.codewars.com/kata/569e09850a8e371ab200000b)

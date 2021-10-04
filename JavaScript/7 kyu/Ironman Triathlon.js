@@ -25,3 +25,19 @@ function iTri(s){
       return 'You\'re done! Stop running!';
   }
 }
+
+// 10/14/2021 - Seem to have already have done this. An alternative:
+
+function iTri(s){
+  //its gonna be a long day!
+    const totalDistance = 2.4+112+26.2;
+    const distanceRemaining = (totalDistance - s).toFixed(2);
+    
+    if (s === 0) { return 'Starting Line... Good Luck!' }
+    if (distanceRemaining < 0) { return 'You\'re done! Stop running!' }
+    if (distanceRemaining < 10) { return { Run: 'Nearly there!' } }
+    
+    if (s <= 2.4) { return { Swim: `${distanceRemaining} to go!` } }
+    if (s > 2.4 && s <= 114.4) { return { Bike: `${distanceRemaining} to go!` } }
+    if (s > 114.4) { return { Run: `${distanceRemaining} to go!` } }
+  }

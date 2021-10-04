@@ -489,6 +489,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/My%20Languages.js)
 - Negative Connotation [&#128279;](https://www.codewars.com/kata/5ef0456fcd067000321baffa)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Negative%20Connotation.py)
+- Nice Array [&#128279;](https://www.codewars.com/kata/59b844528bcb7735560000a0)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Nice%20Array.js)
 - No Loops 1 - Small enough? [&#128279;](https://www.codewars.com/kata/57cc4853fa9fc57a6a0002c2)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/No%20Loops%201%20-%20Small%20enough-.js)
 - No oddities here [&#128279;](https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce)

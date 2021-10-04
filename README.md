@@ -872,6 +872,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Grasshopper%20-%20Messi%20Goals.py)
 - Grasshopper - Messi goals function [&#128279;](https://www.codewars.com/kata/55f73be6e12baaa5900000d4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Messi%20goals%20function.js)
+- Grasshopper - Object syntax debug [&#128279;](https://www.codewars.com/kata/56d8ae9237123036d3001b54)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Object%20syntax%20debug.js)
 - Grasshopper - Personalized Message [&#128279;](https://www.codewars.com/kata/5772da22b89313a4d50012f7)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Grasshopper%20-%20Personalized%20Message.swift)
 - Grasshopper - Summation [&#128279;](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)

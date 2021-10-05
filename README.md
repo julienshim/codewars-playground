@@ -136,6 +136,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/From--To--Series%20-1-%20from%20m%20to%20n-%20Find%20the%20maximum%20range.js)
 - Greatest Common Factor of an Array [&#128279;](https://www.codewars.com/kata/5849169a6512c5964000016e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Greatest%20Common%20Factor%20of%20an%20Array.js)
+- Grouped by commas [&#128279;](https://www.codewars.com/kata/5274e122fc75c0943d000148)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Grouped%20by%20commas.js)
 - Highest Scoring Word [&#128279;](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Highest%20Scoring%20Word.js)
 - HTML dynamic color string generation [&#128279;](https://www.codewars.com/kata/56f1c6034d0c330e4a001059)

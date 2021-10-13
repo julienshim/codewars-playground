@@ -244,6 +244,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/An%20English%20Twist%20on%20a%20Japanese%20Classic.js)
 - Anagram Detection [&#128279;](https://www.codewars.com/kata/529eef7a9194e0cbc1000255)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Anagram%20Detection.js)
+- Are they square? [&#128279;](https://www.codewars.com/kata/56853c44b295170b73000007)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/1ac8c63fcf56747dd9f8a61fa8c596fd20e2aa69/JavaScript/7%20kyu/Are%20they%20square-.js)
 - Array comparator [&#128279;](https://www.codewars.com/kata/561046a9f629a8aac000001d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Array%20comparator.js)
 - Array element parity [&#128279;](https://www.codewars.com/kata/5a092d9e46d843b9db000064)

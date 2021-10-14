@@ -955,6 +955,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Multiply.py)
 - Multiply the number [&#128279;](https://www.codewars.com/kata/5708f682c69b48047b000e07)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Multiply%20the%20number.js)
+- My head is at the wrong end! [&#128279;](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/My%20head%20is%20at%20the%20wrong%20end-.js)
 - Name Shuffler [&#128279;](https://www.codewars.com/kata/559ac78160f0be07c200005a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/b4d15a538d2476a583dcd0acacdcea45ff1cd7d0/JavaScript/8%20kyu/Name%20Shuffler.js)
 - NBA full 48 minutes average [&#128279;](https://www.codewars.com/kata/587c2d08bb65b5e8040004fd)

@@ -932,6 +932,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Is%20this%20my%20tail-.js)
 - Jenny's secret message [&#128279;](https://www.codewars.com/kata/55225023e1be1ec8bc000390)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Jenny-s%20secret%20message.js)
+- Kata Example Twist [&#128279;](https://www.codewars.com/kata/525c1a07bb6dda6944000031)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Kata%20Example%20Twist.js)
 - Keep Hydrated! [&#128279;](https://www.codewars.com/kata/582cb0224e56e068d800003c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Keep%20Hydrated-.js)
 - Keep up the hoop [&#128279;](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145)

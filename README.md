@@ -385,6 +385,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Form%20The%20Minimum.js)
 - Four/Seven [&#128279;](https://www.codewars.com/kata/5ff50f64c0afc50008861bf0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Four-Seven.js)
+- Frequency sequence [&#128279;](https://www.codewars.com/kata/585a033e3a36cdc50a00011c)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Frequency%20sequence.js)
 - Friend or Foe? [&#128279;](https://www.codewars.com/kata/55b42574ff091733d900002f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Friend%20or%20Foe-.js)
 - Functional Addition [&#128279;](https://www.codewars.com/kata/538835ae443aae6e03000547)

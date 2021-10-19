@@ -122,6 +122,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Equal%20Sides%20Of%20An%20Array.js)
 - Fibonacci, Tribonacci and friends [&#128279;](https://www.codewars.com/kata/556e0fccc392c527f20000c5)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Fibonacci-%20Tribonacci%20and%20friends.js)
+- Find the missing letter [&#128279;](https://www.codewars.com/kata/5839edaa6754d6fec10000a2)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Find%20the%20missing%20letter.js)
 - Find the nth Reverse Number [&#128279;](https://www.codewars.com/kata/600bfda8a4982600271d6069)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Find%20the%20nth%20Reverse%20Number.js)
 - Find the odd int [&#128279;](https://www.codewars.com/kata/54da5a58ea159efa38000836)

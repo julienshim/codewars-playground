@@ -557,6 +557,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Resistor%20Color%20Codes.js)
 - Return a string's even characters. [&#128279;](https://www.codewars.com/kata/566044325f8fddc1c000002c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Return%20a%20string-s%20even%20characters-.js)
+- Return the Missing Element [&#128279;](https://www.codewars.com/kata/5299413901337c637e000004)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Return%20the%20Missing%20Element.js)
 - Reverse a Number [&#128279;](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Reverse%20a%20Number.js)
 - Reverse the bits in an integer [&#128279;](https://www.codewars.com/kata/5959ec605595565f5c00002b)

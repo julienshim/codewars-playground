@@ -1007,6 +1007,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Remove%20String%20Spaces.py)
 - Return Negative [&#128279;](https://www.codewars.com/kata/55685cd7ad70877c23000102)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Return%20Negative.js)
+- Return Two Highest Values in List [&#128279;](https://www.codewars.com/kata/57ab3c09bb994429df000a4a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Return%20Two%20Highest%20Values%20in%20List.js)
 - Returning Strings [&#128279;](https://www.codewars.com/kata/55a70521798b14d4750000a4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Returning%20Strings.js)
 - Reverse List Order [&#128279;](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)

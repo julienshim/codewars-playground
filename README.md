@@ -999,6 +999,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Regexp%20Basics%20-%20is%20it%20a%20digit-.js)
 - Regular Ball Super Ball [&#128279;](https://www.codewars.com/kata/53f0f358b9cb376eca001079)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Regular%20Ball%20Super%20Ball.js)
+- Remove exclamation marks [&#128279;](https://www.codewars.com/kata/57a0885cbb9944e24c00008e)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Remove%20exclamation%20marks.js)
 - Remove First and Last Character [&#128279;](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Remove%20First%20and%20Last%20Character.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Remove%20First%20and%20Last%20Character.py)

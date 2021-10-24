@@ -53,6 +53,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Moving%20Zeros%20To%20The%20End.js)
 - N00bify - English to n00b Translator [&#128279;](https://www.codewars.com/kata/552ec968fcd1975e8100005a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/N00bify%20-%20English%20to%20N00b%20Translator.js)
+- Product of consecutive Fib numbers [&#128279;](https://www.codewars.com/kata/5541f58a944b85ce6d00006a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Product%20of%20consecutive%20Fib%20numbers.js)
 - Regex Password Validation [&#128279;](https://www.codewars.com/kata/52e1476c8147a7547a000811)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Regex%20Password%20Validation.js)
 - Relational division: Find all movies two actors cast in together [&#128279;](https://www.codewars.com/kata/5817b124e7f4576fd00020a2)

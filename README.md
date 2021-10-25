@@ -256,6 +256,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Array%20element%20parity.js)
 - Averages of numbers [&#128279;](https://www.codewars.com/kata/57d2807295497e652b000139)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Averages%20of%20numbers.js)
+- Balanced Number (Special Numbers Series #1 ) [&#128279;](https://www.codewars.com/kata/5a4e3782880385ba68000018)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Balanced%20Number%20-Special%20Numbers%20Series%20-1%20-.js)
 - Basic Math (Add or Subtract) [&#128279;](https://www.codewars.com/kata/5809b62808ad92e31b000031)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Basic%20Math%20-Add%20or%20Subtract-.js)
 - Beginner Series #3 Sum of Numbers [&#128279;](https://www.codewars.com/kata/55f2b110f61eb01779000053)

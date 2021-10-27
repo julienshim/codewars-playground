@@ -820,6 +820,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Double%20Char.js)
 - Enumerable Magic #1 - True for All? [&#128279;](https://www.codewars.com/kata/54598d1fcbae2ae05200112c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Enumerable%20Magic%20-1%20-%20True%20for%20All-.js)
+- Enumerable Magic #25 - Take the First N Elements [&#128279;](https://www.codewars.com/kata/545afd0761aa4c3055001386)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Enumerable%20Magic%20-25%20-%20Take%20the%20First%20N%20Elements.js)
 - Enumerable Magic #3 - Does My List Include This? [&#128279;](https://www.codewars.com/kata/545991b4cbae2a5fda000158)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Enumerable%20Magic%20-3%20-%20Does%20My%20List%20Include%20This-)
 - Even or Odd [&#128279;](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)

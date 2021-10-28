@@ -934,6 +934,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Invert%20values.js)
 - Is he gonna survive? [&#128279;](https://www.codewars.com/kata/59ca8246d751df55cc00014c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Is%20he%20gonna%20survive-.js)
+- Is it a number? [&#128279;](https://www.codewars.com/kata/57126304cdbf63c6770012bd)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Is%20it%20a%20number-.js)
 - Is it a palindrome? [&#128279;](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Is%20it%20a%20palindrome-.py)
 - Is it even? [&#128279;](https://www.codewars.com/kata/555a67db74814aa4ee0001b5)

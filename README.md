@@ -299,6 +299,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Comfortable%20words.js)
 - Complementary DNA [&#128279;](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Complementary%20DNA.js)
+- Consecutive letters [&#128279;](https://www.codewars.com/kata/5ce6728c939bf80029988b57)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Consecutive%20letters.js)
 - Correct the time-string [&#128279;](https://www.codewars.com/kata/57873ab5e55533a2890000c7)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Correct%20the%20time-string.js)
 - Cost of my ride [&#128279;](https://www.codewars.com/kata/586430a5b3a675296a000395)

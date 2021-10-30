@@ -345,6 +345,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Evens%20times%20last.js)
 - Exclamation marks series #3: Remove all exclamation marks from sentence except at the end [&#128279;](https://www.codewars.com/kata/57faefc42b531482d5000123)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Exclamation%20marks%20series%20-3-%20Remove%20all%20exclamation%20marks%20from%20sentence%20except%20at%20the%20end.js)
+- Exclamation marks series #8: Move all exclamation marks to the end of the sentence [&#128279;](https://www.codewars.com/kata/57fafd0ed80daac48800019f)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Exclamation%20marks%20series%20-8-%20Move%20all%20exclamation%20marks%20to%20the%20end%20of%20the%20sentence.js)
 - Exes and Ohs [&#128279;](https://www.codewars.com/kata/55908aad6620c066bc00002a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Exes%20and%20Ohs.js)
 - Factorial (wichu version) [&#128279;](https://www.codewars.com/kata/57a049e253ba33ac5e000212)

@@ -65,6 +65,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Rot13.js)
 - Simple Pig Latin [&#128279;](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Simple%20Pig%20Latin.js)
+- String incrementer [&#128279;](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/String%20incrementer.js)
 - Sum of Pairs [&#128279;](https://www.codewars.com/kata/54d81488b981293527000c8f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Sum%20of%20Pairs.js)
 - Weight for weight [&#128279;](https://www.codewars.com/users/julienshim)

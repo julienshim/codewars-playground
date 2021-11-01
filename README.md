@@ -385,6 +385,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20stray%20number.js)
 - Find Your Villain Name [&#128279;](https://www.codewars.com/kata/536c00e21da4dc0a0700128b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20Your%20Villain%20Name.js)
+- Fix string case [[&#128279;](https://www.codewars.com/kata/5b180e9fedaa564a7000009a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Fix%20string%20case.js)
 - Fizz Buzz [&#128279;](https://www.codewars.com/kata/5300901726d12b80e8000498)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Fizz%20Buzz.js)
 - Fizz Buzz Cuckoo Clock [&#128279;](https://www.codewars.com/kata/58485a43d750d23bad0000e6)

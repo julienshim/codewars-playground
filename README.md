@@ -75,6 +75,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Weight%20for%20weight.js)
 - Where my anagrams at? [&#128279;](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/5%20kyu/Where%20my%20anagrams%20at-.py)
+- Write out numbers [&#128279;](https://www.codewars.com/kata/52724507b149fa120600031d)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Write%20out%20numbers.js)
 - xD-Arrays for dimmies [&#128279;](https://www.codewars.com/kata/5402724fd39b43c075000116)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/xD-Arrays%20for%20dimmies.js)
 

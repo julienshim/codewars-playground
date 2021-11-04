@@ -381,6 +381,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20next%20perfect%20square.js)
 - Find the nth Digit of a Number [&#128279;](https://www.codewars.com/kata/577b9960df78c19bca00007e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20nth%20Digit%20of%20a%20Number.js)
+- Find the number [&#128279;](https://www.codewars.com/kata/55b051fac50a3292a9000025)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20number.js)
 - Find the Square Root [&#128279;](https://www.codewars.com/kata/56426b4e971f01fd2f00005b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20Square%20Root.js)
 - Find the Squares [&#128279;](https://www.codewars.com/kata/60908bc1d5811f0025474291)

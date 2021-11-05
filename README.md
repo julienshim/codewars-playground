@@ -144,6 +144,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Format%20a%20string%20of%20names%20like%20-Bart-%20Lisa%20-%20Maggie-.js)
 - From..To..Series #1: from m to n. Find the maximum range [&#128279;](https://www.codewars.com/kata/58065440a4647e0ed3000230)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/From--To--Series%20-1-%20from%20m%20to%20n-%20Find%20the%20maximum%20range.js)
+- Give me a Diamond [&#128279;](https://www.codewars.com/kata/5503013e34137eeeaa001648)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Give%20me%20a%20Diamond.js)
 - Greatest Common Factor of an Array [&#128279;](https://www.codewars.com/kata/5849169a6512c5964000016e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Greatest%20Common%20Factor%20of%20an%20Array.js)
 - Grouped by commas [&#128279;](https://www.codewars.com/kata/5274e122fc75c0943d000148)

@@ -1030,6 +1030,8 @@ This README is occasionally sorted by section with the following algorithm.
 - Remove First and Last Character [&#128279;](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Remove%20First%20and%20Last%20Character.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Remove%20First%20and%20Last%20Character.py)
+- Remove First and Last Character Part Two [&#128279;](https://www.codewars.com/kata/570597e258b58f6edc00230d)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Remove%20First%20and%20Last%20Character%20Part%20Two.js)
 - Remove String Spaces [&#128279;](https://www.codewars.com/kata/57eae20f5500ad98e50002c5)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Remove%20String%20Spaces.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Remove%20String%20Spaces.py)

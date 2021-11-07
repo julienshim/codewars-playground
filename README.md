@@ -43,6 +43,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Calculate%20Variance.js)
 - Can you get the loop ? [&#128279;](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Can%20you%20get%20the%20loop%20-.js)
+- Common Denominators [&#128279;](https://www.codewars.com/kata/54d7660d2daf68c619000d95)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Common%20Denominators.js)
 - Convert A Hex String To RGB [&#128279;](https://www.codewars.com/kata/5282b48bb70058e4c4000fa7)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Convert%20A%20Hex%20String%20To%20RGB.js)
 - Directions Reduction [&#128279;](https://www.codewars.com/kata/550f22f4d758534c1100025a)

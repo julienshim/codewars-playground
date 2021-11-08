@@ -1132,6 +1132,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Unfinished%20Loop%20-%20Bug%20Fixing%20-1.js)
 - USD => CNY [&#128279;](https://www.codewars.com/kata/5977618080ef220766000022)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/USD%20--%20CNY.js)
+- Vowel remover [&#128279;](https://www.codewars.com/kata/5547929140907378f9000039)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Vowel%20remover.js)
 - Watermelon [&#128279;](https://www.codewars.com/kata/55192f4ecd82ff826900089e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Watermelon.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Watermelon.py)

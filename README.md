@@ -166,6 +166,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Message%20Validator.js)
 - Mexican Wave [&#128279;](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Mexican%20Wave.js)
+- Most Frequent Weekdays [&#128279;](https://www.codewars.com/kata/56eb16655250549e4b0013f4)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Most%20Frequent%20Weekdays.js)
 - Multiples of 3 or 5 [&#128279;](https://www.codewars.com/kata/514b92a657cdc65150000006)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Multiples%20of%203%20or%205.js)
 - Persistent Bugger. [&#128279;](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)

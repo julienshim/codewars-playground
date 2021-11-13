@@ -798,6 +798,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Calculate%20average.js)
 - Calculate BMI [&#128279;](https://www.codewars.com/kata/57a429e253ba3381850000fb)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Calculate%20BMI.swift)
+- Can we divide it? [&#128279;](https://www.codewars.com/kata/5a2b703dc5e2845c0900005a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Can%20we%20divide%20it-.js)
 - Cat years, Dog years [&#128279;](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Cat%20years-%20Dog%20years.js)
 - Century From Year [&#128279;](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097)

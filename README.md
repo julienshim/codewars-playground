@@ -523,6 +523,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Minimize%20Sum%20Of%20Array%20-Array%20Series%20-1-.js)
 - Money, Money, Money [&#128279;](https://www.codewars.com/kata/563f037412e5ada593000114)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Money-%20Money-%20Money.js)
+- Monotone travel [&#128279;](https://www.codewars.com/kata/54466996990c921f90000d61)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/94b1dff719b74d91b4d55f5e1e44f9f880459fdb/JavaScript/7%20kyu/Monotone%20travel.js)
 - Most digits [&#128279;](https://www.codewars.com/kata/58daa7617332e59593000006)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Most%20digits.js)
 - Most sales [&#128279;](https://www.codewars.com/kata/5e16ffb7297fe00001114824)

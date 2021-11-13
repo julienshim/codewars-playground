@@ -1081,6 +1081,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Simple%20multiplication.swift)
 - Sleigh Authentication [&#128279;](https://www.codewars.com/kata/52adc142b2651f25a8000643)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Sleigh%20Authentication.js)
+- Sort and Star [&#128279;](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Sort%20and%20Star.js)
 - SpeedCode #2 - Array Madness [&#128279;](https://www.codewars.com/kata/56ff6a70e1a63ccdfa0001b1)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/SpeedCode%20-2%20-%20Array%20Madness.js)
 - SQL Basics: Simple WHERE and ORDER BY [&#128279;](https://www.codewars.com/kata/5809508cc47d327c12000084)

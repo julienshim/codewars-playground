@@ -476,6 +476,8 @@ This README is occasionally sorted by section with the following algorithm.
 - JavaScript class-like objects [&#128279;](https://www.codewars.com/kata/513e1e47c600c93cef000001)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/JavaScript%20class-like%20objects.js)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/I-m%20everywhere-.js)
+- JavaScript Array Filter [&#128279;](https://www.codewars.com/kata/https://www.codewars.com/kata/514a6336889283a3d2000001)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/JavaScript%20Array%20Filter.js)
 - L2: Triple X [&#128279;](https://www.codewars.com/kata/568dc69683322417eb00002c)
   [[.js]](https://github.com/julienshim/codewars-playground/commit/c626279ce7a0adc05c981f253c3b8a3f06b0de96)
 - Larger Product or Sum [&#128279;](https://www.codewars.com/kata/5c4cb8fc3cf185147a5bdd02)

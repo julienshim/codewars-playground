@@ -944,6 +944,8 @@ This README is occasionally sorted by section with the following algorithm.
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/How%20many%20lightsabers%20do%20you%20own-.js)
 - How many stairs will Suzuki climb in 20 years? [&#128279;](https://www.codewars.com/kata/56fc55cd1f5a93d68a001d4e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/How%20many%20stairs%20will%20Suzuki%20climb%20in%2020%20years-.js)
+- How old will I be in 2099? [&#128279;](https://www.codewars.com/kata/5761a717780f8950ce001473)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/How%20old%20will%20I%20be%20in%202099-.js)
 - I love you, a little , a lot, passionately ... not at all [&#128279;](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/I%20love%20you-%20a%20little%20-%20a%20lot-%20passionately%20---%20not%20at%20all.js)
 - If you can't sleep, just count sheep!! [&#128279;](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)

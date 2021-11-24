@@ -35,6 +35,8 @@
 
 - N00bify - English to n00b Translator [&#128279;](https://www.codewars.com/kata/552ec968fcd1975e8100005a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/N00bify%20-%20English%20to%20N00b%20Translator.js)
+- Number of trailing zeros of N! [&#128279;](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Number%20of%20trailing%20zeros%20of%20N-.js)
 
 ### P
 

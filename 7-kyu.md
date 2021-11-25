@@ -455,6 +455,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Simple%20letter%20removal.js)
 - Simple string reversal [&#128279;](https://www.codewars.com/kata/5a71939d373c2e634200008e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Simple%20string%20reversal.js)
+- Single digit [&#128279;](https://www.codewars.com/kata/5a7778790136a132a00000c1)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Single%20digit.js)
 - Small enough? - Beginner [&#128279;](https://www.codewars.com/kata/57cc981a58da9e302a000214)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Small%20enough-%20-%20Beginner.js)
 - Smallest value of an array [&#128279;](https://www.codewars.com/kata/544a54fd18b8e06d240005c0)

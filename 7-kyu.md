@@ -222,6 +222,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Game%20Hit%20the%20target.js)
 - Gauß needs help! (Sums of a lot of numbers). [&#128279;](https://www.codewars.com/kata/54df2067ecaa226eca000229)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Gauss%20needs%20help-%20-Sums%20of%20a%20lot%20of%20numbers-.py)
+- Get decimal part of the given number [&#128279;](https://www.codewars.com/kata/586e4c61aa0428f04e000069)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Get%20decimal%20part%20of%20the%20given%20number.js)
 - Get list sum recursively [&#128279;](https://www.codewars.com/kata/57a84137cf1fa5f9f80000d6)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Get%20list%20sum%20recursively.js)
 - Get the Middle Character [&#128279;](https://www.codewars.com/kata/56747fd5cb988479af000028)

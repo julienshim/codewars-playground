@@ -134,6 +134,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Replace%20With%20Alphabet%20Position.js)
 - Reverse every other word in the string [&#128279;](https://www.codewars.com/kata/58d76854024c72c3e20000de)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Reverse%20every%20other%20word%20in%20the%20string.js)
+- Round by 0.5 steps [&#128279;](https://www.codewars.com/kata/51f1342c76b586046800002a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Round%20by%200-5%20steps.js)
 
 ### S
 

@@ -66,6 +66,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Binary%20Addition.js)
 - Binary Calculator [&#128279;](https://www.codewars.com/kata/546ba103f0cf8f7982000df4)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Binary%20Calculator.swift)
+- Birthday I - Cake [&#128279;](https://www.codewars.com/kata/5805ed25c2799821cb000005)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Birthday%20I%20-%20Cake.js)
 - Boiled Eggs [&#128279;](https://www.codewars.com/kata/52b5247074ea613a09000164)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Boiled%20Eggs.js)
 - Breaking chocolate problem [&#128279;](https://www.codewars.com/kata/534ea96ebb17181947000ada)

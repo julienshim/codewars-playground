@@ -114,6 +114,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Most%20Frequent%20Weekdays.js)
 - Multiples of 3 or 5 [&#128279;](https://www.codewars.com/kata/514b92a657cdc65150000006)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Multiples%20of%203%20or%205.js)
+- Multiples of 3 and 5 redux [&#128279;](https://www.codewars.com/kata/54bb6ee72c4715684d0008f9)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Multiples%20of%203%20and%205%20redux.js)
 
 ### P
 

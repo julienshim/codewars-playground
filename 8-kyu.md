@@ -148,6 +148,8 @@
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Find%20the%20first%20non-consecutive%20number.swift)
 - Find the position! [&#128279;](https://www.codewars.com/kata/5808e2006b65bff35500008f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Find%20the%20position-.js)
+- Find the Remainder [&#128279;](https://www.codewars.com/kata/524f5125ad9c12894e00003f)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Find%20the%20Remainder.js)
 - Find the smallest integer in the array [&#128279;](https://www.codewars.com/kata/55a2d7ebe362935a210000b2)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Find%20the%20smallest%20integer%20in%20the%20array.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Find%20the%20smallest%20integer%20in%20the%20array.py)

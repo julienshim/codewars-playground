@@ -327,6 +327,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Palindrome%20Strings.js)
 - Playing with cubes II [&#128279;](https://www.codewars.com/kata/55c0ac142326fdf18d0000af)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Playing%20with%20cubes%20II.js)
+- Plural [&#128279;](https://www.codewars.com/kata/52ceafd1f235ce81aa00073a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Plural.js)
 - Pre-FizzBuzz Workout #1 [&#128279;](https://www.codewars.com/kata/569e09850a8e371ab200000b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Pre-FizzBuzz%20Workout%20-1.js)
 - Price of Mangoes [&#128279;](https://www.codewars.com/kata/57a77726bb9944d000000b06)

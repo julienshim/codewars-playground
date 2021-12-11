@@ -337,6 +337,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Maximum%20Length%20Difference.js)
 - Maximum Multiple [&#128279;](https://www.codewars.com/kata/5aba780a6a176b029800041c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Maximum%20Multiple.js)
+- Maximum Product [&#128279;](https://www.codewars.com/kata/5a4138acf28b82aa43000117)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Maximum%20Product.js)
 - Max-min arrays[&#128279;](https://www.codewars.com/kata/5a090c4e697598d0b9000004)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Max-min%20arrays.js)
 - Merge two arrays [&#128279;](https://www.codewars.com/kata/583af10620dda4da270000c5)

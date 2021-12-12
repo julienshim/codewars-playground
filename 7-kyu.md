@@ -408,6 +408,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Pairs%20of%20integers%20from%20m%20to%20n.js)
 - Password should not contain any part of your username. [&#128279;](https://www.codewars.com/kata/5c511d8877c0070e2c195faf)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Password%20should%20not%20contain%20any%20part%20of%20your%20username-.js)
+- Perimeter sequence [&#128279;](https://www.codewars.com/kata/589519d1f0902e01af000054)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Perimeter%20sequence.js)
 - Power of two [&#128279;](https://www.codewars.com/kata/534d0a229345375d520006a0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Power%20of%20two.js)
 - Predict your age! [&#128279;](https://www.codewars.com/kata/5aff237c578a14752d0035ae)

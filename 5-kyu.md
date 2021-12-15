@@ -65,6 +65,12 @@
 - Sum of Pairs [&#128279;](https://www.codewars.com/kata/54d81488b981293527000c8f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Sum%20of%20Pairs.js)
 
+### V
+
+- Simple Pig Latin [&#128279;](https://www.codewars.com/kata/548db0bd1df5bbf29b0000b7)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/validDate%20Regex.js)
+
+
 ### W
 
 - Weight for weight [&#128279;](https://www.codewars.com/users/julienshim)

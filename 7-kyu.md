@@ -145,6 +145,8 @@
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Drying%20Potatoes.swift)
 - Duplicate sandwich [&#128279;](https://www.codewars.com/kata/5f8a15c06dbd530016be0c19)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Duplicate%20sandwiich.js)
+- Double Trouble [&#128279;](https://www.codewars.com/kata/57f7796697d62fc93d0001b8)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Double%20Trouble.js)
 
 ### E
 

@@ -453,6 +453,8 @@
 
 ### S
 
+- Scaling Squared Strings [&#128279;](https://www.codewars.com/kata/56ed20a2c4e5d69155000301)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Scaling%20Squared%20Strings.js)
 - Shift Left [&#128279;](https://www.codewars.com/kata/5bdc191306a8a678f6000187)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Shift%20Left.js)
 - Shortest Word [&#128279;](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)

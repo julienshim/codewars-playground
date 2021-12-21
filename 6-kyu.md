@@ -123,6 +123,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Persistent%20Bugger-.js)
 - Piano Kata, Part 1 [&#128279;](https://www.codewars.com/kata/589273272fab865136000108)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Piano%20Kata-%20Part%201.js)
+- Piano Kata, Part 2 [&#128279;](https://www.codewars.com/kata/589631d24a7323d18d00016f)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Piano%20Kata-%20Part%202.js)
 - Playing with digits [&#128279;](https://www.codewars.com/kata/5552101f47fc5178b1000050)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Playing%20with%20digits.js)
 - Prefill an Array [&#128279;](https://www.codewars.com/kata/54129112fb7c188740000162)

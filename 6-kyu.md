@@ -112,6 +112,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Mexican%20Wave.js)
 - Most Frequent Weekdays [&#128279;](https://www.codewars.com/kata/56eb16655250549e4b0013f4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Most%20Frequent%20Weekdays.js)
+- Multi-tap Keypad Text Entry on an Old Mobile Phone [&#128279;](https://www.codewars.com/kata/54a2e93b22d236498400134b)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Multi-tap%20Keypad%20Text%20Entry%20on%20an%20Old%20Mobile%20Phone.js)
 - Multiples of 3 or 5 [&#128279;](https://www.codewars.com/kata/514b92a657cdc65150000006)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Multiples%20of%203%20or%205.js)
 - Multiples of 3 and 5 redux [&#128279;](https://www.codewars.com/kata/54bb6ee72c4715684d0008f9)

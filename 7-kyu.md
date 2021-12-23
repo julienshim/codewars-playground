@@ -139,6 +139,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Dominant%20array%20elements.js)
 - Don't give me five! [&#128279;](https://www.codewars.com/kata/5813d19765d81c592200001a)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Don-t%20give%20me%20five-.swift)
+- Double Every Other [&#128279;](https://www.codewars.com/kata/5809c661f15835266900010a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Double%20Every%20Other.js)
 - Double Sort [&#128279;](https://www.codewars.com/kata/57cc79ec484cf991c900018d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Double%20Sort.js)
 - Drying Potatos [&#128279;](https://www.codewars.com/kata/58ce8725c835848ad6000007)

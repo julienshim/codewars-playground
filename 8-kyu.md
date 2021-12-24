@@ -426,6 +426,8 @@
 - Sum without highest and lowest number [&#128279;](https://www.codewars.com/kata/576b93db1129fcf2200001e6)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Sum%20without%20highest%20and%20lowest%20number.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Sum%20without%20highest%20and%20lowest%20number.py)
+- Super Duper Easy [&#128279;](https://www.codewars.com/kata/55a5bfaa756cfede78000026)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Super%20Duper%20Easy.js)
 - Surface Area and Volume of a Box [&#128279;](https://www.codewars.com/kata/565f5825379664a26b00007c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Surface%20Area%20and%20Volume%20of%20a%20Box.js)
 - Swap Values [&#128279;](https://www.codewars.com/kata/5388f0e00b24c5635e000fc6)

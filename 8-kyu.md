@@ -481,6 +481,8 @@
 - Welcome! [&#128279;](https://www.codewars.com/kata/577ff15ad648a14b780000e7)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Welcome-.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Welcome-.py)
+- Welcome to the City [&#128279;](https://www.codewars.com/kata/5302d846be2a9189af0001e4)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Welcome%20to%20the%20City.js)
 - Well of Ideas - Easy Version [&#128279;](https://www.codewars.com/kata/57f222ce69e09c3630000212)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Well%20of%20Ideas%20-%20Easy%20Version.js)
 - What is between? [&#128279;](https://www.codewars.com/kata/55ecd718f46fba02e5000029)

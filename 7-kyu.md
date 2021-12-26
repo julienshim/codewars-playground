@@ -467,6 +467,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Simple%20Fun%20-176-%20Reverse%20Letter.js)
 - Simple Fun #2: Circle of Numbers [&#128279;](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Simple%20Fun%20-2-%20Circle%20of%20Numbers.js)
+- Simple Fun #251: Apples Distribution [&#128279;](https://www.codewars.com/kata/590fca79b5f8a69285000465)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Simple%20Fun%20-251-%20Apples%20Distribution.js)
 - Simple Fun #253: Cool String [&#128279;](https://www.codewars.com/kata/590fd3220f05b4f1ad00007c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Simple%20Fun%20-253-%20Cool%20String.js)
 - Simple Fun #37: House Numbers Sum [&#128279;](https://www.codewars.com/kata/58880c6e79a0a3e459000004)

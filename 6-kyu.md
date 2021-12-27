@@ -92,6 +92,8 @@
 
 ### H
 
+- Handshake problem [&#128279;](https://www.codewars.com/kata/5574835e3e404a0bed00001b)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Handshake%20problem.js)
 - Highest Scoring Word [&#128279;](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Highest%20Scoring%20Word.js)
 - HTML dynamic color string generation [&#128279;](https://www.codewars.com/kata/56f1c6034d0c330e4a001059)

@@ -425,6 +425,8 @@
 
 ### R
 
+- Rearrange Number to Get its Maximum [&#128279;](https://www.codewars.com/kata/563700da1ac8be8f1e0000dc)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Rearrange%20Number%20to%20Get%20its%20Maximum.js)
 - Recursive Replication [&#128279;](https://www.codewars.com/kata/57547f9182655569ab0008c4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Recursive%20Replication.js)
 - Regex validate PIN code [&#128279;](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)

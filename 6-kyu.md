@@ -94,6 +94,8 @@
 
 - Handshake problem [&#128279;](https://www.codewars.com/kata/5574835e3e404a0bed00001b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Handshake%20problem.js)
+- Help the bookseller! [&#128279;](https://www.codewars.com/kata/54dc6f5a224c26032800005c)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Help%20the%20bookseller%20-.js)
 - Highest Scoring Word [&#128279;](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Highest%20Scoring%20Word.js)
 - HTML dynamic color string generation [&#128279;](https://www.codewars.com/kata/56f1c6034d0c330e4a001059)

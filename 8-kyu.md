@@ -450,6 +450,8 @@
 - Total amount of points [&#128279;](https://www.codewars.com/kata/5bb904724c47249b10000131)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Total%20amount%20of%20points.py)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Total%20amount%20of%20points.js)
+- Training JS #4: Basic data types--Array [&#128279;](https://www.codewars.com/kata/571effabb625ed9b0600107a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Training%20JS%20-4-%20Basic%20data%20types--Array.js)
 - Training JS #7: and ternary operator [&#128279;](https://www.codewars.com/kata/57202aefe8d6c514300001fd)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Training%20JS%20-7-%20if--else%20and%20ternary%20operator.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Training%20JS%20-7-%20if--else%20and%20ternary%20operator.py)

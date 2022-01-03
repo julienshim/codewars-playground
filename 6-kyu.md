@@ -32,6 +32,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Count%20characters%20in%20your%20string.js)
 - Count letters in string [&#128279;](https://www.codewars.com/kata/5808ff71c7cfa1c6aa00006d)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/6%20kyu/Count%20letters%20in%20string.py)
+- Count the days! [&#128279;](https://www.codewars.com/kata/5837fd7d44ff282acd000157)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Count%20the%20days-.js)
 - Count the smiley faces! [&#128279;](https://www.codewars.com/kata/583203e6eb35d7980400002a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Count%20the%20smiley%20faces-.js)
 - Counting Duplicates [&#128279;](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)

@@ -410,6 +410,8 @@
 
 ### P
 
+- Pair Zeros [&#128279;](https://www.codewars.com/kata/54e2213f13d73eb9de0006d2)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Pair%20Zeros.js)
 - Pairs of integers from m to n [&#128279;](https://www.codewars.com/kata/588e2a1ad1140d31cb00008c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Pairs%20of%20integers%20from%20m%20to%20n.js)
 - Password should not contain any part of your username. [&#128279;](https://www.codewars.com/kata/5c511d8877c0070e2c195faf)

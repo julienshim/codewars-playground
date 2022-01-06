@@ -483,6 +483,8 @@
   [[.sql]](https://github.com/julienshim/codewars-playground/blob/master/SQL/7%20kyu/Simple%20Fun%20-74-%20Growing%20Plant.sql)
 - Simple letter removal [&#128279;](https://www.codewars.com/kata/5b728f801db5cec7320000c7)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Simple%20letter%20removal.js)
+- Simple remove duplicates [&#128279;](https://www.codewars.com/kata/5ba38ba180824a86850000f7)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Simple%20remove%20duplicates.js)
 - Simple string reversal [&#128279;](https://www.codewars.com/kata/5a71939d373c2e634200008e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Simple%20string%20reversal.js)
 - Single digit [&#128279;](https://www.codewars.com/kata/5a7778790136a132a00000c1)

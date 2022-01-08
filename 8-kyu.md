@@ -111,6 +111,8 @@
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Dollars%20and%20Cents.swift)
 - Double Char [&#128279;](https://www.codewars.com/kata/56b1f01c247c01db92000076)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Double%20Char.js)
+- Drink about [&#128279;](https://www.codewars.com/kata/56170e844da7c6f647000063)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Drink%20about.js)
 - Enumerable Magic #1 - True for All? [&#128279;](https://www.codewars.com/kata/54598d1fcbae2ae05200112c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Enumerable%20Magic%20-1%20-%20True%20for%20All-.js)
 - Enumerable Magic #25 - Take the First N Elements [&#128279;](https://www.codewars.com/kata/545afd0761aa4c3055001386)

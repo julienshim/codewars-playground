@@ -30,6 +30,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Alphabet%20war.js)
 - Alphabetical Addition [&#128279;](https://www.codewars.com/kata/5d50e3914861a500121e1958)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Alphabetical%20Addition.js)
+- Alternate case [&#128279;](https://www.codewars.com/kata/57a62154cf1fa5b25200031e)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Alternate%20case.js)
 - Alternate capitalization [&#128279;](https://www.codewars.com/kata/59cfc000aeb2844d16000075)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Alternate%20capitalization.py)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Alternative%20capitalization.js)

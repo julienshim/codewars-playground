@@ -100,6 +100,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Handshake%20problem.js)
 - Help the bookseller! [&#128279;](https://www.codewars.com/kata/54dc6f5a224c26032800005c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Help%20the%20bookseller%20-.js)
+- Highest Rank Number in an Array [&#128279;](https://www.codewars.com/kata/5420fc9bb5b2c7fd57000004/)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Highest%20Rank%20Number%20in%20an%20Array.js)
 - Highest Scoring Word [&#128279;](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Highest%20Scoring%20Word.js)
 - HTML dynamic color string generation [&#128279;](https://www.codewars.com/kata/56f1c6034d0c330e4a001059)

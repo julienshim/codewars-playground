@@ -361,6 +361,8 @@
 - Remove String Spaces [&#128279;](https://www.codewars.com/kata/57eae20f5500ad98e50002c5)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Remove%20String%20Spaces.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Remove%20String%20Spaces.py)
+- Remove the time [&#128279;](https://www.codewars.com/kata/56b0ff16d4aa33e5bb00008e)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Remove%20the%20time.js)
 - Return Negative [&#128279;](https://www.codewars.com/kata/55685cd7ad70877c23000102)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Return%20Negative.js)
 - Return Two Highest Values in List [&#128279;](https://www.codewars.com/kata/57ab3c09bb994429df000a4a)

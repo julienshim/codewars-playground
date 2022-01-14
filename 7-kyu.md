@@ -568,6 +568,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/The%20highest%20profit%20wins.js)
 - The Office I - Outed [&#128279;](https://www.codewars.com/kata/57ecf6efc7fe13eb070000e1)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/The%20Office%20I%20-%20Outed.js)
+- Thinkful - Number Drills: Congo warehouses [&#128279;](https://www.codewars.com/kata/5862e7c63f8628a126000e18)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Thinkful%20-%20Number%20Drills-%20Congo%20warehouses.js)
 - Thinkful - String Drills: Repeater [&#128279;](https://www.codewars.com/kata/585a1a227cb58d8d740001c3)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Thinkful%20-%20String%20Drills-%20Repeater.py)
 - Thinking & Testing : Incomplete string [&#128279;](https://www.codewars.com/kata/56d9292cc11bcc3629000533)

@@ -443,7 +443,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Remove%20anchor%20from%20URL.js)
 - Remove duplicate words [&#128279;](https://www.codewars.com/kata/5b39e3772ae7545f650000fc)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Remove%20duplicate%20words.js)
-- Remove duplicates []()
+- Remove duplicates [&#128279;](https://www.codewars.com/kata/53e30ec0116393fe1a00060b)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Remove%20duplicates.py)
 - Remove the minimum [&#128279;](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Remove%20the%20minimum.js)

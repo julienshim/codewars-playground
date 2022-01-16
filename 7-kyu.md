@@ -441,6 +441,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Regex%20validate%20PIN%20code.js)
 - Remove anchor from URL [&#128279;](https://www.codewars.com/kata/51f2b4448cadf20ed0000386)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Remove%20anchor%20from%20URL.js)
+- Remove consecutive duplicate words [&#128279;](https://www.codewars.com/kata/5b39e91ee7a2c103300018b3)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Remove%20consecutive%20duplicate%20words.js)
 - Remove duplicate words [&#128279;](https://www.codewars.com/kata/5b39e3772ae7545f650000fc)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Remove%20duplicate%20words.js)
 - Remove duplicates [&#128279;](https://www.codewars.com/kata/53e30ec0116393fe1a00060b)

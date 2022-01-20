@@ -224,6 +224,8 @@
 
 ### H
 
+- Help the Elite Squad of Brazilian forces BOPE [&#128279;](https://www.codewars.com/kata/5ab52526379d20736b00000e)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Help%20the%20Elite%20Squad%20of%20Brazilian%20forces%20BOPE.py)
 - How do I compare numbers? [&#128279;](https://www.codewars.com/kata/55d8618adfda93c89600012e/solutions/python)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/How%20do%20I%20compare%20numbers-.py)
 - How good are you really? [&#128279;](https://www.codewars.com/kata/5601409514fc93442500010b)

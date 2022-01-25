@@ -634,6 +634,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Weight%20of%20its%20Contents.js)
 - What a "Classy" Song [&#128279;](https://www.codewars.com/kata/6089c7992df556001253ba7d)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/What%20a%20-Classy-%20Song.py)
+- What comes after? [&#128279;](https://www.codewars.com/kata/590f5b4a7bbb3e246000007d)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/What%20comes%20after-.js)
 - Which string is worth more? [&#128279;](https://www.codewars.com/kata/5840586b5225616069000001)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Which%20string%20is%20worth%20more-.js)
 - Which triangle is that? [&#128279;](https://www.codewars.com/kata/564d398e2ecf66cec00000a9)

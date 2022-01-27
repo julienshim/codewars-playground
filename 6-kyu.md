@@ -141,6 +141,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Piano%20Kata-%20Part%202.js)
 - Playing with digits [&#128279;](https://www.codewars.com/kata/5552101f47fc5178b1000050)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Playing%20with%20digits.js)
+- Playing with passphrases [&#128279;](https://www.codewars.com/kata/559536379512a64472000053)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Playing%20with%20passphrases.js)
 - Prefill an Array [&#128279;](https://www.codewars.com/kata/54129112fb7c188740000162)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Prefill%20an%20Array.js)
 

@@ -28,6 +28,8 @@
 
 ### M
 
+- Maximum subarray sum [&#128279;](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Maximum%20subarray%20sum.js)
 - Moving Zeros To The End [&#128279;](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Moving%20Zeros%20To%20The%20End.js)
 

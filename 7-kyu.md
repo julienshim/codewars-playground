@@ -345,6 +345,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Make%20a%20function%20that%20does%20arithmetic-.js)
 - Map over a list of lists [&#128279;](https://www.codewars.com/kata/606b43f4adea6e00425dff42)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Map%20over%20a%20list%20of%20lists.py)
+- max diff - easy [&#128279;](https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/max%20diff%20-%20easy.js)
 - Max sum between two negatives [&#128279;](https://www.codewars.com/kata/6066ae080168ff0032c4107a)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Max%20sum%20between%20two%20negatives.py)
 - Maximum Length Difference [&#128279;](https://www.codewars.com/kata/5663f5305102699bad000056)

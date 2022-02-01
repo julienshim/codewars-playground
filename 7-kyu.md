@@ -102,6 +102,8 @@
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/-Code%20Golf-%20Return%20Odd%20No%20Matter%20What.py)
 - Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe [&#128279;](https://www.codewars.com/kata/582746fa14b3892727000c4f)
   [[.js]](https://github.com/julienshim/codewars-playground/commit/815cc0754702e78cb8fe2c445b2125e37ca9653a)
+- Coding Meetup #11 - Higher-Order Functions Series - Find the average age [&#128279;](https://www.codewars.com/kata/582ba36cc1901399a70005fc)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Coding%20Meetup%20-11%20-%20Higher-Order%20Functions%20Series%20-%20Find%20the%20average%20age.js)
 - Comfortable words [&#128279;](https://www.codewars.com/kata/56684677dc75e3de2500002b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Comfortable%20words.js)
 - Complementary DNA [&#128279;](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)

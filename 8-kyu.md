@@ -467,6 +467,8 @@
 - Training JS #7: and ternary operator [&#128279;](https://www.codewars.com/kata/57202aefe8d6c514300001fd)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Training%20JS%20-7-%20if--else%20and%20ternary%20operator.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Training%20JS%20-7-%20if--else%20and%20ternary%20operator.py)
+- Training JS #8: Conditional statement--switch [&#128279;](https://www.codewars.com/kata/572059afc2f4612825000d8a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Training%20JS%20-8-%20Conditional%20statement--switch.js)
 - Transportation on vacation [&#128279;](https://www.codewars.com/kata/568d0dd208ee69389d000016)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Transportation%20on%20vacation.swift)
 - Triple Trouble [&#128279;](https://www.codewars.com/kata/5704aea738428f4d30000914)

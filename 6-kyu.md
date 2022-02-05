@@ -109,6 +109,8 @@
 
 ### I
 
+- If you can read this... [&#128279;](https://www.codewars.com/kata/586538146b56991861000293)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/If%20you%20can%20read%20this---.js)
 - IQ Test [&#128279;](https://www.codewars.com/kata/552c028c030765286c00007d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/IQ%20Test.js)
 - Is a number prime? [&#128279;](https://www.codewars.com/kata/5262119038c0985a5b00029f)

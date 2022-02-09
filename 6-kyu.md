@@ -186,6 +186,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Take%20a%20Ten%20Minute%20Walk.js)
 - The Supermarket Queue [&#128279;](https://www.codewars.com/kata/57b06f90e298a7b53d000a86)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/The%20Supermarket%20Queue.js)
+- The Vowel Code [&#128279;](https://www.codewars.com/kata/53697be005f803751e0015aa)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/The%20Vowel%20Code.js)
 - Title Case [&#128279;](https://www.codewars.com/kata/5202ef17a402dd033c000009)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Title%20Case.js)
 - Transform To Prime [&#128279;](https://www.codewars.com/kata/5a946d9fba1bb5135100007c)

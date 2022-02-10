@@ -321,6 +321,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Largest%20pair%20sum%20in%20array.js)
 - Largest Square Inside A Circle [&#128279;](https://www.codewars.com/kata/5887a6fe0cfe64850800161c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Largest%20Square%20Inside%20A%20Circle.js)
+- last digits of a number [&#128279;](https://www.codewars.com/kata/5cd5ba1ce4471a00256930c0)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/last%20digits%20of%20a%20number.js)
 - Leap Years [&#128279;](https://www.codewars.com/kata/526c7363236867513f0005ca)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Leap%20Years.js)
 - Least Larger [&#128279;](https://www.codewars.com/kata/5f8341f6d030dc002a69d7e4)

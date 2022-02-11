@@ -122,6 +122,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Message%20Validator.js)
 - Mexican Wave [&#128279;](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Mexican%20Wave.js)
+- Minutes to Midnight [&#128279;](https://www.codewars.com/kata/58528e9e22555d8d33000163)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Minutes%20to%20Midnight.js)
 - Most Frequent Weekdays [&#128279;](https://www.codewars.com/kata/56eb16655250549e4b0013f4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Most%20Frequent%20Weekdays.js)
 - Multi-tap Keypad Text Entry on an Old Mobile Phone [&#128279;](https://www.codewars.com/kata/54a2e93b22d236498400134b)

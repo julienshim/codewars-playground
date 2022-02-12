@@ -531,6 +531,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20Santa-s%20Reindeer.js)
 - Sort the Vowels! [&#128279;](https://www.codewars.com/kata/59e49b2afc3c494d5d00002a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20the%20Vowels-.js)
+- Sorted? yes? no? how? [&#128279;](https://www.codewars.com/kata/580a4734d6df748060000045)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sorted-%20yes-%20no-%20how-.js)
 - Speed Control [&#128279;](https://www.codewars.com/kata/56484848ba95170a8000004d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Speed%20Control.js)
 - Spoonerize Me [&#128279;](https://www.codewars.com/kata/56b8903933dbe5831e000c76)

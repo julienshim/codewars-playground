@@ -282,6 +282,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/L1-%20Set%20Alarm.js)
 - Lario and Muigi Pipe Problem [&#128279;](https://www.codewars.com/kata/56b29582461215098d00000f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Lario%20and%20Muigi%20Pipe%20Problem.js)
+- Logical Calculator [&#128279;](https://www.codewars.com/kata/57096af70dad013aa200007b)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Logical%20calculator.js)
 
 ### M
 

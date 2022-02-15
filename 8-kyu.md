@@ -335,6 +335,8 @@
 
 - Palindrome Strings [&#128279;](https://www.codewars.com/kata/57a5015d72292ddeb8000b31)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Palindrome%20Strings.js)
+- Parse nice int from char problem [&#128279;](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Parse%20nice%20int%20from%20char%20problem.js)
 - Playing with cubes II [&#128279;](https://www.codewars.com/kata/55c0ac142326fdf18d0000af)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Playing%20with%20cubes%20II.js)
 - Plural [&#128279;](https://www.codewars.com/kata/52ceafd1f235ce81aa00073a)

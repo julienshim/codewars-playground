@@ -463,6 +463,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/The%20-if-%20function.js)
 - The Wide-Mouthed frog! [&#128279;](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/The%20Wide-Mouthed%20frog.js)
+- Thinkful - Number Drills: Pixelart planning [&#128279;](https://www.codewars.com/kata/58630e2ae88af44d2b0000ea)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Thinkful%20-%20Number%20Drills-%20Pixelart%20planning.js)
 - Tip Calculator [&#128279;](https://www.codewars.com/kata/56598d8076ee7a0759000087)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Tip%20Calculator.js)
 - To square(root) or not to square(root) [&#128279;](https://www.codewars.com/kata/57f6ad55cca6e045d2000627)

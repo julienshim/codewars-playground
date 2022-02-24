@@ -177,6 +177,8 @@
   [[.sql]](https://github.com/julienshim/codewars-playground/blob/master/SQL/6%20kyu/SQL%20Basics-%20Simple%20table%20totaling-.sql)
 - Stop gninnipS My sdroW! [&#128279;](https://www.codewars.com/kata/5264d2b162488dc400000001)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/6%20kyu/Stop%20gninnipS%20My%20sdroW-.py)
+- String searching with wildcard [&#128279;](https://www.codewars.com/kata/546c7f89bed2e12fb300056f)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/String%20searching%20with%20wildcard.js)
 - Sum of Digits / Digital Root [&#128279;](https://www.codewars.com/kata/541c8630095125aba6000c00)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Sum%20of%20Digits%20-%20Digital%20Root.js)
 - Sum of Parts [&#128279;](https://www.codewars.com/kata/5ce399e0047a45001c853c2b)

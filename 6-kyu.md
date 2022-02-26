@@ -147,6 +147,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Playing%20with%20digits.js)
 - Playing with passphrases [&#128279;](https://www.codewars.com/kata/559536379512a64472000053)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Playing%20with%20passphrases.js)
+- +1 Array [&#128279;](https://www.codewars.com/kata/5514e5b77e6b2f38e0000ca9)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/-1%20Array.js)
 - Prefill an Array [&#128279;](https://www.codewars.com/kata/54129112fb7c188740000162)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Prefill%20an%20Array.js)
 

@@ -259,6 +259,8 @@
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Is%20it%20even-.py)
 - Is n divisible by x and y? [&#128279;](https://www.codewars.com/kata/5545f109004975ea66000086)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Is%20n%20divisible%20by%20x%20and%20y-.js)
+- Is the date today [&#128279;](https://www.codewars.com/kata/563c13853b07a8f17c000022)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Is%20the%20date%20today.js)
 - Is the string uppercase? [&#128279;](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
   [[.js]](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
 - Is this my tail? [&#128279;](https://www.codewars.com/kata/56f695399400f5d9ef000af5)

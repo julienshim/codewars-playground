@@ -158,6 +158,8 @@
 
 ### E
 
+- Easy Line [&#128279;](https://www.codewars.com/kata/56e7d40129035aed6c000632)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Easy%20Line.js)
 - Easy mathematical callback [&#128279;](https://www.codewars.com/kata/54b7c8d2cd7f51a839000ebf)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Easy%20mathematical%20callback.js)
 - Easy wallpaper [&#128279;](https://www.codewars.com/kata/567501aec64b81e252000003)

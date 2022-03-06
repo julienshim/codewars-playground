@@ -183,6 +183,8 @@
   [[.js]](<https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Factorial%20(wichu%20version).js>)
 - Factorial (zvytas version) [&#128279;](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc)
   [[.js]](<https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Factorial%20(zvytas%20version).js>)
+- Filter unused digits [&#128279;](https://www.codewars.com/kata/55de6173a8fbe814ee000061)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Filter%20unused%20digits.js)
 - Find all non-consecutive numbers [&#128279;](https://www.codewars.com/kata/58f8b35fda19c0c79400020f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20all%20non-consecutive%20numbers.js)
 - Find all occurrences of an element in an array [&#128279;](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20all%20occurrences%20of%20an%20element%20in%20an%20array.js)

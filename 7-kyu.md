@@ -12,6 +12,8 @@
 - Absent vowel [&#128279;](https://www.codewars.com/kata/56414fdc6488ee99db00002c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Absent%20vowel.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Absent%20vowel.py)
+- Age in days [&#128279;](https://www.codewars.com/kata/5803753aab6c2099e600000e)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Age%20in%20days.js)
 - Alan Partridge I - Partridge Watch [&#128279;](https://www.codewars.com/kata/5808c8eff0ed4210de000008)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Alan%20Partridge%20I%20-%20Partridge%20Watch.js)
 - Alan Partridge III - London [&#128279;](https://www.codewars.com/kata/580a41b6d6df740d6100030c)

@@ -167,6 +167,8 @@
 
 ### S
 
+- Salesman's Travel [](https://www.codewars.com/kata/56af1a20509ce5b9b000001e)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Salesman-s%20Travel.js)
 - Sort the odd [&#128279;](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Sort%20the%20odd.js)
 - Split Strings [&#128279;](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)

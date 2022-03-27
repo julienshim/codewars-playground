@@ -86,6 +86,8 @@
 
 ### C
 
+- Case Swapping [&#128279;](https://www.codewars.com/kata/5590961e6620c0825000008f)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Case%20Swapping.js)
 - Categorize New Member [&#128279;](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Categorize%20New%20Member.js)
 - Ce*s*r*d Strings [&#128279;](codewars.com/kata/5ff6060ed14f4100106d8e6f)

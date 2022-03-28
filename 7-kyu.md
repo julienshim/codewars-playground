@@ -102,6 +102,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Chicken%20Sexing.js)
 - Chuck Norris I - Push Ups [&#128279;](https://www.codewars.com/kata/570564e838428f2eca001d73)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Chuck%20Norris%20I%20-%20Push%20Ups.js)
+- Closure Counter [&#128279;](https://www.codewars.com/kata/60edafd71dad1800563cf933)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Closure%20Counter.js)
 - [Code Golf] Return Odd No Matter What [&#128279;](https://www.codewars.com/kata/5f882dcc272e7a00287743f5)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/-Code%20Golf-%20Return%20Odd%20No%20Matter%20What.py)
 - Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe [&#128279;](https://www.codewars.com/kata/582746fa14b3892727000c4f)

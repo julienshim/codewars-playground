@@ -136,6 +136,8 @@
 
 ### D
 
+- Day of the Year [&#128279;](https://www.codewars.com/kata/5a1ebe0d46d843454100004c)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Day%20of%20the%20Year.js)
 - Debug Sum of Digits of a Number [&#128279;](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Debug%20Sum%20of%20Digits%20of%20a%20Number.js)
 - Deodorant Evaporator [&#128279;](https://www.codewars.com/kata/5506b230a11c0aeab3000c1f)

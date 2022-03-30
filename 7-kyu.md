@@ -247,6 +247,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Form%20The%20Minimum.js)
 - Four/Seven [&#128279;](https://www.codewars.com/kata/5ff50f64c0afc50008861bf0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Four-Seven.js)
+- Frank's Sticky Calculator [&#128279;](https://www.codewars.com/kata/5900750cb7c6172207000054)
+   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Frank-s%20Sticky%20Calculator.js)
 - Frequency sequence [&#128279;](https://www.codewars.com/kata/585a033e3a36cdc50a00011c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Frequency%20sequence.js)
 - Friend or Foe? [&#128279;](https://www.codewars.com/kata/55b42574ff091733d900002f)

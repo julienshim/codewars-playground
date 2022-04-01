@@ -68,6 +68,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Check%20the%20exam.js)
 - Classic Hello World [&#128279;](https://www.codewars.com/kata/57036f007fd72e3b77000023)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Classic%20Hello%20World.js)
+- Classy Classes [&#128279;](https://www.codewars.com/kata/55a144eff5124e546400005a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Classy%20Classes.js)
 - Closest elevator [&#128279;](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Closest%20elevator.py)
 = Compare within margin [&#128279;](https://www.codewars.com/kata/56453a12fcee9a6c4700009c)

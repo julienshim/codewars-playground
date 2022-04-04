@@ -161,6 +161,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Double%20Sort.js)
 - Drawing a Cross! [&#128279;](https://www.codewars.com/kata/5a036ecb2b651d696f00007c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Drawing%20a%20Cross-.js)
+- Dropcaps [&#128279;](https://www.codewars.com/kata/559e5b717dd758a3eb00005a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Dropcaps.js)
 - Drying Potatos [&#128279;](https://www.codewars.com/kata/58ce8725c835848ad6000007)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Drying%20Potatoes.swift)
 - Duplicate sandwich [&#128279;](https://www.codewars.com/kata/5f8a15c06dbd530016be0c19)

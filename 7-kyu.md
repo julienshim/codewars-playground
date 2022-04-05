@@ -511,6 +511,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Scaling%20Squared%20Strings.js)
 - Shift Left [&#128279;](https://www.codewars.com/kata/5bdc191306a8a678f6000187)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Shift%20Left.js)
+- Short Long Short [&#128279;](https://www.codewars.com/kata/50654ddff44f800200000007)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Short%20Long%20Short.js)
 - Shortest Word [&#128279;](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Shortest%20Word.js)
 - Simple consecutive pairs [&#128279;](https://www.codewars.com/kata/5a3e1319b6486ac96f000049)

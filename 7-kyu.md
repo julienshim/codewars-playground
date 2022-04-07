@@ -579,6 +579,8 @@
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/String%20ends%20with-.py)
 - String matchup [&#128279;](https://www.codewars.com/kata/59ca8e8e1a68b7de740001f4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/String%20matchup.js)
+- String Merge! [&#128279;](https://www.codewars.com/kata/597bb84522bc93b71e00007e)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/String%20Merge-.js)
 - String prefix and suffix [&#128279;](https://www.codewars.com/kata/5ce969ab07d4b7002dcaa7a1)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/String%20prefix%20and%20suffix.js)
 - Substring fun [&#128279;](https://www.codewars.com/kata/565b112d09c1adfdd500019c)

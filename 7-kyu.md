@@ -561,6 +561,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20rectangles%20and%20circles%20by%20area%20II.js)
 - Sort Santa's Reindeer [&#128279;](https://www.codewars.com/kata/52ab60b122e82a6375000bad)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20Santa-s%20Reindeer.js)
+- Sort the Gift Code [&#128279;](https://www.codewars.com/kata/52aeb2f3ad0e952f560005d3)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20the%20Gift%20Code.js)
 - Sort the Vowels! [&#128279;](https://www.codewars.com/kata/59e49b2afc3c494d5d00002a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20the%20Vowels-.js)
 - Sorted? yes? no? how? [&#128279;](https://www.codewars.com/kata/580a4734d6df748060000045)

@@ -601,6 +601,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sum%20of%20Minimums-.js)
 - Sum of numbers from 0 to N [&#128279;](https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sum%20of%20numbers%20from%200%20to%20N.js)
+- Sum of numerous arguments [&#128279;](https://www.codewars.com/kata/55c5b03f8c28da9a51000045)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sum%20of%20numerous%20arguments.js)
 - Sum of odd numbers [&#128279;](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sum%20of%20odd%20numbers.js)
 - Sum of the first nth term of Series [&#128279;](https://www.codewars.com/kata/555eded1ad94b00403000071)

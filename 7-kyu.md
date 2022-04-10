@@ -611,6 +611,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sum%20of%20the%20first%20nth%20term%20of%20Series.js)
 - Sum of two lowest positive integer [&#128279;](https://www.codewars.com/kata/558fc85d8fd1938afb000014)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Sum%20of%20two%20lowest%20positive%20integers.swift)
+- Sum up the random string [&#128279;](https://www.codewars.com/kata/55da6c52a94744b379000036)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sum%20up%20the%20random%20string.js)
 - Summing a number's digits [&#128279;](https://www.codewars.com/kata/52f3149496de55aded000410)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Summing%20a%20number-s%20digits.js)
 - Summy [&#128279;](https://www.codewars.com/kata/599c20626bd8795ce900001d)

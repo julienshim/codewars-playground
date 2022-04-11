@@ -353,6 +353,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Pre-FizzBuzz%20Workout%20-1.js)
 - Price of Mangoes [&#128279;](https://www.codewars.com/kata/57a77726bb9944d000000b06)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Price%20of%20Mangoes.js)
+- Printing Array elements with Comma delimiters [&#128279;](https://www.codewars.com/kata/56e2f59fb2ed128081001328)
+[[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Printing%20Array%20elements%20with%20Comma%20delimiters.js)
 
 ### Q
 

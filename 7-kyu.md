@@ -703,6 +703,11 @@
 - Word to binary [&#128279;](https://www.codewars.com/kata/59859f435f5d18ede7000050)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Word%20to%20binary.js)
 
+### X
+
+- 'x' marks the spot. [&#128279;](https://www.codewars.com/kata/5777fe3f355edbf0a5000d11)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/-x-%20marks%20the%20spot-.js)
+
 ### Y
 
 - You Got Change? [&#128279;](https://www.codewars.com/kata/5966f6343c0702d1dc00004c)

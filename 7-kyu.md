@@ -427,6 +427,8 @@
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/No%20oddities%20here.py)
 - Nth power rules them all! [&#128279;](https://www.codewars.com/kata/58aed2cafab8faca1d000e20)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Nth%20power%20rules%20them%20all-.js)
+- Nth Root of a Number [&#128279;](https://www.codewars.com/kata/5520714decb43308ea000083)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Nth%20Root%20of%20a%20Number.js)
 - Number of Decimal Digits [&#128279;](https://www.codewars.com/kata/58fa273ca6d84c158e000052)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Number%20of%20Decimal%20Digits.js)
 - Number of People in the Bus [&#128279;](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)

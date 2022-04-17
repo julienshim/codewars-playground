@@ -481,6 +481,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Recursive%20Replication.js)
 - Regex validate PIN code [&#128279;](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Regex%20validate%20PIN%20code.js)
+- Remove All The Marked Elements of a List [&#128279;](https://www.codewars.com/kata/563089b9b7be03472d00002b)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Remove%20All%20The%20Marked%20Elements%20of%20a%20List.js)
 - Remove anchor from URL [&#128279;](https://www.codewars.com/kata/51f2b4448cadf20ed0000386)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Remove%20anchor%20from%20URL.js)
 - Remove consecutive duplicate words [&#128279;](https://www.codewars.com/kata/5b39e91ee7a2c103300018b3)

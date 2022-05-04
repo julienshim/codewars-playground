@@ -104,6 +104,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Chicken%20Sexing.js)
 - Chuck Norris I - Push Ups [&#128279;](https://www.codewars.com/kata/570564e838428f2eca001d73)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Chuck%20Norris%20I%20-%20Push%20Ups.js)
+- Circle area inside square [&#128279;](https://www.codewars.com/kata/5899aa695401a83a5c0000c4)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Circle%20area%20inside%20square.js)
 - Closure Counter [&#128279;](https://www.codewars.com/kata/60edafd71dad1800563cf933)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Closure%20Counter.js)
 - [Code Golf] Return Odd No Matter What [&#128279;](https://www.codewars.com/kata/5f882dcc272e7a00287743f5)

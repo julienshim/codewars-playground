@@ -176,6 +176,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Function%202%20-%20squaring%20an%20argument.js)
 - Function 3 - multiplying two numbers [&#128279;](https://www.codewars.com/kata/523b66342d0c301ae400003b)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Function%203%20-%20multiplying%20two%20numbers.swift)
+- Fundamentals: Return [&#128279;](https://www.codewars.com/kata/55a5befdf16499bffb00007b)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Fundamentals-%20Return.js)
 
 ### G
 

@@ -463,6 +463,8 @@
 
 ### T
 
+- Template Strings [&#128279;](https://www.codewars.com/kata/55a14f75ceda999ced000048)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Temple%20Strings.js)
 - The falling speed of petals [&#128279;](https://www.codewars.com/kata/5a0be7ea8ba914fc9c00006b/solutions/javascript)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/The%20falling%20speed%20of%20petals.js)
 - The Feast of Many Beasts [&#128279;](https://www.codewars.com/kata/5aa736a455f906981800360d)

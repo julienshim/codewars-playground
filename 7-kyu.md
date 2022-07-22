@@ -507,6 +507,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Return%20the%20Missing%20Element.js)
 - Reverse a Number [&#128279;](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Reverse%20a%20Number.js)
+- Reverse list [](https://www.codewars.com/kata/57a04da9e298a7ee43000111)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Reverse%20list.js)
 - Reverse the bits in an integer [&#128279;](https://www.codewars.com/kata/5959ec605595565f5c00002b)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Reverse%20the%20bits%20in%20an%20integer.py)
 - Reverse words [&#128279;](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)

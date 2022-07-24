@@ -94,6 +94,7 @@
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Count%20Odd%20Numbers%20below%20n.py)
 - Count of positives / sum of negatives [&#128279;](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Count%20of%20positives%20-%20sum%20of%20negatives.py)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Count%20of%20positives%20-%20sum%20of%20negatives.js)
 - Count the Monkeys! [&#128279;](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Count%20the%20Monkeys-.js)
 - Counting sheep... [&#128279;](https://www.codewars.com/kata/54edbc7200b811e956000556)

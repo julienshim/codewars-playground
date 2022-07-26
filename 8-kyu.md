@@ -376,6 +376,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Regular%20Ball%20Super%20Ball.js)
 - Remove duplicates from list [&#128279;](https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Remove%20duplicates%20from%20list.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Remove%20duplicates%20from%20list.py)
 - Remove exclamation marks [&#128279;](https://www.codewars.com/kata/57a0885cbb9944e24c00008e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Remove%20exclamation%20marks.js)
 - Remove First and Last Character [&#128279;](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)

@@ -49,6 +49,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/1ac8c63fcf56747dd9f8a61fa8c596fd20e2aa69/JavaScript/7%20kyu/Are%20they%20square-.js)
 - Area of an arrow [&#128279;](https://www.codewars.com/kata/589478160c0f8a40870000bc)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Area%20of%20an%20arrow.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Area%20of%20an%20arrow.py)
 - Array comparator [&#128279;](https://www.codewars.com/kata/561046a9f629a8aac000001d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Array%20comparator.js)
 - Array element parity [&#128279;](https://www.codewars.com/kata/5a092d9e46d843b9db000064)

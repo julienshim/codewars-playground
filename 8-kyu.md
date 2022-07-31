@@ -398,6 +398,7 @@
 - Returning Strings [&#128279;](https://www.codewars.com/kata/55a70521798b14d4750000a4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Returning%20Strings.js)
   [[.py]]([[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Returning%20Strings.py))
+  [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Returning%20Strings.swift)
 - Reverse List Order [&#128279;](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Reverse%20List%20Order.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Reverse%20List%20Order.py)

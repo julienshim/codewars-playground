@@ -85,6 +85,7 @@
 - Convert boolean values to strings 'Yes' or 'No'. [&#128279;](https://www.codewars.com/kata/53369039d7ab3ac506000467)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Convert%20boolean%20values%20to%20strings%20-Yes-%20or%20-No--.py)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Convert%20boolean%20values%20to%20strings%20-Yes-%20or%20-No--.js)
+  [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Convert%20boolean%20values%20to%20strings%20-Yes-%20or%20-No--.swift)
 - Convert number to reversed array of digits [&#128279;](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Convert%20number%20to%20reversed%20array%20of%20digits.swift)
 - Correct the mistakes of the character recognition software [&#128279;](https://www.codewars.com/kata/577bd026df78c19bca0002c0)

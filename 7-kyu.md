@@ -14,6 +14,7 @@
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Absent%20vowel.py)
 - Adding Arrays [&#128279;](https://www.codewars.com/kata/59778cb1b061e877c50000cc)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Adding%20Arrays.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Adding%20Arrays.py)
 - Age in days [&#128279;](https://www.codewars.com/kata/5803753aab6c2099e600000e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Age%20in%20days.js)
 - Alan Partridge I - Partridge Watch [&#128279;](https://www.codewars.com/kata/5808c8eff0ed4210de000008)

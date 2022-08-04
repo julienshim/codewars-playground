@@ -76,6 +76,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Compare%20within%20margin.js)
 - Convert a Boolean to a String [&#128279;](https://www.codewars.com/kata/551b4501ac0447318f0009cd)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Convert%20a%20Boolean%20to%20a%20String.swift)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Convert%20a%20Boolean%20to%20a%20String.py)
 - Convert a Number to a String! [&#128279;](https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Convert%20a%20Number%20to%20a%20String-.js)
 - Convert a String to a Number! [&#128279;](https://www.codewars.com/kata/544675c6f971f7399a000e79)

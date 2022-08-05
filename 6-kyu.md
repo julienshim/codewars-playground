@@ -42,6 +42,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Count%20the%20smiley%20faces-.js)
 - Counting Duplicates [&#128279;](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Counting%20Duplicates.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/6%20kyu/Counting%20Duplicates.py)
 - Create Phone Number [&#128279;](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Create%20Phone%20Number.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/6%20kyu/Create%20Phone%20Number.py)

@@ -562,6 +562,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Small%20enough-%20-%20Beginner.js)
 - Smallest value of an array [&#128279;](https://www.codewars.com/kata/544a54fd18b8e06d240005c0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Smallest%20value%20of%20an%20array.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Smallest%20value%20of%20an%20array.py)
 - Some (but not all) [&#128279;](https://www.codewars.com/kata/60dda5a66c4cf90026256b75)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Some%20-but%20not%20all-.py)
 - Sort array by string length [&#128279;](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)

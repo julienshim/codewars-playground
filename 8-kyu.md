@@ -276,6 +276,7 @@
   [[.js]](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
 - Is this my tail? [&#128279;](https://www.codewars.com/kata/56f695399400f5d9ef000af5)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Is%20this%20my%20tail-.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Is%20this%20my%20tail-.py)
 
 ### J
 

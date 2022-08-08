@@ -532,6 +532,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Short%20Long%20Short.js)
 - Shortest Word [&#128279;](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Shortest%20Word.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Shortest%20Word.py)
 - Simple consecutive pairs [&#128279;](https://www.codewars.com/kata/5a3e1319b6486ac96f000049)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Simple%20consecutive%20pairs.js)
 - Simple equation reversal [&#128279;](https://www.codewars.com/kata/5aa3af22ba1bb5209f000037)

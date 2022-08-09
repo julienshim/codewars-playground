@@ -93,6 +93,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Correct%20the%20mistakes%20of%20the%20character%20recognition%20software.js)
 - Count by X [&#128279;](https://www.codewars.com/kata/5513795bd3fafb56c200049e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Count%20by%20X.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Count%20by%20X.py)
 - Count Odd Numbers below n [&#128279;](https://www.codewars.com/kata/59342039eb450e39970000a6)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Count%20Odd%20Numbers%20below%20n.py)
 - Count of positives / sum of negatives [&#128279;](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)

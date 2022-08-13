@@ -626,6 +626,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sum%20of%20numerous%20arguments.js)
 - Sum of odd numbers [&#128279;](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sum%20of%20odd%20numbers.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Sum%20of%20odd%20numbers.py)
 - Sum of the first nth term of Series [&#128279;](https://www.codewars.com/kata/555eded1ad94b00403000071)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sum%20of%20the%20first%20nth%20term%20of%20Series.js)
 - Sum of two lowest positive integer [&#128279;](https://www.codewars.com/kata/558fc85d8fd1938afb000014)

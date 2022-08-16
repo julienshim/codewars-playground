@@ -365,6 +365,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/letters%20only-%20please-.js)~
 - Life Path Number [&#128279;](https://www.codewars.com/kata/5a1a76c8a7ad6aa26a0007a0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Life%20Path%20Number.js)
+- Likes Vs Dislikes [&#128279;](https://www.codewars.com/kata/62ad72443809a4006998218a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Likes%20Vs%20Dislikes.js)
 - Linked Lists - Get Nth Node [&#128279;](https://www.codewars.com/kata/55befc42bfe4d13ab1000007)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Linked%20Lists%20-%20Get%20Nth%20Node.js)
 - List Filtering [&#128279;](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)

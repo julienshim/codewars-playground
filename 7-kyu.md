@@ -612,6 +612,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Substring%20fun.js)
 - Sum - Square Even, Root Odd [&#128279;](https://www.codewars.com/kata/5a4b16435f08299c7000274f)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Sum%20-%20Square%20Even-%20Root%20Odd.py)
+- Sum a list but ignore any duplicates [&#128279;](https://www.codewars.com/kata/5993fb6c4f5d9f770c0000f2)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Sum%20a%20list%20but%20ignore%20any%20duplicates.py)
 - Sum even numbers [&#128279;](https://www.codewars.com/kata/586beb5ba44cfc44ed0006c3)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sum%20even%20numbers.js)
 - Sum of a sequence [&#128279;](https://www.codewars.com/kata/586f6741c66d18c22800010a)

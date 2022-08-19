@@ -435,6 +435,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Simple%20Fun%20-1-%20Seats%20in%20Theater.js)
 - simple calculator [&#128279;](https://www.codewars.com/kata/5810085c533d69f4980001cf)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/simple%20calculator.py)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/simple%20calculator.js)
 - Simple multiplication [&#128279;](https://www.codewars.com/kata/583710ccaa6717322c000105)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Simple%20multiplication.swift)
 - Sleigh Authentication [&#128279;](https://www.codewars.com/kata/52adc142b2651f25a8000643)

@@ -13,6 +13,8 @@
 
 ### B
 
+- Back and forth then Reverse! [&#128279;](https://www.codewars.com/kata/60cc93db4ab0ae0026761232)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Back%20and%20forth%20then%20Reverse-.js)
 - Backspaces in string [&#128279;](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Backspaces%20in%20string.js)
 - Break camelCase [&#128279;](https://www.codewars.com/kata/5208f99aee097e6552000148)

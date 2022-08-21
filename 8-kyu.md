@@ -149,6 +149,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Fake%20Binary.js)
 - Filling an array (part 1) [&#128279;](https://www.codewars.com/kata/571d42206414b103dc0006a1)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Filling%20an%20array%20(part%201).py)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Filling%20an%20array%20-part%201-.js)
 - Filter out the geese [&#128279;](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Filter%20out%20the%20geese.js)
 - Find Maximum and Minimum Values of a List [&#128279;](https://www.codewars.com/kata/577a98a6ae28071780000989)

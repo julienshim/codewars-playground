@@ -594,6 +594,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Speed%20Control.js)
 - Spoonerize Me [&#128279;](https://www.codewars.com/kata/56b8903933dbe5831e000c76)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Spoonerize%20Me.js)
+- Split The Bill [&#128279;](https://www.codewars.com/kata/5641275f07335295f10000d0)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Split%20The%20Bill.js)
 - Spraying trees [&#128279;](https://www.codewars.com/kata/5981a139f5471fd1b2000071)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Spraying%20trees.js)
 - Square Every Digit [&#128279;](https://www.codewars.com/kata/546e2562b03326a88e000020)

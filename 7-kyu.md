@@ -124,6 +124,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Consecutive%20letters.js)
 - Convert an array of strings to array of numbers [&#128279;](https://www.codewars.com/kata/5783d8f3202c0e486c001d23)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Convert%20an%20array%20of%20strings%20to%20array%20of%20numbers.js)
+- Coprime Validator [&#128279;](https://www.codewars.com/kata/585c50e75d0930e6a7000336)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Coprime%20Validator.js)
 - Correct the time-string [&#128279;](https://www.codewars.com/kata/57873ab5e55533a2890000c7)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Correct%20the%20time-string.js)
 - Cost of my ride [&#128279;](https://www.codewars.com/kata/586430a5b3a675296a000395)

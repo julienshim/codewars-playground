@@ -23,6 +23,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/altERnaTIng%20cAsE%20---%20ALTerNAtiNG%20CaSe.js)
 - Are arrow functions odd? [&#128279;](https://www.codewars.com/kata/559f80b87fa8512e3e0000f5)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Are%20arrow%20functions%20odd-.py)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Are%20arrow%20functions%20odd-.js)
 - Are You Playing Banjo? [&#128279;](https://www.codewars.com/kata/53af2b8861023f1d88000832)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Are%20You%20Playing%20Banjo-.js)
 - Area or Perimeter [&#128279;](https://www.codewars.com/kata/5ab6538b379d20ad880000ab)

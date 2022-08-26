@@ -83,6 +83,7 @@
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Breaking%20chocolate%20problem.py)
 - Build a square [&#128279;](https://www.codewars.com/kata/59a96d71dbe3b06c0200009c)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Build%20a%20square.py)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Build%20a%20square.js)
 - Bumps in the Road [&#128279;](https://www.codewars.com/kata/57ed30dde7728215300005fa)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Bumps%20in%20the%20Road.js)
 - By 3, or not by 3? That is the question . . . [&#128279;](https://www.codewars.com/kata/59f7fc109f0e86d705000043)

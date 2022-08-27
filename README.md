@@ -2,10 +2,6 @@
 
 A repository of personal Codewars solutions.
 
-## Sort
-
-This README is occasionally sorted by section with the following algorithm.
-
 ## Kata
 
 - [4 kyu](https://github.com/julienshim/codewars-playground/blob/master/4-kyu.md)

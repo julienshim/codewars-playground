@@ -530,6 +530,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Rotate%20for%20a%20Max.js)
 - Round to the next multiple of 5. [&#128279;](https://www.codewars.com/kata/55d1d6d5955ec6365400006d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Round%20to%20the%20next%20multiple%20of%205-.js)
+- Row Weights [&#128279;](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Row%20Weights.js)
 
 ### S
 

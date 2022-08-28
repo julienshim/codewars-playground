@@ -172,8 +172,6 @@
 - Find the smallest integer in the array [&#128279;](https://www.codewars.com/kata/55a2d7ebe362935a210000b2)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Find%20the%20smallest%20integer%20in%20the%20array.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Find%20the%20smallest%20integer%20in%20the%20array.py)
-- Find the vowels [&#128279;](https://www.codewars.com/kata/5680781b6b7c2be860000036)
-  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Find%20the%20vowels.py)
 - Finish Guess the Number Game [&#128279;](https://www.codewars.com/kata/568018a64f35f0c613000054)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Finish%20Guess%20the%20Number%20Game.js)
 - FIXME: Replace all dots [&#128279;](https://www.codewars.com/kata/596c6eb85b0f515834000049)
@@ -430,8 +428,6 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Reversing%20Words%20in%20a%20String.js)
 - Rock Paper Scissors! [&#128279;](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Rock%20Paper%20Scissors-.py)
-- Row Weights [&#128279;](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9)
-  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Row%20Weights.js)
 
 ### S
 

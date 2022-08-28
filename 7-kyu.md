@@ -242,6 +242,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20Squares.js)
 - Find the stray number [&#128279;](https://www.codewars.com/kata/57f609022f4d534f05000024)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20the%20stray%20number.js)
+- Find the vowels [&#128279;](https://www.codewars.com/kata/5680781b6b7c2be860000036)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Find%20the%20vowels.py)
 - Find Your Villain Name [&#128279;](https://www.codewars.com/kata/536c00e21da4dc0a0700128b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Find%20Your%20Villain%20Name.js)
 - Fix string case [[&#128279;](https://www.codewars.com/kata/5b180e9fedaa564a7000009a)

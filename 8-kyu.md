@@ -86,6 +86,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Convert%20a%20String%20to%20a%20Number-.js)
 - Convert a string to an array [&#128279;](https://www.codewars.com/kata/563e320cee5dddcf77000158)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Convert%20a%20string%20to%20an%20array.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Convert%20a%20string%20to%20an%20array.py)
 - Convert boolean values to strings 'Yes' or 'No'. [&#128279;](https://www.codewars.com/kata/53369039d7ab3ac506000467)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Convert%20boolean%20values%20to%20strings%20-Yes-%20or%20-No--.py)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Convert%20boolean%20values%20to%20strings%20-Yes-%20or%20-No--.js)

@@ -34,7 +34,8 @@
 ### B
 
 - Basic Mathematical Operations [&#128279;](https://www.codewars.com/kata/57356c55867b9b7a60000bd7)
-  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Basic%20Mathematical%20Operations.py) 
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Basic%20Mathematical%20Operations.py)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Basic%20Mathematical%20Operations.js)
 - Basic subclasses - Adam and Eve [&#128279;](https://www.codewars.com/kata/547274e24481cfc469000416)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Basic%20subclasses%20-%20Adam%20and%20Eve.js)
 - Basic variable assignment [&#128279;](https://www.codewars.com/kata/50ee6b0bdeab583673000025)

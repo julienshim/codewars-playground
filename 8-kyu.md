@@ -502,6 +502,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Tip%20Calculator.js)
 - To square(root) or not to square(root) [&#128279;](https://www.codewars.com/kata/57f6ad55cca6e045d2000627)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/To%20square-root-%20or%20not%20to%20square-root-.swift)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/To%20square-root-%20or%20not%20to%20square-root-.js)
 - Total amount of points [&#128279;](https://www.codewars.com/kata/5bb904724c47249b10000131)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Total%20amount%20of%20points.py)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Total%20amount%20of%20points.js)

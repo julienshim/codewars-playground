@@ -320,6 +320,8 @@
 
 ### I
 
+- I Will Take the Biggest One and Nothing Else. [&#128279;](https://www.codewars.com/kata/631082840289bf000e95a334)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/I%20Will%20Take%20the%20Biggest%20One%20and%20Nothing%20Else-.py)
 - I'm everywhere! [&#128279](https://www.codewars.com/kata/6097a9f20d32c2000d0bdb98)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/I-m%20everywhere-.js)
 - Incrementer [&#128279](https://www.codewars.com/kata/590e03aef55cab099a0002e8)

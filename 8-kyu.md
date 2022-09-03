@@ -223,6 +223,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Function%20syntax%20debugging.js)
 - Grasshopper - Grade book [&#128279;](https://www.codewars.com/kata/55cbd4ba903825f7970000f5)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Grade%20book.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Grasshopper%20-%20Grade%20book.py)
 - Grasshopper - If/else syntax debug [&#128279;](https://www.codewars.com/kata/57089707fe2d01529f00024a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20If-else%20syntax%20debug.js)
 - Grasshopper - Make change [&#128279;](https://www.codewars.com/kata/560dab9f8b50f89fd6000070)

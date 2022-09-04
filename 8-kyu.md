@@ -226,6 +226,7 @@
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Grasshopper%20-%20Grade%20book.py)
 - Grasshopper - If/else syntax debug [&#128279;](https://www.codewars.com/kata/57089707fe2d01529f00024a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20If-else%20syntax%20debug.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Grasshopper%20-%20If-else%20syntax%20debug.py)
 - Grasshopper - Make change [&#128279;](https://www.codewars.com/kata/560dab9f8b50f89fd6000070)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Make%20change.js)
 - Grasshopper - Messi Goals [&#128279;](https://www.codewars.com/kata/55ca77fa094a2af31f00002a)

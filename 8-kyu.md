@@ -234,6 +234,7 @@
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Grasshopper%20-%20Messi%20Goals.py)
 - Grasshopper - Messi goals function [&#128279;](https://www.codewars.com/kata/55f73be6e12baaa5900000d4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Messi%20goals%20function.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/
 - Grasshopper - Object syntax debug [&#128279;](https://www.codewars.com/kata/56d8ae9237123036d3001b54)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Object%20syntax%20debug.js)
 - Grasshopper - Order of operations [[&#128279;](https://www.codewars.com/kata/560ecf0cb040de130e00007d)

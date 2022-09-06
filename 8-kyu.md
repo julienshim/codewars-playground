@@ -246,6 +246,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Summation.js)
 - Grasshopper - Terminal game move function [&#128279;](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2)
   [[.sql]](https://github.com/julienshim/codewars-playground/blob/master/SQL/8%20kyu/Grasshopper%20-%20Terminal%20game%20move%20function.sql)
+- Grasshopper - Variable Assignment Debug [&#128279;](https://www.codewars.com/kata/5612e743cab69fec6d000077)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Grasshopper%20-%20Variable%20Assignment%20Debug.py)
 - Gravity Flip [&#128279;](https://www.codewars.com/kata/5f70c883e10f9e0001c89673)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Gravity%20Flip.js)
 

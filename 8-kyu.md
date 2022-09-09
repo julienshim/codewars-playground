@@ -531,6 +531,8 @@
 
 ### U
 
+- UEFA EURO 2016 [&#128279;](https://www.codewars.com/kata/57613fb1033d766171000d60)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/UEFA%20EURO%202016.py)
 - Unfinished Loop - Bug Fixing #1 [&#128279;](https://www.codewars.com/kata/55c28f7304e3eaebef0000da)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Unfinished%20Loop%20-%20Bug%20Fixing%20-1.js)
 - USD => CNY [&#128279;](https://www.codewars.com/kata/5977618080ef220766000022)

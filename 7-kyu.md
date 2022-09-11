@@ -81,6 +81,7 @@
 - Breaking chocolate problem [&#128279;](https://www.codewars.com/kata/534ea96ebb17181947000ada)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Breaking%20chocolate%20problem.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Breaking%20chocolate%20problem.py)
+  [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/7%20kyu/Breaking%20chocolate%20problem.ts)
 - Build a square [&#128279;](https://www.codewars.com/kata/59a96d71dbe3b06c0200009c)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Build%20a%20square.py)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Build%20a%20square.js)

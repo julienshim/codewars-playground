@@ -46,6 +46,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Beginner%20-%20Reduce%20but%20Grow.js)
 - Beginner Series #1 School Paperwork [&#128279;](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Beginner%20Series%20-1%20School%20Paperwork.js)
+  [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/8%20kyu/Beginner%20Series%20-1%20School%20Paperwork.ts)
 - Beginner Series #2 Clock [&#128279;](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Beginner%20Series%20-2%20Clock.js)
 - Beginner Series #4 Cockroach [&#128279;](https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6)

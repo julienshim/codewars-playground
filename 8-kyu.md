@@ -516,6 +516,7 @@
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/To%20square-root-%20or%20not%20to%20square-root-.swift)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/To%20square-root-%20or%20not%20to%20square-root-.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/To%20square-root-%20or%20not%20to%20square-root-.py)
+  [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/8%20kyu/To%20square-root-%20or%20not%20to%20square-root-.ts)
 - Total amount of points [&#128279;](https://www.codewars.com/kata/5bb904724c47249b10000131)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Total%20amount%20of%20points.py)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Total%20amount%20of%20points.js)

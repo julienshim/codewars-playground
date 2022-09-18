@@ -393,6 +393,7 @@
 
 - Make a function that does arithmetic! [&#128279;](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Make%20a%20function%20that%20does%20arithmetic-.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Make%20a%20function%20that%20does%20arithmetic-.py)
 - Map over a list of lists [&#128279;](https://www.codewars.com/kata/606b43f4adea6e00425dff42)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Map%20over%20a%20list%20of%20lists.py)
 - max diff - easy [&#128279;](https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095)

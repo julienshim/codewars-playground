@@ -38,6 +38,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Basic%20Mathematical%20Operations.js)
 - Basic subclasses - Adam and Eve [&#128279;](https://www.codewars.com/kata/547274e24481cfc469000416)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Basic%20subclasses%20-%20Adam%20and%20Eve.js)
+- Basic Training: Add item to an Array [&#128279;](https://www.codewars.com/kata/511f0fe64ae8683297000001)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Basic%20Training-%20Add%20item%20to%20an%20Array.js)
 - Basic variable assignment [&#128279;](https://www.codewars.com/kata/50ee6b0bdeab583673000025)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Basic%20variable%20assignment.js)
 - Beginner - Lost Without a Map [&#128279;](https://www.codewars.com/kata/57f781872e3d8ca2a000007e)

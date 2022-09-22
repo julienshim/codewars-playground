@@ -532,6 +532,8 @@
 - Reverse words [&#128279;](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Reverse%20words.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Reverse%20words.py)
+- Rock Paper Scissors Lizard Spock [&#128279;](https://www.codewars.com/kata/57d29ccda56edb4187000052)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Rock%20Paper%20Scissors%20Lizard%20Spock.js)
 - Rotate for a Max [&#128279;](https://www.codewars.com/kata/56a4872cbb65f3a610000026)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Rotate%20for%20a%20Max.js)
 - Round to the next multiple of 5. [&#128279;](https://www.codewars.com/kata/55d1d6d5955ec6365400006d)

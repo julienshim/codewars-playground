@@ -165,6 +165,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Filter%20out%20the%20geese.js)
 - Find Maximum and Minimum Values of a List [&#128279;](https://www.codewars.com/kata/577a98a6ae28071780000989)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Find%20Maximum%20and%20Minimum%20Values%20of%20a%20List.js)
+- Find Multiples of a Number [&#128279;](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Find%20Multiples%20of%20a%20Number.js)
 - Find numbers which are divisible by given number [&#128279;](https://www.codewars.com/kata/55edaba99da3a9c84000003b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Find%20numbers%20which%20are%20divisible%20by%20given%20number.js)
 - Find the first non-consecutive number [&#128279;](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144)

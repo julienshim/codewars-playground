@@ -26,6 +26,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Are%20arrow%20functions%20odd-.js)
 - Are You Playing Banjo? [&#128279;](https://www.codewars.com/kata/53af2b8861023f1d88000832)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Are%20You%20Playing%20Banjo-.js)
+- Area of a Square [&#128279;](https://www.codewars.com/kata/5748838ce2fab90b86001b1a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Area%20of%20a%20Square.js)
 - Area or Perimeter [&#128279;](https://www.codewars.com/kata/5ab6538b379d20ad880000ab)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Area%20or%20Perimeter.js)
 - Array plus array [&#128279;](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151)

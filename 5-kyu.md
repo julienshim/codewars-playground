@@ -21,6 +21,11 @@
 - Extract the domain name from a URL [&#128279;](https://www.codewars.com/kata/514a024011ea4fb54200004b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Extract%20the%20domain%20name%20from%20a%20URL.js)
 
+### F
+
+- First non-repeating character [&#128279;](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/5%20kyu/First%20non-repeating%20character.py)
+
 ### H
 
 - Human Readable Time [&#128279;](https://www.codewars.com/kata/52685f7382004e774f0001f7)

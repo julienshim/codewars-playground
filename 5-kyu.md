@@ -25,6 +25,7 @@
 
 - First non-repeating character [&#128279;](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/5%20kyu/First%20non-repeating%20character.py)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/First%20non-repeating%20character.js)
 
 ### H
 

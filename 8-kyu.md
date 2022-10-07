@@ -304,6 +304,7 @@
 - Is it even? [&#128279;](https://www.codewars.com/kata/555a67db74814aa4ee0001b5)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Is%20it%20even-.py)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Is%20it%20even-.js)
+  [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/8%20kyu/Is%20it%20even-.ts)
 - Is n divisible by x and y? [&#128279;](https://www.codewars.com/kata/5545f109004975ea66000086)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Is%20n%20divisible%20by%20x%20and%20y-.js)
 - Is the date today [&#128279;](https://www.codewars.com/kata/563c13853b07a8f17c000022)

@@ -132,6 +132,7 @@
 - DNA to RNA Conversion [&#128279;](https://www.codewars.com/kata/5556282156230d0e5e000089)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/DNA%20to%20RNA%20Conversion.js)
   [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/8%20kyu/DNA%20to%20RNA%20Conversion.ts)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/DNA%20to%20RNA%20Conversion.py)
 - Do I get a bonus? [&#128279;](https://www.codewars.com/kata/56f6ad906b88de513f000d96)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Do%20I%20get%20a%20bonus-.js)
 - Dollars and Cents [&#128279;](https://www.codewars.com/kata/55902c5eaa8069a5b4000083)

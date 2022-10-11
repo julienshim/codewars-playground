@@ -589,6 +589,8 @@
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Will%20there%20be%20enough%20space-.py)
 - Will you make it? [&#128279;](https://www.codewars.com/kata/5861d28f124b35723e00005e)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Will%20you%20make%20it-.py)
+- Wilson primes [&#128279;](https://www.codewars.com/kata/55dc4520094bbaf50e0000cb)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Wilson%20primes.js)
 
 ### Y
 

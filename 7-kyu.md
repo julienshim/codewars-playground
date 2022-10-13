@@ -104,6 +104,8 @@
   [[.js]](https://www.codewars.com/kata/581214d54624a8232100005f)
 - Changing letters [&#128279;](https://www.codewars.com/kata/5831c204a31721e2ae000294)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Changing%20letters.js)
+- Char Code Calculation [&#128279;](https://www.codewars.com/kata/57f75cc397d62fc93d000059) 
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Char%20Code%20Calculation.js)
 - Chicken Sexing [&#128279;](https://www.codewars.com/kata/57ed40e3bd793e9c92000fcb)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Chicken%20Sexing.js)
 - Chuck Norris I - Push Ups [&#128279;](https://www.codewars.com/kata/570564e838428f2eca001d73)

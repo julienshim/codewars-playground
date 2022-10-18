@@ -77,6 +77,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Century%20From%20Year.js)
 - Check same case [&#128279;](https://www.codewars.com/kata/5dd462a573ee6d0014ce715b)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Check%20same%20case.py)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Check%20same%20case.js)
 - Check the exam [&#128279;](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Check%20the%20exam.js)
 - Classic Hello World [&#128279;](https://www.codewars.com/kata/57036f007fd72e3b77000023)

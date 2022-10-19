@@ -397,6 +397,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Playing%20with%20cubes%20II.js)
 - Plural [&#128279;](https://www.codewars.com/kata/52ceafd1f235ce81aa00073a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Plural.js)
+- Polish alphabet [&#128279;](https://www.codewars.com/kata/57ab2d6072292dbf7c000039) 
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Polish%20alphabet.js)
 - Power [&#128279;](https://www.codewars.com/kata/562926c855ca9fdc4800005b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Power.js)
 - Pre-FizzBuzz Workout #1 [&#128279;](https://www.codewars.com/kata/569e09850a8e371ab200000b)

@@ -92,6 +92,8 @@
 
 ### C
 
+- Car Crash! ==== O='`o [&#128279;](https://www.codewars.com/kata/6359f0158f20011969cf0ebe) 
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Car%20Crash-%20----%20O---o.py)
 - Case Swapping [&#128279;](https://www.codewars.com/kata/5590961e6620c0825000008f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Case%20Swapping.js)
 - Categorize New Member [&#128279;](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)

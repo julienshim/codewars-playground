@@ -163,6 +163,7 @@
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Descending%20Order.py)
 - Disemvowel Trolls [&#128279;](https://www.codewars.com/kata/52fba66badcd10859f00097e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Disemvowel%20Trolls.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Disemvowel%20Trolls.py)
 - Divide and Conquer [&#128279;](https://www.codewars.com/kata/57eaec5608fed543d6000021)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Divide%20and%20Conquer.js)
 - Dominant array elements [&#128279;](https://www.codewars.com/kata/5a04133e32b8b998dc000089)

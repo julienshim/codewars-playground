@@ -620,6 +620,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sorted-%20yes-%20no-%20how-.js)
 - Spacify [&#128279;](https://www.codewars.com/kata/57f8ee485cae443c4d000127) 
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Spacify.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Spacify.py)
 - Speed Control [&#128279;](https://www.codewars.com/kata/56484848ba95170a8000004d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Speed%20Control.js)
 - Spoonerize Me [&#128279;](https://www.codewars.com/kata/56b8903933dbe5831e000c76)

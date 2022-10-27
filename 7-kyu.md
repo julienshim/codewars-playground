@@ -747,6 +747,7 @@
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Vowel%20Count.py)
 - Vowel one [&#128279;](https://www.codewars.com/kata/580751a40b5a777a200000a1) 
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Vowel%20one.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Vowel%20one.py)
 
 ### W
 

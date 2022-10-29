@@ -477,6 +477,7 @@
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Simple%20multiplication.swift)
 - Simple validation of a username with regex [&#128279;](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023) 
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Simple%20validation%20of%20a%20username%20with%20regex.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Simple%20validation%20of%20a%20username%20with%20regex.py)
 - Sleigh Authentication [&#128279;](https://www.codewars.com/kata/52adc142b2651f25a8000643)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Sleigh%20Authentication.js)
 - Sort and Star [&#128279;](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e)

@@ -127,6 +127,7 @@
 - Complementary DNA [&#128279;](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Complementary%20DNA.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Complementary%20DNA.py)
+  [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/7%20kyu/Complementary%20DNA.ts)
 - Consecutive letters [&#128279;](https://www.codewars.com/kata/5ce6728c939bf80029988b57)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Consecutive%20letters.js)
 - Convert an array of strings to array of numbers [&#128279;](https://www.codewars.com/kata/5783d8f3202c0e486c001d23)

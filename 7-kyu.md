@@ -336,6 +336,7 @@
 - Incrementer [&#128279](https://www.codewars.com/kata/590e03aef55cab099a0002e8)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Incrementer.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Incrementer.py)
+  [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/7%20kyu/Incrementer.ts)
 - Interview Question (easy) [&#128279;](https://www.codewars.com/kata/5b358a1e228d316283001892)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Interview%20Question%20-easy-.js)
 - Ironman Triathlon [&#128279;](https://www.codewars.com/kata/57d001b405c186ccb6000304)

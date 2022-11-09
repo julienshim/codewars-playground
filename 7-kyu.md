@@ -736,6 +736,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Unlucky%20Days.js)
 - Unscrambled eggs [&#128279;](https://www.codewars.com/kata/55ea5650fe9247a2ea0000a7)
   [[js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Unscrambled%20eggs.js)
+  [[py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Unscrambled%20eggs.py)
 
 ### V
 

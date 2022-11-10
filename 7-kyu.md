@@ -377,6 +377,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/last%20digits%20of%20a%20number.js)
 - Leap Years [&#128279;](https://www.codewars.com/kata/526c7363236867513f0005ca)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Leap%20Years.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Leap%20Years.py)
 - Least Larger [&#128279;](https://www.codewars.com/kata/5f8341f6d030dc002a69d7e4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Least%20Larger.js)
 - letters only, please! [&#128279;](https://www.codewars.com/kata/59be6bdc4f98a8a9c700007d)
@@ -735,8 +736,8 @@
 - Unlucky Days [&#128279;](https://www.codewars.com/kata/56eb0be52caf798c630013c0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Unlucky%20Days.js)
 - Unscrambled eggs [&#128279;](https://www.codewars.com/kata/55ea5650fe9247a2ea0000a7)
-  [[js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Unscrambled%20eggs.js)
-  [[py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Unscrambled%20eggs.py)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Unscrambled%20eggs.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Unscrambled%20eggs.py)
 
 ### V
 

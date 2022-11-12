@@ -610,6 +610,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20by%20Last%20Char.js)
 - Sort Numbers [&#128279;](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20Numbers.js)
+  [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/7%20kyu/Sort%20Numbers.ts)
 - Sort Out The Men From Boys [&#128279;](https://www.codewars.com/kata/5af15a37de4c7f223e00012d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20Out%20The%20Men%20From%20Boys.js)
 - Sort rectangles and circles by area II [&#128279;](https://www.codewars.com/kata/5a1ebc2480171f29cf0000e5)

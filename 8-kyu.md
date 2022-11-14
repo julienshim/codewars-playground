@@ -176,6 +176,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Filter%20out%20the%20geese.js)
 - Find Maximum and Minimum Values of a List [&#128279;](https://www.codewars.com/kata/577a98a6ae28071780000989)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Find%20Maximum%20and%20Minimum%20Values%20of%20a%20List.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Find%20Maximum%20and%20Minimum%20Values%20of%20a%20List.py)
 - Find Multiples of a Number [&#128279;](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Find%20Multiples%20of%20a%20Number.js)
   [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/8%20kyu/Basic%20Training-%20Add%20item%20to%20an%20Array.ts)

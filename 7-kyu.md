@@ -356,6 +356,7 @@
 - Jaden Casing Strings [&#128279;](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Jaden%20Casing%20Strings.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Jaden%20Casing%20Strings.py)
+  [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Jaden%20Casing%20Strings.swift)
 - JavaScript class-like objects [&#128279;](https://www.codewars.com/kata/513e1e47c600c93cef000001)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/JavaScript%20class-like%20objects.js)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/I-m%20everywhere-.js)

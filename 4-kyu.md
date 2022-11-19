@@ -2,7 +2,7 @@
 
 ### E
 
-- ES5 Generators(i) [&#128279;](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/4%20kyu/ES5%20Generators-i-.js)
+- ES5 Generators(i) [&#128279;](https://www.codewars.com/kata/53c29a6abb5187180d000b65)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/4%20kyu/ES5%20Generators-i-.js)
 
 ### H

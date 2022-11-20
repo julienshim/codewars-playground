@@ -303,6 +303,7 @@
 - Invert values [&#128279;](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Invert%20values.js)
   [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/8%20kyu/Invert%20values.ts)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Invert%20values.py)
 - Is he gonna survive? [&#128279;](https://www.codewars.com/kata/59ca8246d751df55cc00014c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Is%20he%20gonna%20survive-.js)
 - Is it a number? [&#128279;](https://www.codewars.com/kata/57126304cdbf63c6770012bd)

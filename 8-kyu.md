@@ -88,7 +88,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Classy%20Classes.js)
 - Closest elevator [&#128279;](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Closest%20elevator.py)
-= Compare within margin [&#128279;](https://www.codewars.com/kata/56453a12fcee9a6c4700009c)
+- Compare within margin [&#128279;](https://www.codewars.com/kata/56453a12fcee9a6c4700009c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Compare%20within%20margin.js)
 - Convert a Boolean to a String [&#128279;](https://www.codewars.com/kata/551b4501ac0447318f0009cd)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Convert%20a%20Boolean%20to%20a%20String.swift)
@@ -263,7 +263,7 @@
   [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/8%20kyu/Grasshopper%20-%20Messi%20goals%20function.ts)
 - Grasshopper - Object syntax debug [&#128279;](https://www.codewars.com/kata/56d8ae9237123036d3001b54)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Object%20syntax%20debug.js)
-- Grasshopper - Order of operations [[&#128279;](https://www.codewars.com/kata/560ecf0cb040de130e00007d)
+- Grasshopper - Order of operations [&#128279;](https://www.codewars.com/kata/560ecf0cb040de130e00007d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Order%20of%20operations.js)
 - Grasshopper - Personalized Message [&#128279;](https://www.codewars.com/kata/5772da22b89313a4d50012f7)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Grasshopper%20-%20Personalized%20Message.swift)
@@ -412,7 +412,7 @@
 - Price of Mangoes [&#128279;](https://www.codewars.com/kata/57a77726bb9944d000000b06)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Price%20of%20Mangoes.js)
 - Printing Array elements with Comma delimiters [&#128279;](https://www.codewars.com/kata/56e2f59fb2ed128081001328)
-[[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Printing%20Array%20elements%20with%20Comma%20delimiters.js)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Printing%20Array%20elements%20with%20Comma%20delimiters.js)
 
 ### Q
 

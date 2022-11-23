@@ -441,6 +441,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Move%2010.js)
 - Moves in squared strings (I) [&#128279;](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Moves%20in%20squared%20strings%20-I-.js)
+- Movie Showtimes [&#128279;](https://www.codewars.com/kata/6376bbc66f2ae900343b7010)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Movie%20Showtimes.py)
 - Multiply Word in String [&#128279;](https://www.codewars.com/kata/5ace2d9f307eb29430000092)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Multiply%20Word%20in%20String.py)
 - Mumbling [&#128279;](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)

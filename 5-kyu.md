@@ -50,6 +50,8 @@
 
 - Paginating a huge book [&#128279;](https://www.codewars.com/kata/55905b7597175ffc1a00005a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Paginating%20a%20huge%20book.js)
+- PaginationHelper [&#128279;](https://www.codewars.com/kata/515bb423de843ea99400000a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/PaginationHelper.js)
 - Product of consecutive Fib numbers [&#128279;](https://www.codewars.com/kata/5541f58a944b85ce6d00006a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/5%20kyu/Product%20of%20consecutive%20Fib%20numbers.js)
 

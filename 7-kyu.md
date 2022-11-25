@@ -44,6 +44,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/An%20English%20Twist%20on%20a%20Japanese%20Classic.js)
 - Anagram Detection [&#128279;](https://www.codewars.com/kata/529eef7a9194e0cbc1000255)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Anagram%20Detection.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Anagram%20Detection.py)
 - Are the numbers in order? [&#128279;](https://www.codewars.com/kata/56b7f2f3f18876033f000307)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Are%20the%20numbers%20in%20order-.js)
 - Are they square? [&#128279;](https://www.codewars.com/kata/56853c44b295170b73000007)

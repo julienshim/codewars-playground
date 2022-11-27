@@ -663,6 +663,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sum%20even%20numbers.js)
 - Sum of angles [&#128279;](https://www.codewars.com/kata/5a03b3f6a1c9040084001765)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Sum%20of%20angles.py)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sum%20of%20angles.js)
 - Sum of a sequence [&#128279;](https://www.codewars.com/kata/586f6741c66d18c22800010a)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Sum%20of%20a%20sequence.py)
 - Sum of all arguments [&#128279;](https://www.codewars.com/kata/540c33513b6532cd58000259)

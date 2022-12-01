@@ -415,6 +415,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Printing%20Array%20elements%20with%20Comma%20delimiters.js)
 - Pythagorean Triple [&#128279;](https://www.codewars.com/kata/5951d30ce99cf2467e000013)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Pythagorean%20Triple.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Pythagorean%20Triple.py)
 
 ### Q
 

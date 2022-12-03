@@ -451,6 +451,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Return%20Negative.js)
 - Return to Sanity [&#128279;](https://www.codewars.com/kata/514a7ac1a33775cbb500001e)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Return%20to%20Sanity.py)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Return%20to%20Sanity.js)
 - Return Two Highest Values in List [&#128279;](https://www.codewars.com/kata/57ab3c09bb994429df000a4a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Return%20Two%20Highest%20Values%20in%20List.js)
 - Returning Strings [&#128279;](https://www.codewars.com/kata/55a70521798b14d4750000a4)

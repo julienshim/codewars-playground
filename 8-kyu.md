@@ -430,6 +430,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Regexp%20Basics%20-%20is%20it%20a%20digit-.js)
 - Regular Ball Super Ball [&#128279;](https://www.codewars.com/kata/53f0f358b9cb376eca001079)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Regular%20Ball%20Super%20Ball.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Regular%20Ball%20Super%20Ball.py)
 - Remove duplicates from list [&#128279;](https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Remove%20duplicates%20from%20list.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Remove%20duplicates%20from%20list.py)

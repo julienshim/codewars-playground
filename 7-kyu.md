@@ -488,6 +488,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Odd%20or%20Even-.js)
 - Ones and Zeros [&#128279;](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Ones%20and%20Zeros.js)
+- Ordered Count of Characters [&#128279;](https://www.codewars.com/kata/57a6633153ba33189e000074)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Ordered%20Count%20of%20Characters.py)
 - Over The Road [&#128279;](https://www.codewars.com/kata/5f0ed36164f2bc00283aed07)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Over%20The%20Road.js)
 

@@ -510,6 +510,8 @@
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Stringy%20Strings.swift)
 - Student's Final Grade [&#128279;](https://www.codewars.com/kata/5ad0d8356165e63c140014d4)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Student-s%20Final%20Grade.js)
+- Subtract the Sum [&#128279;](https://www.codewars.com/kata/56c5847f27be2c3db20009c3)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Subtract%20the%20Sum.js)
 - Sum Arrays [&#128279;](https://www.codewars.com/kata/53dc54212259ed3d4f00071c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Sum%20Arrays.js)
 - Sum Mixed Array [&#128279;](https://www.codewars.com/kata/57eaeb9578748ff92a000009)

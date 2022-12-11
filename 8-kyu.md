@@ -125,6 +125,7 @@
 - CSV representation of array [&#128279;](https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/CSV%20representation%20of%20array.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/CSV%20representation%20of%20array.py)
+  [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/8%20kyu/CSV%20representation%20of%20array.ts)
 
 ### D
 

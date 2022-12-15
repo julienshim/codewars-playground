@@ -30,6 +30,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Break%20camelCase.js)
   [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/6%20kyu/CamelCase%20Method.ts)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/6%20kyu/CamelCase%20Method.py)
+  [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/6%20kyu/CamelCase%20Method.swift)
 - Change it up [&#128279;](https://www.codewars.com/kata/58039f8efca342e4f0000023)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Change%20it%20up.js)
 - Common directory path [&#128279;](https://www.codewars.com/kata/597f334f1fe82a950500004b)

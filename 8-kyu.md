@@ -311,6 +311,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Is%20it%20a%20number-.js)
 - Is it a palindrome? [&#128279;](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Is%20it%20a%20palindrome-.py)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Is%20it%20a%20palindrome-.js)
 - Is it even? [&#128279;](https://www.codewars.com/kata/555a67db74814aa4ee0001b5)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Is%20it%20even-.py)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Is%20it%20even-.js)

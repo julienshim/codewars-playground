@@ -247,6 +247,7 @@
 - Grasshopper - Debug sayHello [&#128279;](https://www.codewars.com/kata/5625618b1fe21ab49f00001f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Debug%20sayHello.js)
   [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/8%20kyu/Grasshopper%20-%20Debug%20sayHello.ts)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Grasshopper%20-%20Debug%20sayHello.py)
 - Grasshopper - Function syntax debugging [&#128279;](https://www.codewars.com/kata/56dae9dc54c0acd29d00109a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Function%20syntax%20debugging.js)
 - Grasshopper - Grade book [&#128279;](https://www.codewars.com/kata/55cbd4ba903825f7970000f5)

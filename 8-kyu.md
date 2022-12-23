@@ -21,6 +21,7 @@
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/All%20Star%20Code%20Challenge%20-18.py)
 - altERnaTIng cAsE <=> ALTerNAtiNG CaSe [&#128279;](https://www.codewars.com/kata/56efc695740d30f963000557)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/altERnaTIng%20cAsE%20---%20ALTerNAtiNG%20CaSe.js)
+  [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/8%20kyu/altERnaTIng%20cAsE%20---%20ALTerNAtiNG%20CaSe.ts)
 - Are arrow functions odd? [&#128279;](https://www.codewars.com/kata/559f80b87fa8512e3e0000f5)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Are%20arrow%20functions%20odd-.py)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Are%20arrow%20functions%20odd-.js)

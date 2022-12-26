@@ -299,6 +299,7 @@
 - How many lightsabers do you own? [&#128279;](https://www.codewars.com/kata/51f9d93b4095e0a7200001b8)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/How%20many%20lightsabers%20do%20you%20own-.js)
   [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/8%20kyu/How%20many%20lightsabers%20do%20you%20own-.ts)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/How%20many%20lightsabers%20do%20you%20own-.py)
 - How many stairs will Suzuki climb in 20 years? [&#128279;](https://www.codewars.com/kata/56fc55cd1f5a93d68a001d4e)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/How%20many%20stairs%20will%20Suzuki%20climb%20in%2020%20years-.js)
 - How old will I be in 2099? [&#128279;](https://www.codewars.com/kata/5761a717780f8950ce001473)

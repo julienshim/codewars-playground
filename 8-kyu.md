@@ -538,6 +538,7 @@
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Sum%20of%20Positive.py)
 - Sum The Strings [&#128279;](https://www.codewars.com/kata/5966e33c4e686b508700002d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Sum%20The%20Strings.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Sum%20The%20Strings.py)
 - Sum without highest and lowest number [&#128279;](https://www.codewars.com/kata/576b93db1129fcf2200001e6)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Sum%20without%20highest%20and%20lowest%20number.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Sum%20without%20highest%20and%20lowest%20number.py)

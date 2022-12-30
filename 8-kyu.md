@@ -567,6 +567,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Thinkful%20-%20Number%20Drills-%20Pixelart%20planning.js)
 - Third Angle of a Triangle [&#128279;](https://www.codewars.com/kata/5a023c426975981341000014)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Third%20Angle%20of%20a%20Triangle.py)
+  [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/8%20kyu/Third%20Angle%20of%20a%20Triangle.ts)
 - Tip Calculator [&#128279;](https://www.codewars.com/kata/56598d8076ee7a0759000087)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Tip%20Calculator.js)
 - To square(root) or not to square(root) [&#128279;](https://www.codewars.com/kata/57f6ad55cca6e045d2000627)

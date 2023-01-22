@@ -238,6 +238,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Get%20Planet%20Name%20By%20ID.js)
 - Get the mean of an array [&#128279;](https://www.codewars.com/kata/563e320cee5dddcf77000158)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Get%20the%20mean%20of%20an%20array.js)
+- Ghost Color [&#128279;](https://www.codewars.com/kata/53f1015fa9fe02cbda00111a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Color%20Ghost.js)
 - Grasshopper - Array Mean [&#128279;](https://www.codewars.com/kata/55d277882e139d0b6000005d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Array%20Mean.js)
 - Grasshopper - Basic Function Fixer [&#128279;](https://www.codewars.com/kata/56200d610758762fb0000002)

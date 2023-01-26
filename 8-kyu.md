@@ -402,6 +402,8 @@
 
 ### O
 
+- Odd-Even String Sort [&#128279;](https://www.codewars.com/kata/580755730b5a77650500010c)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Odd-Even%20String%20Sort.js)
 - Opposite number [&#128279;](https://www.codewars.com/kata/56dec885c54a926dcd001095)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Opposite%20number.swift)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Opposite%20number.py)

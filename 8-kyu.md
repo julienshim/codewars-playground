@@ -112,6 +112,8 @@
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Convert%20boolean%20values%20to%20strings%20-Yes-%20or%20-No--.swift)
 - Convert number to reversed array of digits [&#128279;](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Convert%20number%20to%20reversed%20array%20of%20digits.swift)
+- Convert to Binary [&#128279;](https://www.codewars.com/kata/59fca81a5712f9fa4700159a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Convert%20to%20Binary.js)
 - Correct the mistakes of the character recognition software [&#128279;](https://www.codewars.com/kata/577bd026df78c19bca0002c0)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Correct%20the%20mistakes%20of%20the%20character%20recognition%20software.js)
 - Count by X [&#128279;](https://www.codewars.com/kata/5513795bd3fafb56c200049e)

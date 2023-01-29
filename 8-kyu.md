@@ -210,6 +210,8 @@
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/FIXME-%20Replace%20all%20dots.py)
 - Formatting decimal places #0 [&#128279;](https://www.codewars.com/kata/5641a03210e973055a00000d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Formatting%20decimal%20places%20-0.js)
+- Freudian translator  [&#128279;](https://www.codewars.com/kata/5713bc89c82eff33c60009f7)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Freudian%20translator.js)
 - Function 1 - hello world [&#128279;](https://www.codewars.com/kata/523b4ff7adca849afe000035)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Function%201%20-%20hello%20world.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Function%201%20-%20hello%20world.py)

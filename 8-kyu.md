@@ -391,6 +391,8 @@
 
 - Name Shuffler [&#128279;](https://www.codewars.com/kata/559ac78160f0be07c200005a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/b4d15a538d2476a583dcd0acacdcea45ff1cd7d0/JavaScript/8%20kyu/Name%20Shuffler.js)
+- Name on billboard [&#128279;](https://www.codewars.com/kata/570e8ec4127ad143660001fd)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Name%20on%20billboard.js)
 - NBA full 48 minutes average [&#128279;](https://www.codewars.com/kata/587c2d08bb65b5e8040004fd)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/NBA%20full%2048%20minutes%20average.js)
 - No Loops 2 - You only need one [&#128279;](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce)
@@ -588,6 +590,8 @@
 - Total amount of points [&#128279;](https://www.codewars.com/kata/5bb904724c47249b10000131)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Total%20amount%20of%20points.py)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Total%20amount%20of%20points.js)
+- Training JS #1: create your first JS function and print "Hello World!" [&#128279;](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Training%20JS%20-1-%20create%20your%20first%20JS%20function%20and%20print%20-Hello%20World--.js)
 - Training JS #4: Basic data types--Array [&#128279;](https://www.codewars.com/kata/571effabb625ed9b0600107a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Training%20JS%20-4-%20Basic%20data%20types--Array.js)
 - Training JS #7: and ternary operator [&#128279;](https://www.codewars.com/kata/57202aefe8d6c514300001fd)

@@ -600,6 +600,8 @@
   [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/8%20kyu/Training%20JS%20-7-%20if--else%20and%20ternary%20operator.ts)
 - Training JS #8: Conditional statement--switch [&#128279;](https://www.codewars.com/kata/572059afc2f4612825000d8a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Training%20JS%20-8-%20Conditional%20statement--switch.js)
+- Training JS #10: loop statement --for [&#128279;](https://www.codewars.com/kata/5721a78c283129e416000999)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Training%20JS%20-10-%20loop%20statement%20--for.js)
 - Transportation on vacation [&#128279;](https://www.codewars.com/kata/568d0dd208ee69389d000016)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Transportation%20on%20vacation.swift)
 - Triple Trouble [&#128279;](https://www.codewars.com/kata/5704aea738428f4d30000914)

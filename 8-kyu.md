@@ -621,6 +621,8 @@
 
 ### V
 
+- validate code with simple regex [&#128279;](https://www.codewars.com/kata/56a25ba95df27b7743000016)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/validate%20code%20with%20simple%20regex.js)
 - Vowel remover [&#128279;](https://www.codewars.com/kata/5547929140907378f9000039)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Vowel%20remover.js)
 

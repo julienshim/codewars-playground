@@ -36,6 +36,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Area%20or%20Perimeter.js)
 - Array plus array [&#128279;](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Array%20plus%20array.js)
+- ASCII Total [&#128279;](https://www.codewars.com/kata/572b6b2772a38bc1e700007a)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/ASCII%20Total.js)
 
 ### B
 

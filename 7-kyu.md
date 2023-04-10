@@ -617,6 +617,7 @@
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Some%20-but%20not%20all-.py)
 - Sort array by string length [&#128279;](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20array%20by%20string%20length.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Sort%20array%20by%20string%20length.py)
 - Sort arrays - 1.js [&#128279;](https://www.codewars.com/kata/51f41b98e8f176e70d0002a8)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sort%20arrays%20-%201.js)
 - Sort by Last Char [&#128279;](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0)

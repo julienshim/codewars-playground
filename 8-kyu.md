@@ -323,6 +323,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/I%20love%20you-%20a%20little%20-%20a%20lot-%20passionately%20---%20not%20at%20all.js)
 - If you can't sleep, just count sheep!! [&#128279;](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/If%20you%20can-t%20sleep-%20just%20count%20sheep--.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/If%20you%20can-t%20sleep-%20just%20count%20sheep--.py)
 - Invert values [&#128279;](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Invert%20values.js)
   [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/8%20kyu/Invert%20values.ts)

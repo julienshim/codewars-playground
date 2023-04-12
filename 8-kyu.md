@@ -578,6 +578,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/The%20falling%20speed%20of%20petals.js)
 - The Feast of Many Beasts [&#128279;](https://www.codewars.com/kata/5aa736a455f906981800360d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/The%20Feast%20of%20Many%20Beasts.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Kata%20Example%20Twist.py)
 - The 'if' function [&#128279;](https://www.codewars.com/kata/54147087d5c2ebe4f1000805)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/The%20-if-%20function.js)
 - The Wide-Mouthed frog! [&#128279;](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89)

@@ -653,6 +653,8 @@
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/What%20is%20between-.py)
 - What's the real floor? [&#128279;](https://www.codewars.com/kata/574b3b1599d8f897470018f6)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/What-s%20the%20real%20floor-.py)
+- Who ate the cookie? [&#128279;](https://www.codewars.com/kata/55a996e0e8520afab9000055)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Who%20ate%20the%20cookie-.js)
 - Will there be enough space? [&#128279;](https://www.codewars.com/kata/5875b200d520904a04000003)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Will%20there%20be%20enough%20space-.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Will%20there%20be%20enough%20space-.py)

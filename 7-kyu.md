@@ -662,6 +662,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/String%20Merge-.js)
 - String prefix and suffix [&#128279;](https://www.codewars.com/kata/5ce969ab07d4b7002dcaa7a1)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/String%20prefix%20and%20suffix.js)
+- Substituting Variables Into Strings: Padded Numbers [&#128279;](https://www.codewars.com/kata/51c89385ee245d7ddf000001)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Substituting%20Variables%20Into%20Strings-%20Padded%20Numbers.py)
 - Substring fun [&#128279;](https://www.codewars.com/kata/565b112d09c1adfdd500019c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Substring%20fun.js)
 - Sum - Square Even, Root Odd [&#128279;](https://www.codewars.com/kata/5a4b16435f08299c7000274f)

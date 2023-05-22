@@ -59,6 +59,7 @@
 - Beginner Series #1 School Paperwork [&#128279;](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Beginner%20Series%20-1%20School%20Paperwork.js)
   [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/8%20kyu/Beginner%20Series%20-1%20School%20Paperwork.ts)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Beginner%20Series%20-1%20School%20Paperwork.py)
 - Beginner Series #2 Clock [&#128279;](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Beginner%20Series%20-2%20Clock.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Beginner%20Series%20-2%20Clock.py)
@@ -73,6 +74,7 @@
 
 - Calculate average [&#128279;](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Calculate%20average.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Calculate%20average.py)
 - Calculate BMI [&#128279;](https://www.codewars.com/kata/57a429e253ba3381850000fb)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Calculate%20BMI.swift)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Calculate%20BMI.js)
@@ -248,6 +250,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Get%20the%20mean%20of%20an%20array.js)
 - Ghost Color [&#128279;](https://www.codewars.com/kata/53f1015fa9fe02cbda00111a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Color%20Ghost.js)
+- Grader [&#128279;](https://www.codewars.com/kata/53d16bd82578b1fb5b00128c)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Grader.py)
 - Grasshopper - Array Mean [&#128279;](https://www.codewars.com/kata/55d277882e139d0b6000005d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Grasshopper%20-%20Array%20Mean.js)
 - Grasshopper - Basic Function Fixer [&#128279;](https://www.codewars.com/kata/56200d610758762fb0000002)
@@ -398,6 +402,7 @@
 
 - Name Shuffler [&#128279;](https://www.codewars.com/kata/559ac78160f0be07c200005a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/b4d15a538d2476a583dcd0acacdcea45ff1cd7d0/JavaScript/8%20kyu/Name%20Shuffler.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Name%20Shuffler.py)
 - Name on billboard [&#128279;](https://www.codewars.com/kata/570e8ec4127ad143660001fd)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Name%20on%20billboard.js)
 - NBA full 48 minutes average [&#128279;](https://www.codewars.com/kata/587c2d08bb65b5e8040004fd)
@@ -633,6 +638,8 @@
 
 - validate code with simple regex [&#128279;](https://www.codewars.com/kata/56a25ba95df27b7743000016)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/validate%20code%20with%20simple%20regex.js)
+- Vexing Vanishing Values [&#128279;](https://www.codewars.com/kata/644661194e259c035311ada7)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Vexing%20Vanishing%20Values.py)
 - Vowel remover [&#128279;](https://www.codewars.com/kata/5547929140907378f9000039)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Vowel%20remover.js)
 
@@ -655,6 +662,7 @@
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/What-s%20the%20real%20floor-.py)
 - Who ate the cookie? [&#128279;](https://www.codewars.com/kata/55a996e0e8520afab9000055)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Who%20ate%20the%20cookie-.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/commit/93491b755954db0a46badd5c2202fd5fb64e866d)
 - Will there be enough space? [&#128279;](https://www.codewars.com/kata/5875b200d520904a04000003)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Will%20there%20be%20enough%20space-.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Will%20there%20be%20enough%20space-.py)

@@ -63,6 +63,8 @@
 
 - Balanced Number (Special Numbers Series #1 ) [&#128279;](https://www.codewars.com/kata/5a4e3782880385ba68000018)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Balanced%20Number%20-Special%20Numbers%20Series%20-1%20-.js)
+- Basic Calculator [&#128279;](https://www.codewars.com/kata/5296455e4fe0cdf2e000059f)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Basic%20Calculator.py)
 - Basic Math (Add or Subtract) [&#128279;](https://www.codewars.com/kata/5809b62808ad92e31b000031)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Basic%20Math%20-Add%20or%20Subtract-.js)
 - Beginner Series #3 Sum of Numbers [&#128279;](https://www.codewars.com/kata/55f2b110f61eb01779000053)

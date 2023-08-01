@@ -304,6 +304,8 @@
 
 ### H
 
+- Hello, Name or World! [&#128279;](https://www.codewars.com/kata/57e3f79c9cb119374600046b)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Hello-%20Name%20or%20World-.py)
 - Help the Elite Squad of Brazilian forces BOPE [&#128279;](https://www.codewars.com/kata/5ab52526379d20736b00000e)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Help%20the%20Elite%20Squad%20of%20Brazilian%20forces%20BOPE.py)
 - Hex to Decimal [&#128279;](https://www.codewars.com/kata/57a4d500e298a7952100035d)

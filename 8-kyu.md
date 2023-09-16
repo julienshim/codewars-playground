@@ -79,6 +79,8 @@
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Calculate%20BMI.swift)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Calculate%20BMI.js)
   [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/8%20kyu/Calculate%20BMI.ts)
+- Calculate Price Excluding VAT [&#128279;](https://www.codewars.com/kata/5890d8bc9f0f422cf200006b)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Calculate%20Price%20Excluding%20VAT.js)
 - Can we divide it? [&#128279;](https://www.codewars.com/kata/5a2b703dc5e2845c0900005a)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Can%20we%20divide%20it-.js)
 - Cat years, Dog years [&#128279;](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b)

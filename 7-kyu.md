@@ -202,6 +202,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Easy%20mathematical%20callback.js)
 - Easy wallpaper [&#128279;](https://www.codewars.com/kata/567501aec64b81e252000003)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Easy%20wallpaper.swift)
+- Esthetic Numbers [&#128279;](https://www.codewars.com/kata/6523a71df7666800170a1954)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Esthetic%20Numbers.py)
 - Even and Odd ! [&#128279;](https://www.codewars.com/kata/594adadee075005308000122)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Even%20and%20Odd%20-.js)
 - Even numbers in an array [&#128279;](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c)

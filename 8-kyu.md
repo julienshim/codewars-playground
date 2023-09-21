@@ -11,6 +11,8 @@
 
 - A Needle in the Haystack [&#128279;](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/A%20Needle%20in%20the%20Haystack.js)
+- A Strange Trip to the Market [&#128279;](https://www.codewars.com/kata/55ccdf1512938ce3ac000056)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/A%20Strange%20Trip%20to%20the%20Market.js)
 - A wolf in sheep's clothing [&#128279;](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/A%20wolf%20in%20sheep-s%20clothing.js)
 - Abbreviate a Two Word Name [&#128279;](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)

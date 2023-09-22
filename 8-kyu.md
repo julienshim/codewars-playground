@@ -17,6 +17,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/A%20wolf%20in%20sheep-s%20clothing.js)
 - Abbreviate a Two Word Name [&#128279;](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Abbreviate%20a%20Two%20Word%20Name.js)
+- Add Length [&#128279;](https://www.codewars.com/kata/559d2284b5bb6799e9000047)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Add%20Length.js)
 - Alan Partridge II - Apple Turnover [&#128279;](https://www.codewars.com/kata/580a094553bd9ec5d800007d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Alan%20Partridge%20II%20-%20Apple%20Turnover.js)
 - All Star Code Challenge #18 [&#128279;](https://www.codewars.com/kata/5865918c6b569962950002a1)

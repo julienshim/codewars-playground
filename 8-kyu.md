@@ -255,6 +255,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Get%20number%20from%20string.js)
 - Get Planet Name By ID [&#128279;](https://www.codewars.com/kata/515e188a311df01cba000003)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Get%20Planet%20Name%20By%20ID.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Get%20Planet%20Name%20By%20ID.js)
 - Get the mean of an array [&#128279;](https://www.codewars.com/kata/563e320cee5dddcf77000158)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Get%20the%20mean%20of%20an%20array.js)
 - Ghost Color [&#128279;](https://www.codewars.com/kata/53f1015fa9fe02cbda00111a)

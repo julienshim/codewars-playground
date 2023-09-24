@@ -166,6 +166,9 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Double%20Char.js)
 - Drink about [&#128279;](https://www.codewars.com/kata/56170e844da7c6f647000063)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Drink%20about.js)
+
+### E
+
 - Enumerable Magic #1 - True for All? [&#128279;](https://www.codewars.com/kata/54598d1fcbae2ae05200112c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Enumerable%20Magic%20-1%20-%20True%20for%20All-.js)
 - Enumerable Magic #25 - Take the First N Elements [&#128279;](https://www.codewars.com/kata/545afd0761aa4c3055001386)
@@ -176,6 +179,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Even%20or%20Odd.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Even%20or%20Odd.py)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/8%20kyu/Even%20or%20Odd.swift)
+  [[.sql]](https://github.com/julienshim/codewars-playground/blob/master/SQL/8%20kyu/Even%20or%20Odd.sql)
 - Exclamation marks series #1: Remove a exclamation mark from the end of string [&#128279;](https://www.codewars.com/kata/57fae964d80daa229d000126)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Exclamation%20marks%20series%20-1-%20Remove%20a%20exclamation%20mark%20from%20the%20end%20of%20string.js)
 - Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence [&#128279;](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed)

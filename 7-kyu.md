@@ -711,6 +711,8 @@
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Sum%20of%20two%20lowest%20positive%20integers.py)
 - Sum up the random string [&#128279;](https://www.codewars.com/kata/55da6c52a94744b379000036)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sum%20up%20the%20random%20string.js)
+- Summation Triangle #1 [&#128279;](https://www.codewars.com/kata/6357825a00fba284e0189798)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Summation%20Triangle%20-1.js)
 - Summing a number's digits [&#128279;](https://www.codewars.com/kata/52f3149496de55aded000410)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Summing%20a%20number-s%20digits.js)
 - Summy [&#128279;](https://www.codewars.com/kata/599c20626bd8795ce900001d)

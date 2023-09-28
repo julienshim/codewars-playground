@@ -705,6 +705,8 @@
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Sum%20of%20odd%20numbers.py)
 - Sum of the first nth term of Series [&#128279;](https://www.codewars.com/kata/555eded1ad94b00403000071)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sum%20of%20the%20first%20nth%20term%20of%20Series.js)
+- Sum of Triangular Numbers [&#128279;](https://www.codewars.com/kata/580878d5d27b84b64c000b51)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sum%20of%20Triangular%20Numbers.js)
 - Sum of two lowest positive integer [&#128279;](https://www.codewars.com/kata/558fc85d8fd1938afb000014)
   [[.swift]](https://github.com/julienshim/codewars-playground/blob/master/Swift/7%20kyu/Sum%20of%20two%20lowest%20positive%20integers.swift)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Sum%20of%20two%20lowest%20positive%20integers.js)

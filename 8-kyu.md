@@ -166,6 +166,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Double%20Char.js)
 - Drink about [&#128279;](https://www.codewars.com/kata/56170e844da7c6f647000063)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Drink%20about.js)
+- Duck Duck Goose [&#128279;](https://www.codewars.com/kata/582e0e592029ea10530009ce)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Duck%20Duck%20Goose.js)
 
 ### E
 

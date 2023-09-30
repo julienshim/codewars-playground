@@ -425,6 +425,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Name%20on%20billboard.js)
 - NBA full 48 minutes average [&#128279;](https://www.codewars.com/kata/587c2d08bb65b5e8040004fd)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/NBA%20full%2048%20minutes%20average.js)
+- Neutralisation [&#128279;](https://www.codewars.com/kata/65128732b5aff40032a3d8f0)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Neutralisation.js)
 - No Loops 2 - You only need one [&#128279;](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/No%20Loops%202%20-%20You%20only%20need%20one.js)
 - No zeroes for heroes [&#128279;](https://www.codewars.com/kata/570a6a46455d08ff8d001002)

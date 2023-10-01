@@ -81,6 +81,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Birthday%20I%20-%20Cake.js)
 - Boiled Eggs [&#128279;](https://www.codewars.com/kata/52b5247074ea613a09000164)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Boiled%20Eggs.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Boiled%20Eggs.py)
 - Breaking chocolate problem [&#128279;](https://www.codewars.com/kata/534ea96ebb17181947000ada)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Breaking%20chocolate%20problem.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Breaking%20chocolate%20problem.py)

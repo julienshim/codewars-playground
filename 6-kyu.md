@@ -147,6 +147,11 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Multiplication%20table.js)
   [[.ts]](https://github.com/julienshim/codewars-playground/blob/master/TypeScript/6%20kyu/Multiplication%20table.ts)
 
+### N
+
+- Number , number ... wait LETTER ! [&#128279;](https://www.codewars.com/kata/5782dd86202c0e43410001f6)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Number%20-%20number%20---%20wait%20LETTER%20-.js)
+
 ### P
 
 - Persistent Bugger. [&#128279;](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)

@@ -57,6 +57,8 @@
 
 ### D
 
+- Death by Coffee [&#128279;](https://www.codewars.com/kata/57db78d3b43dfab59c001abe)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Death%20by%20Coffee.js)
 - Decipher this! [&#128279;](https://www.codewars.com/kata/581e014b55f2c52bb00000f8)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Decipher%20this-.js)
 - Decode the Morse code [&#128279;](https://www.codewars.com/kata/54b724efac3d5402db00065e)

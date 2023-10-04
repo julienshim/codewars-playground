@@ -152,6 +152,8 @@
 
 - Determine offspring sex based on genes XX and XY chromosomes [&#128279;](https://www.codewars.com/kata/56530b444e831334c0000020)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Determine%20offspring%20sex%20based%20on%20genes%20XX%20and%20XY%20chromosomes.js)
+- Did she say hallo? [&#128279;](https://www.codewars.com/kata/56a4addbfd4a55694100001f)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Did%20she%20say%20hallo-.js)
 - Difference of Volumes of Cuboids [&#128279;](https://www.codewars.com/kata/58cb43f4256836ed95000f97)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Difference%20of%20Volumes%20of%20Cuboids.js)
 - DNA to RNA Conversion [&#128279;](https://www.codewars.com/kata/5556282156230d0e5e000089)

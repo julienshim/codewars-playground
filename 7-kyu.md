@@ -322,6 +322,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Help%20Bob%20count%20letters%20and%20digits-.js)
 - Help Suzuki count his vegetables.... [&#128279;](https://www.codewars.com/kata/56ff1667cc08cacf4b00171b)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Help%20Suzuki%20count%20his%20vegetables----.py)
+- Help the Fruit Guy [&#128279;](https://www.codewars.com/kata/557af4c6169ac832300000ba)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Help%20the%20Fruit%20Guy.js)
 - Highest and Lowest [&#128279;](https://www.codewars.com/kata/554b4ac871d6813a03000035)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Highest%20and%20Lowest.js)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Highest%20and%20Lowest.py)

@@ -21,6 +21,8 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Alan%20Partridge%20I%20-%20Partridge%20Watch.js)
 - Alan Partridge III - London [&#128279;](https://www.codewars.com/kata/580a41b6d6df740d6100030c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Alan%20Partridge%20III%20-%20London.js)
+- All Inclusive? [&#128279;](https://www.codewars.com/kata/5700c9acc1555755be00027e)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/All%20Inclusive-.js)
 - All Star Code Challenge #1 [&#128279;](https://www.codewars.com/kata/5863f97fb3a675d9a700003f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/All%20Star%20Code%20Challenge%20-1.js)
 - All Star Code Challenge #14 - Find the median [&#128279;](https://www.codewars.com/kata/5864eb8039c5ab9cd400005c)

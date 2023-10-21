@@ -9,6 +9,8 @@
 
 ### A
 
+- A Letter's Best Friend [&#128279;](https://www.codewars.com/kata/64fc03a318692c1333ebc04c)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/A-Letter-s-Best-Friend.py)
 - A Needle in the Haystack [&#128279;](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/A%20Needle%20in%20the%20Haystack.js)
 - A Strange Trip to the Market [&#128279;](https://www.codewars.com/kata/55ccdf1512938ce3ac000056)
@@ -231,6 +233,9 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Finish%20Guess%20the%20Number%20Game.js)
 - FIXME: Replace all dots [&#128279;](https://www.codewars.com/kata/596c6eb85b0f515834000049)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/FIXME-%20Replace%20all%20dots.py)
+- Flick Switch [&#128279;](https://www.codewars.com/kata/64fbfe2618692c2018ebbddb)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/8%20kyu/Flick-Switch.py)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Flick%20Switch.js)
 - Formatting decimal places #0 [&#128279;](https://www.codewars.com/kata/5641a03210e973055a00000d)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/8%20kyu/Formatting%20decimal%20places%20-0.js)
 - Freudian translator  [&#128279;](https://www.codewars.com/kata/5713bc89c82eff33c60009f7)

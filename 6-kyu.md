@@ -224,6 +224,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Tribonacci%20Sequence.js)
 - Two Sum [&#128279;](https://www.codewars.com/kata/52c31f8e6605bcc646000082)
   [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/6%20kyu/Two%20Sum.py)
+  [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/6%20kyu/Two%20Sum.js)
 
 ### U
 

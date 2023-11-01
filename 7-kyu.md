@@ -217,6 +217,7 @@
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Exclamation%20marks%20series%20-3-%20Remove%20all%20exclamation%20marks%20from%20sentence%20except%20at%20the%20end.js)
 - Exclamation marks series #7: Remove words from the sentence if it contains one exclamation mark [&#128279;](https://www.codewars.com/kata/57fafb6d2b5314c839000195)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Exclamation%20marks%20series%20-7-%20Remove%20words%20from%20the%20sentence%20if%20it%20contains%20one%20exclamation%20mark.js)
+  [[.py]](https://github.com/julienshim/codewars-playground/blob/master/Python/7%20kyu/Exclamation%20marks%20series%20-7-%20Remove%20words%20from%20the%20sentence%20if%20it%20contains%20one%20exclamation%20mark.py)
 - Exclamation marks series #8: Move all exclamation marks to the end of the sentence [&#128279;](https://www.codewars.com/kata/57fafd0ed80daac48800019f)
   [[.js]](https://github.com/julienshim/codewars-playground/blob/master/JavaScript/7%20kyu/Exclamation%20marks%20series%20-8-%20Move%20all%20exclamation%20marks%20to%20the%20end%20of%20the%20sentence.js)
 - Exes and Ohs [&#128279;](https://www.codewars.com/kata/55908aad6620c066bc00002a)
